@@ -1,0 +1,2954 @@
+aur/xtbackup 0.8.7-1 (+0 0.00) 
+    PHP backup script/library with special drivers for MySQL, Amazon RDS and Amazon S3.
+aur/firefox-extension-amazon-container 2.0.0-1 (+0 0.00) 
+    Browser plugin to containerize Amazon and its affiliates.
+aur/r-paws.storage 0.9.0-1 (+0 0.00) 
+    'Amazon Web Services' Storage Services
+aur/s3-edit-git 0.0.16.r0.g9196f7f-1 (+0 0.00) (Orphaned) 
+    Edit directly a file on Amazon S3 in CLI
+aur/nodejs-aws-lib 0.3.0-1 (+0 0.00) 
+    Extensible Node.js library for the Amazon Web Services API
+aur/dns53-bin 0.11.0-1 (+0 0.00) 
+    Dynamic DNS within Amazon Route53. Expose your EC2 quickly, easily and privately
+aur/r-paws.common 0.8.4-1 (+0 0.00) 
+    Paws Low-Level Amazon Web Services API
+aur/sqltabs-bin 1.0.0-1 (+0 0.00) (Orphaned) 
+    Rich SQL client for Postgresql, MySQL, MS SQL, Amazon Redshift, Google Firebase (Firestore)
+aur/s3backer-nbd-git 2.1.1.r5.gb3db142-1 (+0 0.00) (Orphaned) 
+    FUSE-based single file backing store via Amazon S3 (with NBD support)
+aur/kindle-companion-bin 1.0.6-12 (+0 0.00) 
+    Kindle Companion enables readers to easily access and manage vocabulary lookups and clippings on their Amazon Kindle device.(Prebuilt version.Use system-wide electron)
+aur/s3-utils 1.1.0-1 (+0 0.00) (Orphaned) 
+    Utilities and tools based around Amazon S3 to provide convenience APIs in a CLI
+aur/riofs-git 0.6.r86.g40e5396-1 (+0 0.00) 
+    FUSE userspace filesystem for Amazon AWS S3 buckets
+aur/ecspresso-bin 2.5.0-1 (+0 0.00) 
+    ecspresso is a deployment tool for Amazon ECS
+aur/s3-edit 0.0.16-1 (+0 0.00) 
+    Edit directly a file on Amazon S3 in CLI
+aur/s3gof3r-bin 0.5.0-1 (+0 0.00) (Orphaned) 
+    Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI
+aur/libs3-git 278.287e4be-1 (+0 0.00) 
+    C Library and Tools for Amazon S3 Access
+aur/heroic-games-launcher-electron-git 2.17.0.r7.g4e9e57edb-1 (+0 0.00) 
+    Native GOG, Epic Games and Amazon games launcher for Linux, with the system electron (unsupported).
+aur/nosql-workbench 3.13.6-1 (+0 0.00) 
+    NoSQL Workbench for Amazon DynamoDB
+aur/davix-git 0.8.10.r0.gf8a307d0-1 (+0 0.00) 
+    Client for data and file management over the WebDav, Amazon S3, Microsoft Azure and HTTP procols
+aur/rds-cli 1.19.004-1 (+0 0.00) 
+    The Command Line Toolkit for the Amazon Relational Database Service API
+aur/s3-edit-bin 0.0.16-1 (+0 0.00) 
+    Edit directly a file on Amazon S3 in CLI
+aur/zfs_uploader-git 0.9.0.r11.g0b9de48-2 (+0 0.00) 
+    Simple program for backing up full and incremental ZFS snapshots to Amazon S3
+aur/web-value-tracker-bin 1.0.2-2 (+0 0.00) 
+    Track any value on the web and get notified when it changes. Example: product prices on eBay, Amazon etc.(Prebuilt version)
+aur/bedrust 0.7.4-1 (+0 0.00) 
+    A command line tool to invoke and work with Large Language models on AWS, using Amazon Bedrock
+aur/mountpoint-s3-git 0.3.0.r404.7786053-1 (+0 0.00) 
+    A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+aur/geesefs-git 0.41.1.r2.g6d3112c-1 (+0 0.00) 
+    A high-performance, POSIX-ish S3 (Yandex, Amazon) file system written in Go (Git version).
+aur/s3find-bin 0.7.2-1 (+0 0.00) (Orphaned) 
+    A command line utility to walk an Amazon S3 hierarchy, an analog of find for Amazon S3
+aur/nodejs-node-lambda 0.22.0-1 (+0 0.00) (Orphaned) 
+    Command line tool to locally run and deploy your node.js application to Amazon Lambda
+aur/cloudman 0.1.7-1 (+0 0.00) 
+    A textual user interface (heavily inspired by htop) to manage your Amazon EC2 fleet
+aur/perl-amazon-s3 2.0.2-2 (+0 0.00) 
+    A portable client library for working with and managing Amazon S3 buckets and keys.
+aur/geesefs-bin 0.43.0-1 (+0 0.00) 
+    A high-performance, POSIX-ish S3 (Yandex, Amazon) file system written in Go.
+aur/goofys-git 907v0.24.0-1 (+0 0.00) 
+    A high-performance, POSIX-ish Amazon S3 file system written in Go
+aur/mymedia 1.3.141.0-1 (+0 0.00) 
+    Application to stream local media to amazon alexa enabled devices
+aur/silo-amazon 0.3-1 (+0 0.00) 
+    Standalone silo app for Amazon (US and IT versions)
+aur/eksctl-latest latest-1 (+0 0.00) 
+    The official CLI for Amazon EKS
+aur/ecspresso 1.7.12-1 (+0 0.00) (Orphaned) (Out-of-date: 2024-02-28) 
+    Deployment tool for Amazon ECS
+aur/goofys-bin 0.24.0-1 (+1 0.00) 
+    Goofys is a high performance Amazon S3 backend filey-system interface
+aur/s3backer-git r827.6a07e58-1 (+1 0.00) 
+    FUSE-based single file backing store via Amazon S3 compatible services
+aur/perl-amazon-ses 0.06-1 (+1 0.00) 
+    Perl Amazon::SES CPAN module
+aur/nile-git 1.1.0.r0.g55287cd-2 (+1 0.00) (Orphaned) 
+    Unofficial Amazon Games client
+aur/codedeploy-agent-bin 1.7.1_110-1 (+1 0.00) 
+    AWS CodeDeploy is a deployment service that enables developers to automate the deployment of applications to instances and to update the applications as required. See: https://aws.amazon.com/documentation/codedeploy/ for details
+aur/bedrust-git 0.7.4-1 (+1 0.00) 
+    A command line tool to invoke and work with Large Language models on AWS, using Amazon Bedrock
+aur/silo-primevideo 0.5-1 (+1 0.00) 
+    Standalone silo app for Amazon Primevideo
+aur/copilot-cli 1:1.34.0-1 (+1 0.00) 
+    A tool to help deploy containerized applications on Amazon ECS
+aur/s3fs-fuse-git 1.79.r684.845fdb4-1 (+2 0.00) 
+    FUSE-based file system backed by Amazon S3 with OpenSSL support
+aur/ruby-fog-aws 3.22.0-1 (+2 0.00) (Orphaned) (Out-of-date: 2025-02-26) 
+    Module for the 'fog' gem to support Amazon Web Services.
+aur/certbot-s3front 0.4.2-2 (+0 0.00) 
+    Amazon S3/Cloudfront plugin for Let’s Encrypt client
+aur/scylla-bin 6.2.3-1 (+3 1.00) 
+    The real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB
+aur/gsts 5.0.4-1 (+3 0.00) 
+    Obtain and store AWS STS credentials to interact with Amazon services by authenticating via G Suite SAML.
+aur/perl-net-amazon-signature-v4 0.22-1 (+1 0.01) 
+    Implements the Amazon Web Services signature version 4, AWS4-HMAC-SHA256
+aur/cli53 0.8.17-1 (+3 0.00) (Orphaned) (Out-of-date: 2021-03-07) 
+    Command line tool for Amazon Route 53
+aur/python-anyconfig-ion-backend 0.2.0-1 (+0 0.00) 
+    Backend module for python-anyconfig to load and dump Amazon Ion data
+aur/lightsailctl 1.0.1-1 (+0 0.00) 
+    Amazon Lightsail CLI Extensions
+aur/s3cmd-git 2.1.0.r88.g27d8fb0-1 (+4 0.00) 
+    A command line client for Amazon S3 (development version)
+aur/kio-s3 r316.0c31fed-1 (+4 0.87) (Orphaned) 
+    A kio slave for Amazon Simple Storage Service (Amazon S3)
+aur/aws-mountpoint-s3-bin 1.18.0-1 (+2 0.00) 
+    Offical AWS S3 mount tools. This allows mounting S3 buckets into the file system. Not full POSIX support, see: https://docs.aws.amazon.com/AmazonS3/latest/userguide/mountpoint.html for details
+aur/imds-mock-bin 0.3.1-1 (+0 0.00) 
+    Easy mocking of the Amazon EC2 Instance Metadata Service (IMDS)
+aur/python3-synapse-s3-storage-provider 1.5.0-0 (+2 0.14) 
+    Synapse storage provider to fetch and store media in Amazon S3
+aur/heroic-games-launcher-git 2.16.0.r1.g26ec1ed84-1 (+6 0.10) 
+    Native GOG, Epic Games and Amazon games launcher for Linux
+aur/crossftp-client 1.99.9-3 (+6 0.00) 
+    Java based free platform-independent FTP, SFTP, FXP, WebDav, Amazon S3, Amazon Glacier, Microsoft Azure, Google storage, and OpenStack Swift client.
+aur/python-amazon-transcribe 0.6.4-1 (+1 0.21) 
+    Async Python SDK for Amazon Transcribe Streaming.
+aur/minio-git r3269.ec4260d-1 (+0 0.00) (Orphaned) (Out-of-date: 2024-01-20) 
+    Object storage server compatible with Amazon S3
+aur/python-requests-aws 0.1.8-1 (+0 0.00) 
+    AWS authentication for Amazon S3 for the python requests module
+aur/python-cloudpathlib 0.21.1-1 (+0 0.00) 
+    Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage.
+aur/perl-net-amazon 0.62-1 (+2 0.00) 
+    Framework for accessing amazon.com via REST
+aur/python-bottlenose-git 0.6.2.r113.bf4b02a-2 (+1 0.00) 
+    A stable, up-to-date Python 3 wraper for the Amazon Product Advertising API
+aur/dynamodb 2020_10_12-1 (+7 0.00) (Orphaned) (Out-of-date: 2023-07-09) 
+    Amazon DynamoDB Local instance. Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.
+aur/python-amazon.ion 0.13.0-1 (+0 0.00) 
+    A Python implementation of Amazon Ion
+aur/r-aws.signature 0.6.0-4 (+0 0.00) 
+    Amazon Web Services Request Signatures
+aur/python-minio-git r728.f1130fd-1 (+0 0.00) 
+    Minio Python Library for Amazon S3 Compatible Cloud Storage
+aur/duck 9.1.3.42945-1 (+9 0.06) 
+    Cyberduck CLI file transfer client for WebDAV HTTPS FTP-SSL SFTP Azure Backblaze B2 Google Cloud Drive Amazon S3 OpenStack Swift Rackspace DRACOON Dropbox OneDrive SharePoint
+aur/python-pynamodb 6.0.1-2 (+0 0.00) (Orphaned) 
+    A pythonic interface to Amazon's DynamoDB
+aur/python-flask-ask 0.8.8-1 (+1 0.00) 
+    Rapid Alexa Skills Kit Development for Amazon Echo Devices in Python.
+aur/awstail 1.5-2 (+0 0.00) 
+    A simple way to see your Amazon CloudWatch logs
+aur/python-pyalexa 0.1.1-2 (+1 0.00) 
+    Simple Python API for creating Amazon Echo skills
+aur/python-botocore-git 1.19.35-1 (+3 0.00) 
+    A low-level interface to a number of Amazon Web Services. This is the foundation for the AWS CLI as well as boto3
+aur/elasticmq 1.6.12-1 (+0 0.00) 
+    Amazon SQS compatible in-memory message queue
+aur/aws-ecs-cli 1.21.0-1 (+5 0.00) 
+    The Amazon EC2 Container Service (Amazon ECS) command line interface (CLI) provides high-level commands to simplify creating, updating, and monitoring clusters and tasks from a local development environment.
+aur/amazon-ec2-instance-selector-bin 3.1.1-1 (+0 0.00) 
+    A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory
+aur/awless 0.1.11-1 (+1 0.00) 
+    A command line interface for Amazon Web Services (AWS)
+aur/python-boto 2.49.0.20190327-9 (+1 0.00) (Installed)
+    A Python interface to Amazon Web Services (AWS)
+aur/audible-activator-git 1:0.2.r1.20210324.79e2cea-3 (+11 0.00) (Orphaned) 
+    A script to retrieve your activation data (activation_bytes) from Audible servers. Use it to play your aax or aax+ files downloaded from amazon audible. Needs chrome or chromium.
+aur/aws-cli-git 1.27.145.r11217.g5885ee4dc-1 (+8 0.00) (Out-of-date: 2024-03-10) 
+    Universal Command Line Interface for Amazon Web Services awscli
+aur/fotaq 1.1-3 (+19 0.01) 
+    "Flight of the Amazon Queen" is a graphical point-and-click adventure game
+aur/ttf-bookerly 8.32.0.100-2 (+12 0.00) 
+    Amazon's new typeface for Kindle.
+aur/amazon-workspaces-legacy-bin 4.7.0.4312-2 (+0 0.00) 
+    Amazon Workspace Client (Legacy version, only PCoIP)
+aur/amazon-corretto-19-bin 19.0.2.7.1-1 (+0 0.00) (Out-of-date: 2024-03-14) 
+    No-cost, multiplatform, production-ready distribution of OpenJDK
+aur/amazon-corretto-21-bin 21.0.6.7.1-1 (+0 0.00) 
+    No-cost, multiplatform, production-ready distribution of OpenJDK
+aur/heroic-games-launcher 2.16.1-1 (+28 0.63) (Out-of-date: 2025-05-23) 
+    Native GOG, Epic Games and Amazon games launcher for Linux
+aur/aws-cli-bin 1:2.27.34-1 (+13 2.87) 
+    Unified command line interface for Amazon Web Services (Amazon provided v2 binary release)
+aur/amzsear 2.0.1-1 (+1 0.00) (Orphaned) 
+    The unofficial Amazon search CLI & Python API
+aur/amazon-ecr-credential-helper 0.10.0-1 (+6 0.00) 
+    A credential helper for the Docker daemon that makes it easier to use Amazon EC2 Container Registry.
+aur/qtwebflix-git 0.1.r184.g3741139-1 (+35 0.03) (Installed: 0.1.r53.g07e98ba-1)
+    Standalone HD Netflix Browser using qt5-webengine (also supports Amazon prime, HBO Go, Hulu, Crunchy Roll)
+aur/amazon-ssm-agent-bin 3.3.2471.0-1 (+1 0.00) 
+    Amazon SSM Agent for managing EC2 Instances using the SSM APIs. See: https://aws.amazon.com/documentation/systems-manager/ for details
+aur/amazon-corretto-16 16.0.2.7.1-1 (+1 0.00) (Out-of-date: 2024-03-14) 
+    No-cost, multiplatform, production-ready distribution of OpenJDK
+aur/amazon-athena-odbc-bin 2.0.3.0-1 (+0 0.00) 
+    Amazon Athena ODBC Driver
+aur/amazon-corretto-17 17.0.14.7.1-1 (+2 0.00) 
+    No-cost, multiplatform, production-ready distribution of OpenJDK
+aur/amazon-ssm-agent 3.1.1767.0-1 (+0 0.00) (Orphaned) (Out-of-date: 2024-04-12) 
+    Amazon SSM Agent for managing EC2 Instances using the SSM APIs.
+aur/amusiz 1.3.4-1 (+4 0.00) (Out-of-date: 2023-10-31) 
+    A GTK Amazon Music client for Linux
+aur/amazon-dash-git v0.3.3.r21.g6bf9a33-1 (+1 0.00) (Orphaned) (Out-of-date: 2023-06-28) 
+    Hack your Amazon Dash to run what you want.
+aur/kindlegen 2.9-7 (+78 0.47) 
+    cli tool to build eBooks that can be used on Amazon’s Kindle platform (binary)
+aur/amazon-corretto-8 8.452.09.1-1 (+6 0.00) 
+    No-cost, multiplatform, production-ready distribution of OpenJDK
+aur/quarry 0.3.0.1-2 (+27 0.00) 
+    A multi-purpose GUI for Go, Amazons, and Othello
+aur/amazon-corretto-11 11.0.27.6.1-1 (+9 0.00) 
+    No-cost, multiplatform, production-ready distribution of OpenJDK
+aur/aws-cli-v2 2.27.33-1 (+48 6.60) 
+    Unified command line interface for Amazon Web Services (version 2)
+aur/heroic-games-launcher-bin 2.17.2-1 (+208 10.20) 
+    An Open source Launcher for Epic, Amazon and GOG Games
+aur/amazon-fonts Mar2020-2 (+2 0.00) 
+    Complete set of all Amazon fonts (Bookerly, Amazon Ember)
+aur/amazon-ecs-init 1.82.3-1 (+0 0.00) 
+    Amazon ECS Init
+aur/amazon-workspaces-bin 2024.8.5130-3 (+19 0.00) 
+    Amazon Workspace Client
+aur/amanda 3.5.4-1 (+12 0.00) 
+    Advanced Maryland Automatic Network Disk Archiver network backup for Linux Windows clients, supports SSH, AES, GPG, encryption, tape, RAIT, mirror, changers, Amazon S3, ipv6, DVD, NDMP, VTL, advanced scripting
+aur/amazon-q-bin 1.12.0-1 (+3 1.74) 
+    Amazon Q CLI for Linux. See: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html for details
+blackarch/pacu 1577.ba184d4-1 (11.2 MiB 13.5 MiB) [blackarch blackarch-exploitation] 
+    The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+blackarch/s3enum v1.0.0.r17.gc23237b-1 (1.8 MiB 5.3 MiB) [blackarch blackarch-recon blackarch-scanner] 
+    Amazon S3 bucket enumeration.
+blackarch/nimbostratus 54.c7c206f-5 (26.0 KiB 77.4 KiB) [blackarch blackarch-fingerprint blackarch-exploitation blackarch-fuzzer] 
+    Tools for fingerprintinging and exploiting Amazon cloud infrastructures.
+blackarch/python2-s3transfer 0.2.1-2 (85.5 KiB 726.5 KiB) 
+    An Amazon S3 Transfer Manager.
+blackarch/python2-boto 2.49.0.20190327-2 (1.3 MiB 13.4 MiB) 
+    Amazon Web Services Library.
+extra/s3fs-fuse 1.93-2 (255.7 KiB 632.7 KiB) (Installed)
+    FUSE-based file system backed by Amazon S3
+extra/davix 0.8.5-2 (987.8 KiB 3.1 MiB) 
+    A client for data and file management over the WebDav, Amazon S3, Microsoft Azure and HTTP protocols.
+extra/eksctl 0.208.0-1 (34.4 MiB 186.6 MiB) 
+    Command line tool for creating clusters on Amazon EKS
+extra/s3cmd 2.4.0-4 (245.5 KiB 1.3 MiB) (Installed)
+    A command line client for Amazon S3
+extra/aws-c-event-stream 0.5.4-1 (41.8 KiB 145.8 KiB) (Installed)
+    C99 implementation of the vnd.amazon.eventstream content-type
+extra/haskell-aws 0.24-222 (1.7 MiB 11.1 MiB) (Installed: 0.24-221)
+    Amazon Web Services (AWS) for Haskell
+extra/python-requests-aws4auth 1.3.1-1 (31.2 KiB 177.1 KiB) (Installed)
+    Amazon Web Services version 4 authentication for the Python Requests module
+extra/python-botocore 1.38.27-1 (7.1 MiB 103.0 MiB) (Installed)
+    A low-level interface to a growing number of Amazon Web Services
+extra/aws-cli 1.40.26-1 (2.2 MiB 13.0 MiB) (Installed)
+    Universal Command Line Interface for Amazon Web Services
+extra/minio 2025.05.24-1 (29.8 MiB 105.9 MiB) (Installed)
+    Object storage server compatible with Amazon S3
+extra/python-minio 7.2.15-1 (189.7 KiB 1.3 MiB) 
+    MinIO Python Library for Amazon S3 Compatible Cloud Storage
+extra/python-s3transfer 0.13.0-1 (144.5 KiB 946.4 KiB) (Installed)
+    Amazon S3 Transfer Manager for Python
+aur/ugrep-git 2.0.2.r1.gc47f5c5-1 (+0 0.00) 
+    Ultra fast interactive searcher of file systems, text and binary files, source code, archives, compressed files, documents, and more.
+aur/avalanchego v1.7.4-1 (+0 0.00) 
+    The avalanchego binary
+aur/chromium-extension-rggl-bin 6.1.5-5 (+0 0.00) 
+    Remove German Gender Language - chromium extension (binary version)
+aur/iwasm 2.3.0-1 (+0 0.00) 
+    Executable binary built with WAMR VMCore, supporting WASI and CLI
+aur/nbtworkbench-git 1.6.2-1 (+0 0.00) (Out-of-date: 2025-06-08) 
+    A modern NBT (Minecraft's Named Binary Tags) Editor written in Rust.
+aur/rymfony-bin 0.4.6-1 (+0 0.00) 
+    A command-line tool to mimic the behavior of the Symfony CLI binary (binary release)
+aur/python-bpylist2 4.1.1-1 (+0 0.00) (Orphaned) 
+    Parse and Generate binary plists and NSKeyedArchiver archives
+aur/dbz 0.1.5-1 (+0 0.00) 
+    A library (dbz-lib) and CLI tool (dbz-cli) for working with Databento Binary Encoding (DBZ) files
+aur/goweight 1.0.5-1 (+0 0.00) 
+    A tool to analyze and troubleshoot a Go binary size
+aur/loongarch64-linux-gnu-binutils-clfs-bin 2.41-2 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files, cross tool for Loongarch64 from clfs
+aur/openarena-complete-git 0.8.8.r2441.74046d7a-1 (+0 0.00) 
+    A violent, sexy, multiplayer first person shooter based on the ioquake3 engine (binary package)
+aur/python-lzstring 1.0.4-4 (+0 0.00) 
+    String encoding/decoding of binary data
+aur/ruby-cbor-diag 0.8.7-1 (+0 0.00) 
+    CBOR (Concise Binary Object Representation) diagnostic notation
+aur/tt2bin-git 1.0-1 (+0 0.00) 
+    Truth Table to Binary converter
+aur/device-flasher-bin 1.1.1-1 (+0 0.00) 
+    Install CalyxOS (binary release)
+aur/moocs-collect-cli-bin 0.3.1-1 (+0 0.00) 
+    CLI tool to download lecture slides from INIAD MOOCs (binary release)
+aur/python-pyparsedvd-git 0.0.3.0.ge2021f5-1 (+0 0.00) 
+    Parse and extract binary data from dvd files. (GIT version)
+aur/ocaml-yojson-git 20231123-1 (+0 0.00) 
+    Low level JSON binary for OCaml
+aur/perl-sereal 5.004-1 (+0 0.00) 
+    Perl/CPAN Module Sereal: Fast, compact, powerful binary (de-)serialization
+aur/mrvn-radiant-bin 2024.04.06.d98b662-1 (+0 0.00) 
+    MRVN-Radiant is a fork of netradiant-custom modified for Titanfall and Apex Legends mapping (binary release)
+aur/python-pyabf 2.3.5-1 (+0 0.00) 
+    A Python interface to files in the Axon Binary Format (ABF)
+aur/objgui-git r120.56beadc-1 (+0 0.00) 
+    ObjGui is a GUI disassembler and binary analysis tool utilizing GNU binutils.
+aur/zvm-bin 0.8.7-1 (+0 0.00) 
+    Version manager for Zig compilers (binary version)
+aur/python-auditwheel-bin 6.3.0-1 (+0 0.00) 
+    Auditing and relabeling cross-distribution Linux wheels. (Binary/wheel package)
+aur/openshift-developer-bin 3.16.1-1 (+0 0.00) 
+    Developer tools for OpenShift (odo), binary release
+aur/python-mot-epg-git 1.0.3.r9.g4b84f1f-1 (+0 0.00) 
+    Plugin to the python-mot library to handle DAB EPG binary encoding
+aur/pysbf-git 20210821-1 (+0 0.00) (Orphaned) 
+    Python module to parse Septentrio Binary Format (SBF) files generated by Septentrio receivers.
+aur/extract-xiso-bin 202505152050-1 (+0 0.00) 
+    Xbox ISO Creation/Extraction utility (binary release)
+aur/t2b-git 1:1.0.0.r26.g2aa5c32-1 (+0 0.00) 
+    A wicked-powerful text macro language for building binary files.
+aur/repo-make 3.2.0-1 (+0 0.00) 
+    Tool for autobuilding a repository full of PKGBUILD's into a working Arch Linux binary repository
+aur/thorium-browser-avx2-bin 130.0.6723.174-1 (+0 0.00) 
+    Thorium browser AVX2 build (RPM binary) – Chromium fork focused on performance and security
+aur/prometheus-blackbox-exporter-bin 0.26.0-1 (+0 0.00) 
+    Prometheus blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP (binary, not built from source).
+aur/uboot-mdb-dump-git r4.efb0157-1 (+0 0.00) 
+    a small script hacked together to convert a memory dump obtained by md.b in U-Boot via a serial console to binary form.
+aur/dotnet-runtime-8.0.300-bin 8.0.6.sdk302-6 (+0 0.00) 
+    The .NET Core runtime (binary)
+aur/impostor-server-bin 1.1.0-4 (+0 0.00) (Out-of-date: 2021-03-15) 
+    Unofficial dedicated server for Among Us (binary release).
+aur/flowfox-bin 137.0-1 (+0 0.00) 
+    Fork of Firefox with minimal changes, including rebinding of default keyboard shortcuts to better match Chromium. Not affiliated with Mozilla. (Binary version)
+aur/morfeusz2-bin 1.9.16-1 (+0 0.00) (Orphaned) (Out-of-date: 2023-07-09) 
+    Morphological analyser Morfeusz, binary version
+aur/pax-mc-bin 1.9.14-1 (+0 0.00) (Orphaned) 
+    The MC modpack manager for professionals. Binary version
+aur/imagot-bin 0.2.6-1 (+0 0.00) 
+    An image viewer made in godot (binary release)
+aur/clangd-aosopt 19.1.7-1 (+0 0.00) 
+    Standalone clangd binary, with a rough patch that fixes performance issue with large array of structure
+aur/ghostery-browser-bin 2024.8.1-1 (+0 0.00) 
+    Privacy aware web browser from Ghostery (binary release).
+aur/gat-bin 0.8.2-1 (+0 0.00) 
+    Cat alternative written in Go. Binary Version
+aur/iasimage-git 20190410.7799ac7-1 (+0 0.00) 
+    iasimage is a utility program for creating Intel Automotive Service (IAS) images, a binary file format understood by bootloaders to load and initialize Operating Systems or Hypervisors.
+aur/chromium-extension-copy-url-on-hover-bin 0.8.0-1 (+0 0.00) 
+    Copy URL On Hover - chromium extension (binary version)
+aur/gogo-bin 2.13.6-1 (+0 0.00) 
+    Precompiled binary for gogo, a versatile port-based automation engine for red team operations
+aur/hexpatch-git 1.12.0.r25.gcc36625-1 (+0 0.00) 
+    A binary patcher and editor with a TUI
+aur/dotnet-targeting-pack-8.0.300-bin 8.0.6.sdk302-6 (+0 0.00) 
+    The .NET Core targeting pack (binary)
+aur/checksec-rs 0.0.9-1 (+0 0.00) 
+    Fast multi-platform (ELF/PE/MachO) binary checksec written in Rust
+aur/aspnet-runtime-2.1 2.1.30.sdk818-2 (+0 0.00) 
+    The ASP.NET Core runtime binary version 2.1
+aur/rbmenu-bin 0.6.2-3 (+0 0.00) 
+    Rust Bookmark (d)Menu ; Pre compiled binary
+aur/gpbkdf2-bin 1.0-1 (+0 0.00) 
+    PBKDF2 key encoder for use in shell. Single, tiny binary. Written in Go
+aur/cardano-wallet-bin 1.33.0-1 (+0 0.00) (Orphaned) (Out-of-date: 2024-08-16) 
+    HTTP server & command-line for managing UTxOs and HD wallets in Cardano (binary package).
+aur/netventory-git r2.9a71679-1 (+0 0.00) 
+    Netventory is a fast single binary network scanning tool with a beautiful gui that runs on Linux, Mac or Windows
+aur/pass-it-on-server-bin 0.16.4-1 (+0 0.00) 
+    Pass-it-on server component binary only
+aur/ht-term-bin 0.3.0-1 (+0 0.00) 
+    headless terminal: wrap any binary with a terminal interface
+aur/mcdc-checker 1.5.0-2 (+0 0.00) 
+    A tool to check C/C++ source code for non tree-like binary decisions so that its MCDC test coverage can be assessed with GCov
+aur/helmsman-bin 3.15.0-1 (+0 0.00) 
+    Helmsman binary distribution
+aur/android-armv7a-eabi-libebml 1.4.5-3 (+0 0.00) 
+    Extensible Binary Meta Language library (Android armv7a-eabi)
+aur/pupdate-bin 4.4.1-1 (+0 0.00) 
+    Pupdate, a thing for updating your Analogue Pocket, binary release
+aur/python-github-binary-upload 0.1.10-1 (+0 0.00) 
+    A Python package which creates simple interactive menus on the command line.
+aur/reddcoin-bin 4.22.8-1 (+0 0.00) 
+    Reddcoin - The Original Social Cryptocurrency (Binary Version)
+aur/one-api-bin 0.6.10-1 (+0 0.00) 
+    LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.(Prebuilt version)
+aur/ruby-cbor-canonical 0.1.2-1 (+0 0.00) 
+    CBOR (Concise Binary Object Representation) old canonical encoding
+aur/ogre-pagedgeometry-bin 1.2.0-1 (+0 0.00) (Orphaned) 
+    Paged Geometry plugin for OGRE for fast rendering of trees and grass (binary release)
+aur/perl-tree-binary 1.09-1 (+0 0.00) 
+    Perl package for OO binary tree
+aur/terminal-yt-bin 2.0.5-1 (+0 0.00) 
+    A small newsboat-inspired terminal YouTube subscription manager written in Rust (binary)
+aur/kak-tree-sitter-git r761.c2624e9-1 (+0 0.00) 
+    A binary server that interfaces tree-sitter with kakoune.
+aur/tscli 0.0.7-1 (+0 0.00) 
+    tscli is a fast, single-binary CLI for the Tailscale HTTP API.
+aur/elfio-git Release_3.3.r39.gfd081b0-1 (+0 0.00) 
+    ELFIO is a small, header-only C++ library that provides a simple interface for reading and generating files in ELF binary format
+aur/octez-node-20 0_rc1-1 (+0 0.00) (Orphaned) (Out-of-date: 2025-01-05) 
+    Unofficial binary release for the octez-node from Octez 20
+aur/justdd-bin 0.1.3-2 (+0 0.00) 
+    JustDD - Simple graphical USB image writer for Linux and Windows ISOs (pre-built binary)
+aur/python-datastruct 1.0.0-1 (+0 0.00) 
+    Combination of struct and dataclasses for easy parsing of binary formats
+aur/plasma-system-ai-bin 1.0.0-1 (+0 0.00) 
+    Precompiled binary of Plasma System AI
+aur/python-construct-classes 0.1.2-1 (+0 0.00) 
+    Parse your binary data into dataclasses. Pack your dataclasses into binary data.
+aur/php83-igbinary 3.2.15-1 (+0 0.00) 
+    php83 extension igbinary
+aur/ocproxy-bin 1.60-3 (+0 0.00) 
+    A user-level SOCKS and port forwarding proxy for OpenConnect based on lwIP (binary release)
+aur/elftosb 5.1.19-3 (+0 0.00) 
+    ELF to Secure Binary Utility for NXP MCUs
+aur/moondust-project-stable-bin 0.4.3-7 (+0 0.00) 
+    Moondust Project (formerly known as PGE Project) is a free and open-source game engine and development kit for it, giving developers the ability to create platform games. (Binary package - stable branch)
+aur/python-pyxlsb 1.0.10-1 (+0 0.00) (Orphaned) 
+    Excel 2007-2010 Binary Workbook (xlsb) parser
+aur/python-gsd 3.2.1-1 (+0 0.00) 
+    GSD files store trajectories of the HOOMD-blue system state in a binary file with efficient random access to frames and allows all particle and topology properties to vary from one frame to the next.
+aur/dotnet-runtime-7.0-bin 7.0.16.sdk406-1 (+0 0.00) 
+    The .NET Core runtime (binary)
+aur/wootility3-appimage 3.6.16-2 (+0 0.00) 
+    Utility for configuring Wooting pre-Lekker keyboards (binary AppImage version)
+aur/m68k-palmos-elf-binutils 2.42-1 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files (m68k-palmos-elf)
+aur/ifrextractor-rs 1.5.1-3 (+0 0.00) 
+    Rust utility to extract UEFI IFR data found in a binary file into human-readable text.
+aur/rkbin-git r1826.a2a0b89-7 (+0 0.00) 
+    Rockchip Firmware and Tool Binarys
+aur/spark2014-bin 13.2.0-1 (+0 0.00) 
+    Formally defined programming language based on Ada (Binary version)
+aur/serial-monitor-rust-bin 0.3.5.1-1 (+0 0.00) 
+    Serial Monitor and Plotter written in Rust (pre-compiled binary)
+aur/avr-binutils-219 2.19.1a-1 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the avr architecture
+aur/dotnet-targeting-pack-3.0 3.0.3.sdk103-4 (+0 0.00) 
+    The .NET Core targeting pack (binary) - End-of-life
+aur/aurblobs 0.5.2-1 (+0 0.00) 
+    Automatically create binary repositories from AUR packages
+aur/chromium-extension-keepassxc-browser-bin 1.9.0.5-1 (+0 0.00) (Orphaned) (Out-of-date: 2025-02-28) 
+    KeePassXC Browser Integration - chromium extension (binary version)
+aur/audius-client-bin 1.5.55-1 (+0 0.00) 
+    The Decentralized Audius.co Client (binary release, system Electron)
+aur/emacs-ag-git 0.47.r50.gbd81d68-1 (+0 0.00) (Orphaned) 
+    An Emacs frontend to The Silver Searcher (binary name ag)
+aur/assemblyscript-git v0.19.16.r1.g250dc70b4-2 (+0 0.00) 
+    Compiles TypeScript to WebAssembly using Binaryen
+aur/chksum-bin-git 0.1-1 (+0 0.00) 
+    Check and compare easily the checksum of a file (binary version).
+aur/goshimmer-bin 0.8.10-1 (+0 0.00) (Orphaned) 
+    GoShimmer implementation of Coordicide (official precompiled binary)
+aur/electron-launcher 1.0-1 (+0 0.00) 
+    Launcher script that forwards to the latest installed electronXX binary
+aur/aspnet-targeting-pack-3.0 3.0.3.sdk103-4 (+0 0.00) 
+    The ASP.NET Core targeting pack (binary) - End-of-life
+aur/prosody-mod-auth-external-hg tip-2 (+0 0.00) 
+    Authenticate Prosody users using a custom binary/script (DEPRECATED UPSTREAM)
+aur/nali-nt-bin 1.7.5-1 (+0 0.00) 
+    集成了 NextTrace LEOMOEAPI 的 nali; 一个查询 IP 地理信息和 CDN 服务提供商的离线终端工具. An offline tool for querying IP geographic information and CDN provider. (Binary Package)
+aur/warfork-bin 2.15.1-1 (+0 0.00) 
+    Free online multiplayer competitive FPS based on the Qfusion engine (official binary via Steam)
+aur/aspnet-runtime-3.0 3.0.3.sdk103-4 (+0 0.00) 
+    The ASP.NET Core runtime (binary) - End-of-life
+aur/protodata-git r125.51de27b-1 (+0 0.00) 
+    Protodata is a language for describing binary data, originally written for prototyping and reverse engineering binary file formats.
+aur/python-av-bin 14.1.0-1 (+0 0.00) 
+    Pythonic bindings for FFmpeg's libraries (binary package)
+aur/chim 1.1.2-1 (+0 0.00) (Orphaned) 
+    Cross-platform binary shims with optional remote fetching
+aur/neo4j-community-bin 2025.05.0-1 (+0 0.00) 
+    A fully transactional graph database implemented in Java (binary package)
+aur/cargo-selector 0.9.0-1 (+0 0.00) 
+    Cargo subcommand to select and execute binary/example targets
+aur/gpbkdf2-git r8.428e2de-1 (+0 0.00) 
+    PBKDF2 key encoder for use in shell. Single, tiny binary. Written in Go
+aur/keepassxc-allow-aur-extension-origin-bin 2.7.7-2 (+0 0.00) 
+    Cross-platform community-driven port of Keepass password manager (binary version)
+aur/grpc-csharp-plugin-bin 2.67.0-1 (+0 0.00) 
+    Pre-compiled grpc_csharp_plugin binary extracted from Grpc.Tools NuGet package
+aur/python-mmtf 1.1.3-1 (+0 0.00) 
+    The macromolecular transmission format (MMTF) is a binary encoding of biological structures.
+aur/new-e 3.21-1 (+0 0.00) 
+    A text editor that can process files as single-byte characters, as UTF-8 multibyte characters, or as binary bytes, runs as an interactive screen editor, but it can also run as a line-by-line editor, interactively or driven by a script
+aur/koyeb-cli-bin 5.4.3-1 (+0 0.00) (Out-of-date: 2025-05-28) 
+    koyeb cli binary
+aur/nextpvr-bin 7.0.1-1 (+0 0.00) 
+    NextPVR binary distribution
+aur/sh3eb-elf-binutils 2.42-3 (+0 0.00) 
+    GNU binary utilities for the sh3eb-elf target.
+aur/ht-term 0.3.0-1 (+0 0.00) 
+    headless terminal: wrap any binary with a terminal interface
+aur/pacdef-bin 1.6.0-1 (+0 0.00) 
+    multi-backend declarative package manager for Linux, binary version
+aur/android-x86-64-libebml 1.4.5-3 (+0 0.00) 
+    Extensible Binary Meta Language library (Android x86-64)
+aur/skycoin-bin 0.27.1-2 (+0 0.00) 
+    Skycoin Cryptocurrency Wallet; Binary Release
+aur/hdiffpatch-bin 4.8.0-2 (+0 0.00) 
+    a C\C++ library and command-line tools for Diff & Patch between binary files or directories(folder)
+aur/anarch-bin 0.1.0-1 (+0 0.00) 
+    Arch Linux config manager (binary only)
+aur/neocities-deploy-bin 0.1.15-4 (+0 0.00) 
+    Command-line tool for deploying your Neocities site (prebuilt statically-linked binary)
+aur/php83-cli-static-bin 8.3.20-1 (+0 0.00) 
+    A general-purpose scripting language that is especially suited to web development (8.3.x static precompiled binary)
+aur/rebol3_binary gbf237fc.static-1 (+0 0.00) 
+    Rebol 3: Most software systems have become needlessly complex. We rebel against that complexity, fighting it with the most powerful tool available, language itself.
+aur/patchup 0.1.0-1 (+0 0.00) 
+    A tool to compute and apply binary patches for files and directories
+aur/ostree-git 2020.8+8+g024b169a-1 (+0 0.00) (Orphaned) (Out-of-date: 2024-12-22) 
+    Operating system and container binary deployment and upgrades
+aur/openarena-git 0.8.8.r2428.f507a7a8-2 (+0 0.00) 
+    A violent, sexy, multiplayer first person shooter based on the ioquake3 engine (binary package)
+aur/playlist-maker-rs-bin 0.6.0-1 (+0 0.00) 
+    M3u playlist creator that uses query-like statments to find the requested songs, implemented in Rust: binary version
+aur/substratumnode-cli 0.4.6-1 (+0 0.00) 
+    Command line binary of SubstratumNode. SubstratumNode is the foundation of the decentralized SubstratumNetwork. SubstratumNodes work together to relay CORES packages and content on the network.
+aur/rspnvpk-bin 1.2.9-2 (+0 0.00) 
+    RSPNVPK is a command line VPK repacking tool for Titanfall 2 (binary release)
+aur/switcheroo-bin 0.6.0-1 (+0 0.00) 
+    A cross platform, Rust implementation for the Tegra X1 bootROM exploit (binary release)
+aur/elf-strings 0.9.1-1 (+0 0.00) 
+    elf-strings will programmatically read an ELF binary's string sections within a given binary. This is meant to be much like the strings UNIX utility, however is purpose built for ELF binaries.
+aur/tacentview-bin 1.0.46-1 (+0 0.00) 
+    Image viewer/editor for tga, png, apng, exr, dds, pvr, ktx, ktx2, astc, pkm, qoi, gif, hdr, jpg, tif, ico, webp, and bmp files (binary release)
+aur/ruby-cbor-deterministic 0.1.3-1 (+0 0.00) 
+    CBOR (Concise Binary Object Representation) deterministic encoding
+aur/tag-ag v1.4.0-1 (+0 0.00) 
+    tag: Instantly jump to your ag matches (Precompiled binary from official repository)
+aur/dotnet-sdk-8.0.300-bin 8.0.6.sdk302-6 (+0 0.00) 
+    The .NET Core SDK (binary)
+aur/python-gguf 0.17.0-1 (+0 0.00) 
+    for writing binary files in the GGUF (GGML Universal File) format.
+aur/ossia-score-bin 3.5.2-1 (+0 0.00) 
+    An interactive sequencer for the intermedia arts (binary release)
+aur/psp-sdk-bin 20250411-1 (+0 0.00) 
+    PlayStation Portable Software Development Kit (binary version)
+aur/revng-bin 0.0.0.r2.g8cc34f32-1 (+0 0.00) 
+    An open source binary analysis framework based on LLVM and QEMU
+aur/octez-smart-rollup-node 21.1-1 (+0 0.00) 
+    Unofficial binary release for the octez-smart-rollup-node from Octez
+aur/osm-bin 0.2.0-2 (+0 0.00) 
+    The Open Service Mesh CLI - binary
+aur/inky-bin 0.15.1-1 (+0 0.00) 
+    Editor for ink: inkle's narrative scripting language - precompiled binary
+aur/radius2-git v1.0.16.r30.gbf92f44-1 (+0 0.00) 
+    fast binary emulation and symbolic execution framework using radare2
+aur/ttf-philosopher-google 20110831-2 (+0 0.00) 
+    Universal font inspired by Agfa Rotis and ITC Binary. Extended by Google-fonts.
+aur/ruby-cbor-packed 0.1.5-1 (+0 0.00) 
+    CBOR (Concise Binary Object Representation) packer
+aur/octez-node-19 2-1 (+0 0.00) (Orphaned) (Out-of-date: 2025-01-05) 
+    Unofficial binary release for the octez-node from Octez 19
+aur/dfu-convert-git r8.e2b1c1c-1 (+0 0.00) (Orphaned) (Out-of-date: 2024-06-22) 
+    Tool that converts RAW binary firmware into DFU format and back
+aur/python-deltachat-bin 1.155.6-1 (+0 0.00) 
+    Python bindings for the Delta Chat Core library - Binary package
+aur/ortfo-bin 0.1.0.alpha.2-1 (+0 0.00) 
+    The GUI for ortfo, a portfolio manager (pre-built binary)
+aur/octez-node 21.1-1 (+0 0.00) 
+    Unofficial binary release for the octez-node from Octez
+aur/pkghist-bin 0.6.1-1 (+0 0.00) 
+    Query your pacman logs. Precompiled binary.
+aur/uncso2-bin 2.1.0-1 (+0 0.00) 
+    A file extractor for Counter-Strike: Online 2 and Titanfall Online (binary release)
+aur/loongarch64-linux-gnu-binutils 2.39-1 (+0 0.00) (Out-of-date: 2023-08-13) 
+    Assemble and manipulate binary and object files for 64-bit LoongArch
+aur/unison-gtk-2.48.4-compat-bin 2.48.4-3 (+0 0.00) 
+    GTK2-GUI for unison. Specific version 2.48.4, compatible with parallel installation to other versions of unison binaries (but pay attention to the local user configurations!). Prebuilt binary from debian, repackaged.
+aur/elfparser-git r7.39d21ca-1 (+0 0.00) 
+    Provides basic information and static analysis of an ELF binary.
+aur/vector_blf-git r480.g02f0a2f-1 (+0 0.00) 
+    This is a library to access Binary Log File (BLF) files from Vector Informatik.
+aur/jstrings 1.6-3 (+0 0.00) 
+    A tool for finding JIS-based Japanese characters in binary data
+aur/vkpeak-bin 20240505-2 (+0 0.00) 
+    A tool which profiles Vulkan devices to find their peak capacities. (Binary Package)
+aur/perl-sereal-encoder 5.004-1 (+0 0.00) 
+    Perl/CPAN Module Sereal::Encoder: Fast, compact, powerful binary serialization
+aur/moondust-project-master-bin 20240212-1 (+0 0.00) 
+    Moondust Project (formerly known as PGE Project) is a free and open-source game engine and development kit for it, giving developers the ability to create platform games. (Binary package - master branch, built by CI)
+aur/sast-evento-bin 2.0.74-0 (+0 0.00) 
+    An event management system developed and used by NJUPT SAST (binary package)
+aur/morebin 2.3.4-2 (+0 0.00) (Orphaned) (Out-of-date: 2024-02-20) 
+    'more' for binary files
+aur/pcb-app-git 0.1.0.r0.g1811676-1 (+0 0.00) 
+    This application is the main binary used for creating PCB plug-ins
+aur/python-cle-git 9.2.131.dev0.r1652.9fbf309-1 (+0 0.00) 
+    A binary loader in Python
+aur/m68k-atari-mint-binutils 2.30-2 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the M68K architecture
+aur/python-bpylist2-git 3.0.3.r3.gddb89e0-2 (+0 0.00) 
+    Parse and Generate binary plists and NSKeyedArchiver archives
+aur/dotnet-sdk-7.0-bin 7.0.16.sdk406-1 (+0 0.00) 
+    The .NET Core SDK (binary)
+aur/acmetool-bin 0.0.67-3 (+0 0.00) (Orphaned) 
+    Command line tool for automatically acquiring certificates from ACME servers (official precompiled cgo binary)
+aur/oreo-cursors-bin 2025.2.10-1 (+0 0.00) 
+    Oreo cursors (binary)
+aur/wpc-bin 1.9.0-1 (+0 0.00) 
+    Automatic Wallpaper Changer which can retrieve wallpapers from Wallhaven and Reddit (binary release)
+aur/deadbeef-plugin-gui-qt5-bin 1.9-1 (+0 0.00) 
+    Qt5 plugin for DeaDBeeF (binary release)
+aur/ifrextractor-rs-bin 1.5.1-1 (+0 0.00) 
+    Rust utility to extract UEFI IFR data found in a binary file into human-readable text.
+aur/python-pyparsebluray-git 0.1.4.0.g5e08b7f-1 (+0 0.00) 
+    Parse and extract binary data from bluray files. (GIT version)
+aur/x86-64-pc-freebsd13-binutils 2.40-2 (+0 0.00) (Out-of-date: 2024-08-15) 
+    A set of programs to assemble and manipulate binary and object files for the ARM64 target
+aur/perl-sereal-decoder 5.004-1 (+0 0.00) 
+    Perl/CPAN Module Sereal::Decoder: Fast, compact, powerful binary deserialization
+aur/mozillavpn-bin 2.28.0-1 (+0 0.00) 
+    Fast, secure, and easy to use VPN from the makers of Firefox (Ubuntu PPA binary)
+aur/cx-bin 0.7.1-7 (+0 0.00) (Out-of-date: 2025-03-04) 
+    CX Blockchain Programming Language; latest binary release. skycoin.com/cx
+aur/x86_64-pc-freebsd13-binutils 2.40-2 (+0 0.00) (Out-of-date: 2024-02-01) 
+    A set of programs to assemble and manipulate binary and object files for the FreeBSD target
+aur/dcompass-bin 20210812_0958-1 (+0 0.00) (Orphaned) 
+    A high-performance programmable DNS component aiming at robustness, speed, and flexibility (binary release)
+aur/avr-binutils-220 2.20.1a-2 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the avr architecture
+aur/chromium-extension-ublock-origin-bin 1.4.4-3 (+0 0.00) 
+    An efficient blocker - chromium extension (binary version)
+aur/avalanchego-bin v1.9.8-1 (+0 0.00) 
+    The avalanchego binary
+aur/dotnet-targeting-pack-7.0-bin 7.0.16.sdk406-1 (+0 0.00) 
+    The .NET Core targeting pack (binary)
+aur/aurblobs-git r81.93ec861-1 (+0 0.00) 
+    Automatically create binary repositories from AUR packages
+aur/python-pybfd3-git 0.1.5-1 (+0 0.00) 
+    A Python (3.x compatible) interface to the GNU Binary File Descriptor (BFD) and opcodes library
+aur/x86_64-pc-openbsd7-binutils 2.40-2 (+0 0.00) (Out-of-date: 2024-08-15) 
+    A set of programs to assemble and manipulate binary and object files for the FreeBSD target
+aur/elftosb-bin 5.1.19-2 (+0 0.00) 
+    ELF to Secure Binary Utility for NXP MCUs
+aur/ia32_aout-dkms 5.8-1 (+0 0.00) 
+    ia32_aout kernel module, for running an a.out binary format (DKMS)
+aur/double-conversion-git 3.3.0.r2.gd42b33c-1 (+0 0.00) 
+    Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
+aur/ia32_aout 4.16-2 (+0 0.00) 
+    ia32_aout kernel module, for running an a.out binary format
+aur/dotnet-runtime-3.0 3.0.3.sdk103-4 (+0 0.00) 
+    The .NET Core runtime (binary) - End-of-life
+aur/atelierb-bin 24.04.2-1 (+0 0.00) 
+    The industrial tool to efficiently deploy the B Method (precompiled binary)
+aur/python-plyfile 1.1.2-1 (+0 0.00) 
+    Read and write ASCII and binary PLY files
+aur/axmldec 1.2.0-2 (+0 0.00) 
+    Stand-alone binary AndroidManifest.xml decoder
+aur/primemodule 1.0.0-1 (+0 0.00) 
+    C++ header-only library, binary and FFI library for factorizing huge (up to 2^63-1) numbers (optimized for huge semiprimes).
+aur/aspnet-targeting-pack-8.0.300-bin 8.0.6.sdk302-6 (+0 0.00) 
+    The ASP.NET Core targeting pack (binary)
+aur/python-phoebe 2.3.7-1 (+0 0.00) 
+    An eclipsing binary modeling code - reproducing and fitting light curves, radial velocity curves, and spectral line profiles of eclipsing systems.
+aur/aspnet-targeting-pack-7.0-bin 7.0.16.sdk406-1 (+0 0.00) 
+    The ASP.NET Core targeting pack (binary)
+aur/goenvtemplator-git v2.1.0.r1.g172ef96-1 (+0 0.00) 
+    Tool to template configuration files by environment variables and optionally replace itself with the target binary.
+aur/obsidian-bin 1.8.10-2 (+0 0.00) 
+    A powerful knowledge base that works on top of a local folder of plain text Markdown files (Official binary package with bundled Electron)
+aur/chicken-srfi-74 0.1-1 (+0 0.00) (Orphaned) 
+    SRFI-74: Octet-Addressed Binary Blocks for Chicken Scheme
+aur/xd-rs 0.0.4-1 (+0 0.00) 
+    xd - A tool to dump binary input in a variety of formats
+aur/prometheus-redis-exporter-bin 1.4.0-1 (+0 0.00) (Orphaned) (Out-of-date: 2023-10-01) 
+    Prometheus exporter for Redis (binary)
+aur/aspnet-runtime-8.0.300-bin 8.0.6.sdk302-6 (+0 0.00) 
+    The ASP.NET Core runtime (binary)
+aur/fq-git 0.3.0.r0.gbafc8e3d-1 (+0 0.00) 
+    Tool, language and decoders for inspecting binary data (git)
+aur/aspnet-runtime-7.0-bin 7.0.16.sdk406-1 (+0 0.00) 
+    The ASP.NET Core runtime (binary)
+aur/kubectl-trace-bin 0.1.0_rc.1-1 (+0 0.00) 
+    Schedule bpftrace programs on your kubernetes cluster using the kubectl (official binary version)
+aur/native-image-jdk16-bin 21.2.0-1 (+0 0.00) 
+    Plugin to turn GraalVM-based applications into native binary images (Java 16 version)
+aur/android-xml-converter 1-1 (+0 0.00) 
+    Android Binary XML (ABX) conversion tools
+aur/goweight-bin 1.0.5-1 (+0 0.00) (Orphaned) 
+    A tool to analyze and troubleshoot a Go binary size
+aur/keyviz-bin 2.0.0a-1 (+0 0.00) (Orphaned) (Out-of-date: 2024-08-12) 
+    A free and open-source tool to visualize your keystrokes keyboard in real-time (Official GNU/Linux build, binary)
+aur/asitic-bin 20011105-1 (+0 0.00) 
+    Analysis and Simulation of Spiral Inductors and Transformers for ICs (32-bit binary)
+aur/mapshot-bin 0.0.26-1 (+0 0.00) 
+    Tool to export Factorio saves as zoomable HTML maps (binary release)
+aur/gpbkdf2 1.0-1 (+0 0.00) 
+    PBKDF2 key encoder for use in shell. Single, tiny binary. Written in Go
+aur/easy-novnc-git v1.1.0.r8.g6e198aa-1 (+0 0.00) 
+    An easy way to run a noVNC instance and proxy with a single binary.
+aur/arweave-deploy-bin 1.9.0-1 (+0 0.00) 
+    Arweave-deploy binary with bundled nodejs
+aur/catv 1.0.0-1 (+0 0.00) 
+    Clipboard utility supporting text and binary files
+aur/artifactory-cpp-ce 6.16.0-1 (+0 0.00) 
+    Artifactory is an advanced Binary Repository Manager for use by build tools, dependency management tools and build servers
+aur/emusicj-bin 0.28-1 (+0 0.00) 
+    Download manager for the eMusic.com music service. Pre-compiled binary from official repository
+aur/cvrx-appimage 1.0.5-1 (+0 0.00) 
+    A standalone companion app for ChilloutVR that expands the user experience! (binary AppImage version)
+aur/proxmox-backup-client-bin 3.4.1_1-3 (+0 0.00) 
+    Client for Proxmox Backup Server (binary release from Debian)
+aur/arm-linux-musleabihf-cross-bin 11.2-1 (+0 0.00) 
+    Static, binary released musl-based cross-compilation toolchain provided by musl.cc
+aur/r-blockcluster 4.5.5-1 (+0 0.00) 
+    Co-Clustering Package for Binary, Categorical, Contingency and Continuous Data-Sets
+aur/i686-elf-binutils-bin 2.41-1 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the i686-elf target
+aur/xdelta3-cross-gui-bin 1.7.1-1 (+0 0.00) 
+    A cross-platform GUI for creating xDelta3 patches (binary release)
+aur/ptr89-git 1.0.4-1 (+0 0.00) 
+    Yet another binary pattern finder.
+aur/python2-ubjson 0.9.0-1 (+0 0.00) 
+    Universal Binary JSON encoder/decoder
+aur/application-inspector-bin 1.9.16-1 (+0 0.00) 
+    A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine (binary release)
+aur/ft32-elf-binutils 2.37-2 (+0 0.00) (Orphaned) (Out-of-date: 2022-08-25) 
+    A set of programs to assemble and manipulate binary and object files for the Bridgetek FT9xx (bare-metal) target
+aur/python-binsync 4.4.2-00 (+0 0.00) 
+    A Collaboration framework for binary analysis tasks.
+aur/r-rocit 2.1.2-1 (+0 0.00) 
+    Performance Assessment of Binary Classifier with Visualization
+aur/guacamole-client-bin 1.5.5-1 (+0 0.00) 
+    Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH. guacamole-client provides the client to be served by your servlet container. Binary prebuilt from Apache.
+aur/psi3-bin 3.4.0.6-3 (+0 0.00) 
+    An open-source program for computing molecular properties using high-accuracy, ab initio, quantum mechanical models. (Debian binary build)
+aur/hysteria1-bin 1.3.5-2 (+0 0.00) 
+    A feature-packed network utility optimized for networks of poor quality (Binary Release) (Legacy Version)
+aur/packetcrypt 0.5.2-1 (+0 0.00) (Out-of-date: 2024-11-03) 
+    PacketCrypt implementation in Rust (Github binary release)
+aur/apm_planner-bin 2.0.26-2 (+0 0.00) (Orphaned) (Out-of-date: 2024-12-21) 
+    Ground Control Station for MAVlink based autopilots (e.g. Ardupilot) (binary version)
+aur/sh4eb-nofpu-elf-binutils 2.31.1-1 (+0 0.00) (Orphaned) (Out-of-date: 2019-06-10) 
+    GNU binary utilities for the sh4eb-nofpu-elf target.
+aur/opera-extras-bin 0.97.0-1 (+0 0.00) 
+    Full-featured DRM playback support of pre-built BINARY FFmpeg (NW.JS) for Opera One web browser
+aur/quakeinjector-bin alpha06-1 (+0 0.00) 
+    Download, install and play quake singleplayer maps from the quaddicted.com archive, binary distribution
+aur/android-x86-libebml 1.4.5-3 (+0 0.00) 
+    Extensible Binary Meta Language library (Android x86)
+aur/mdlshit-bin 2.3.2-3 (+0 0.00) 
+    source engine .mdl v49 -> v53 converter (binary release)
+aur/android-riscv64-libebml 1.4.5-3 (+0 0.00) 
+    Extensible Binary Meta Language library (Android riscv64)
+aur/cryptocam-companion-bin 0.2.3-1 (+0 0.00) 
+    A tool to decrypt files created by Cryptocam (binary release)
+aur/android-aarch64-libebml 1.4.5-3 (+0 0.00) 
+    Extensible Binary Meta Language library (Android aarch64)
+aur/python-kbinxml 1.7-2 (+0 0.00) (Out-of-date: 2024-11-27) 
+    Decoder/encoder for Konami's binary XML format
+aur/hysteria-bin 2.6.2-1 (+0 0.00) 
+    A powerful, lightning fast and censorship resistant proxy (Binary Release)
+aur/amdgpu_top-tui-bin 0.10.5-1 (+0 0.00) 
+    Tool to display AMDGPU usage (TUI only version, binary release)
+aur/apertium-viewer-bin 2.6.0-1 (+0 0.00) 
+    A tool to view and edit the output of the various stages of an apertium translation. (binary)
+aur/nssnippets-bin 1.5.0-1 (+0 0.00) 
+    A command-line tool for generating NWScript VSC snippets (binary version)
+aur/rosbe-ci-bin 2.2.1-1 (+0 0.00) 
+    ReactOS Build Environment binary for CI builds
+aur/r-ompbam 1.12.0-1 (+0 0.00) 
+    C++ Library for OpenMP-based multi-threaded sequential profiling of Binary Alignment Map (BAM) files
+aur/le-git 1.16.8-1 (+0 0.00) 
+    A text editor in memorial to Norton Editor with block and binary operations
+aur/rabbit-plugin-bin 0.1.5-1 (+0 0.00) (Orphaned) 
+    A SIP003 plugin based on rabbit-tcp for shadowsocks (binary version)
+aur/marmite-bin 0.2.5-1 (+0 0.00) 
+    Markdown makes sites - A Static Site Generator for Blogs. Binary From GitHub Release
+aur/kodi-setwakeup 1.0.1-1 (+0 0.00) 
+    Helper binary to call kodi setwakeup.sh with root privileges
+aur/outline-ss-server-bin 1.9.1-3 (+0 0.00) 
+    Outline Shadowsocks server (binary)
+aur/memtypetool-bin 1.0.1-2 (+0 0.00) (Out-of-date: 2024-04-04) 
+    GUI Tool for the MemType Hardware Password Manager (Binary version)
+aur/python-angr-git 9.2.131.dev0.r12749.3d2252404-1 (+0 0.00) 
+    A powerful and user-friendly binary analysis platform
+aur/z80-elf-binutils 2.43-1 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the Z80 (bare-metal) target
+aur/dotnet-sdk-2.2-vs2017 2.2.8.sdk110-1 (+0 0.00) 
+    The .NET Core SDK binary version 2.2 - latest (End of Life) Visual Studio 2017 compatible
+aur/hasklock 0.1.1-2 (+0 0.00) (Out-of-date: 2023-06-27) 
+    A binary clock in ncurses written in Haskell
+aur/dotnet-sdk-3.0 3.0.3.sdk103-4 (+0 0.00) 
+    The .NET Core SDK (binary) - End-of-life
+aur/android-xml-converter-git 1.r14.gca2d429-1 (+0 0.00) 
+    Android Binary XML (ABX) conversion tools
+aur/php74-igbinary 3.2.15-1 (+0 0.00) 
+    A drop in replacement for the standard php serializer (PHP 7.4)
+aur/android-xml-converter-bin 1-1 (+0 0.00) 
+    Android Binary XML (ABX) conversion tools
+aur/edid-generator-git r30.20231120.476a016-2 (+0 0.00) 
+    Hackerswork to generate an EDID binary file from given Xorg Modelines.
+aur/r-ibbig 1.52.0-1 (+0 0.00) 
+    Iterative Binary Biclustering of Genesets
+aur/dotnet-sdk-6.0.110-bin 6.0.10.sdk110-3 (+0 0.00) 
+    The .NET Core SDK (binary)
+aur/mev-boost-bin 1.9-1 (+0 0.00) 
+    MEV-Boost allows Ethereum validators to source high-MEV blocks from a competitive builder marketplace. Binary distribution.
+aur/pokenurse-bin 2.2.0-1 (+0 0.00) (Out-of-date: 2018-10-26) 
+    A tool for Pokémon Go to aid in transferring and evolving Pokémon (Binary)
+aur/fvc-bin 2.3.2-12 (+0 0.00) 
+    File Version Control (FVC) is a tool designed to give automated version control abilities (similar to Git) to those working with binary and media files, where traditional version control is not possible.(Prebuilt version.Use system-wide electron)
+aur/unison-2.48.4-compat-bin 2.48.4-5 (+0 0.00) 
+    File-synchronization tool. Specific version 2.48.4, compatible with parallel installation to other versions of unison binaries (but pay attention to the local user configurations!). Prebuilt binary from debian, repackaged.
+aur/ruby-filesize 0.2.0-1 (+0 0.00) 
+    filesize is a small class for handling filesizes with both the SI and binary prefixes, allowing conversion from any size to any other size.
+aur/chromium-extension-clearurls-bin 1.27.0-3 (+0 0.00) 
+    a chromium extension to automatically remove tracking elements from URLs to help protect your privacy (binary version)
+aur/harmonyvpktool-bin 2.0.0.alpha.4-1 (+0 0.00) 
+    An all new Titanfall VPK unpacker. Over 2x faster than the most popular alternative! (ALPHA binary pre-release)
+aur/sget-git r266.g99e7b91-1 (+0 0.00) 
+    Program for automatic verification of signatures and integration with Sigstore's binary transparency log
+aur/forskscope 0.22.4-1 (+0 0.00) 
+    Diff and merge GUI tool with cross-platform support build with Tauri: Rust and Svelte (Pre-built binary)
+aur/python-binary-memcached 0.31.4-1 (+0 0.00) 
+    A pure python module (thread safe) to access memcached via its binary protocol with SASL auth support
+aur/serve-d-bin 0.7.6-1 (+0 0.00) 
+    Microsoft language server protocol implementation for D using workspace-d (Binary Distribution)
+aur/dbow2-openvslam-git r39.adff102-1 (+0 0.00) 
+    Enhanced hierarchical bag-of-word library for C++ (modified to read/write in binary format)
+aur/pdsite-git latest-1 (+0 0.00) (Orphaned) 
+    Pandoc-backed static site generator shell script with precompiled binary dependencies.
+aur/grok-exporter 0.2.6-1 (+0 0.00) 
+    Export Prometheus metrics from arbitrary unstructured log data (from binary release).
+aur/notparadoxlauncher-bin 1.3.1-1 (+0 0.00) (Orphaned) 
+    Alternative for Paradox Launcher; binary package avoiding large Lazarus download
+aur/php82-redis 6.0.2-1 (+0 0.00) 
+    An API for communicating with the Redis key-value store - no igbinary dependency
+aur/uf2conv-rs-git 0.1.0.r6.g8dd76fd-10 (+0 0.00) 
+    Converts binary files to Microsoft's UF2 format https://github.com/Microsoft/uf2
+aur/python-torchvision-rocm-bin 0.22.0-1 (+0 0.00) 
+    Datasets, transforms, and models specific to computer vision (binary release)
+aur/electron15-bin 15.5.7-2 (+0 0.00) 
+    Build cross platform desktop apps with web technologies - binary version 15
+aur/electron18-bin 18.3.15-2 (+0 0.00) 
+    Build cross platform desktop apps with web technologies - binary version 18
+aur/electron14-bin 14.2.9-1 (+0 0.00) 
+    Build cross platform desktop apps with web technologies - binary version 14
+aur/adobe-bin2c-git r28.4300880-1 (+0 0.00) 
+    Convert to/Embed binary files in C source files, quickly and efficiently.
+aur/postman2openapi-bin 1.2.1-1 (+0 0.00) 
+    Convert a Postman collection to an OpenAPI definition, binary release
+aur/python-nrf_regtool 9.1.0-1 (+0 0.00) 
+    Generate memory-mapped binary files of peripheral register content, based on System View Description (SVD) files and configuration files.
+aur/atl-git r318.d2a319c-1 (+0 0.00) (Orphaned) 
+    Libatl provides a library for the creation and manipulation of lists of name/value pairs using an efficient binary representation
+aur/python-bincopy 20.1.0-1 (+0 0.00) 
+    Mangling of various file formats that conveys binary information
+aur/openshift-pipelines-bin 1.18.0-1 (+0 0.00) 
+    Pipeline tools for OpenShift (tkn, tkn-pac, opc), binary release
+aur/craftos-pc-accelerated-bin 2.8.3-1 (+0 0.00) 
+    Advanced ComputerCraft emulator written in C++ (AppImage binary)
+aur/flemozi-bin 0.2.0-1 (+0 0.00) 
+    An advanced Emoji Picker written with Flutter (binary release)
+aur/albumartcreator-bin 0.1.2_beta-5 (+0 0.00) 
+    Create amazing looking Album Art in seconds! (binary release)
+aur/icu66-bin 66.1-1 (+0 0.00) 
+    International Components for Unicode library (binary release)
+aur/chromium-extension-return-youtube-dislike-bin 3.0.0.12-1 (+0 0.00) 
+    Return YouTube Dislike - chromium extension (binary version)
+aur/mnemonicode 0.73-3 (+0 0.00) (Out-of-date: 2024-01-13) 
+    Programs for encoding binary data into a sequence of words
+aur/r-treeandleaf 1.20.0-1 (+0 0.00) 
+    Displaying binary trees with focus on dendrogram leaves
+aur/perccli 7.2313.00-1 (+0 0.00) 
+    Proprietary controller binary for DELL PERC RAID cards.
+aur/emojimart-bin 0.3.0-1 (+0 0.00) 
+    Modern emoji picker popup for desktop (binary release)
+aur/chromium-extension-history-disabler-bin 2.1.0-3 (+0 0.00) 
+    disables history by deleting history when responsible tabs are closed - chromium extension (binary version)
+aur/kmonad-static 0.4.3-1 (+0 0.00) 
+    An advanced keyboard manager - static binary version
+aur/evolve-core-bin 1.7-1 (+0 0.00) 
+    Modern GTK Theme Manager for GNOME (binary release)
+aur/prometheus-consul-exporter-bin 0.13.0-1 (+0 0.00) 
+    Export Consul service health to Prometheus (binary)
+aur/cnijfilter-mx520series 3.90-1 (+0 0.00) 
+    Canon InkJet printer driver (MX520 series, binary)
+aur/cnijfilter-mx720series 3.90-1 (+0 0.00) 
+    Canon InkJet printer driver (mx720 series, binary)
+aur/perl-data-binary 0.01-2 (+0 0.00) 
+    Simple detection of binary versus text in strings
+aur/wfview-bin 2.03-2 (+0 0.00) 
+    Interface for Icom Transceivers - binary version
+aur/r-fingerprint 3.5.7-10 (+0 0.00) 
+    Functions to Operate on Binary Fingerprint Data
+aur/opensbi 1.6-2 (+0 0.00) 
+    RISC-V Open Source Supervisor Binary Interface
+aur/r-findpython 1.0.9-1 (+0 0.00) 
+    Functions to Find an Acceptable Python Binary
+aur/customfetch-gui-bin 1.0.0-1 (+0 0.00) 
+    Highly customizable and fast system information fetch program (GUI app) (Binary files)
+aur/ztui-bin 0.1.7-1 (+0 0.00) 
+    A terminal UI for ZeroTier - Binary release
+aur/r-hdf5r 1.3.12-1 (+0 0.00) 
+    Interface to the 'HDF5' Binary Data Format
+aur/python-binary 1.0.2-1 (+0 0.00) 
+    Easily convert between binary and SI units
+aur/customfetch-bin 1.0.0-1 (+0 0.00) 
+    Highly customizable and fast system information fetch program (Binary files)
+aur/perl-cbor-xs 1.87-1 (+0 0.00) 
+    Concise Binary Object Representation
+aur/portable-text-encryptor-bin 14.12-1 (+0 0.00) 
+    Single Linux or Windows binary for secure text encryption
+aur/lact-headless-bin 0.7.4-1 (+0 0.00) 
+    Linux GPU Configuration Tool (headless binary release)
+aur/cwe_checker 0.6-1 (+0 0.00) 
+    finds vulnerable patterns in binary executables
+aur/th 1.3.0-1 (+1 0.00) 
+    Embed/pack binary file into C/C++ header
+aur/python-amulet-nbt 2.1.4-1 (+1 0.00) 
+    A Python and Cython library for reading and writing binary NBT and stringified NBT
+aur/capter-bin 4.0.0-1 (+1 0.01) 
+    Cross-Platform Screen Capture and Annotation Tool (prebuilt binary)
+aur/izucat-git r15.7c30580-1 (+1 0.87) 
+    A program that can recursively concatenate (cat) text and binary files in a path to typst.
+aur/elasticvue-bin 1.7.0-1 (+1 0.09) 
+    Elasticvue is a GUI for Elasticsearch – binary release
+aur/odcread-git 0.2.r5.g9c09cc9-2 (+1 0.00) 
+    Reader/converter for 'Oberon compound document' binary format used by the Black Box Component Builder
+aur/ipget-bin 0.9.1-1 (+1 0.00) 
+    wget for IPFS: retrieve files over IPFS and save them locally. Binary Version (Requires working go-ipfs)
+aur/k6-studio-bin 1.3.0-1 (+1 0.57) 
+    Desktop application to help generate k6 test scripts (binary release)
+aur/r-blob 1.2.4-4 (+1 0.00) 
+    A Simple S3 Class for Representing Vectors of Binary Data ('BLOBS')
+aur/influxdb2-bin 2.6.1-1 (+1 0.00) 
+    Scalable datastore for metrics, events, and real-time analytics; Binary release;
+aur/udeler-bin 1.13.4-1 (+1 0.00) 
+    Unofficail binary installer for heliomarpm's fork of udeler
+aur/editorconfiger-bin 0.5.1-1 (+1 0.00) 
+    Plain tool to validate and compare .editorconfig files (binary release)
+aur/pktd 1.6.1-1 (+1 0.00) (Out-of-date: 2024-11-03) 
+    The PKT full node and wallet (Github binary release)
+aur/wabt-git 1.0.32.r51.g539c541b-2 (+1 0.87) 
+    The WebAssembly binary toolkit
+aur/rdis-git 20200602-1 (+1 0.00) (Orphaned) 
+    A graphic binary analysis tool. Check rdis-lua for some scripts that improve its functionality.
+aur/kr-bin 2.4.13-2 (+1 0.00) (Out-of-date: 2024-10-16) 
+    SSH using a key stored in Krypton (binary)
+aur/alertmanager-bin 0.28.1-1 (+1 0.00) 
+    Alertmanager handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integration (binary, not built from source)
+aur/lnch 1:6ed336d-1 (+1 0.00) 
+    A simple go binary that runs and disowns a command
+aur/wraith-master-bin 1.2.1-2 (+1 0.00) 
+    A Wraith Prism RGB control application (Binary Version)
+aur/wrappe-bin 1.0.4-1 (+1 0.04) 
+    Packer for creating self-contained single-binary applications from executables and directories
+aur/magiskboot-bin 28.1-1 (+1 0.00) 
+    magiskboot binary from magisk offical release
+aur/wxbin2c 1.0-1 (+1 0.00) 
+    A command line tool to create C files from binary files.
+aur/await 1.0.7-1 (+1 0.00) 
+    28kb small memory footprint single binary that run list of commands in parallel and waits for their termination
+aur/qtum-core-bin 0.27.1-4 (+1 0.00) 
+    Qtum Desktop Binary release
+aur/qbsolv 0.3.4-1 (+1 0.00) 
+    A decomposing solver that finds a minimum value of a large quadratic unconstrained binary optimization (QUBO) problem
+aur/pli-bin 1:1.1.0-1 (+1 0.00) (Orphaned) 
+    Iron Spring PL/I compiler - statically linked 386-binary
+aur/etcd-bin 3.6.1-1 (+1 0.05) 
+    A highly-available key value store for shared configuration and service discovery - binary version
+aur/mpdris-bin 1.2.0-2 (+1 0.09) 
+    A MPD client implementing the dbus MPRIS standard written in rust -- binary version
+aur/weidu-bin 249-1 (+1 0.00) 
+    A dialogue compiler for Infinity Engine games (precompiled binary)
+aur/kaitai-struct-compiler-serialization-git 0.10.r94.gf1dc857-1 (+1 0.00) 
+    Compiler for the Kaitai declarative binary format parsing language. Serialization support included.
+aur/multiwfn-dev-bin 3.8.20230504-1 (+1 0.00) 
+    A program for realizing electronic wavefunction analysis, dev binary version
+aur/gdpm-git r99.13487a1-1 (+1 0.04) 
+    CLI tool to automate managing Godot game engine assets from the command-line. This includes a pre-built, static binary.
+aur/python-undetected-chromedriver-git 3.5.5.r329.20240217.0aa5fbe-1 (+1 0.01) (Installed: 3.4.6.r250.20230210.bf7dcf8-1)
+    Optimized Selenium Chromedriver patch which does not trigger anti-bot services like Distill Network / Imperva / DataDome / Botprotect.io Automatically downloads the driver binary and patches it.
+aur/perl-data-hexdumper 3.0001-1 (+1 0.00) 
+    Perl CPAN Data::Hexdumper - Make binary data human-readable
+aur/python-fontmake-git 3.7.1.r13.gdae37e6-1 (+1 0.00) 
+    Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType)
+aur/gnatstudio-bin 20240506-1 (+1 0.00) 
+    GNAT Programming Studio for Ada binary
+aur/pomodorot-bin 0.11.0-1 (+1 0.75) 
+    A simple pomodoro timer application (binary release)
+aur/dogehouse-bin 1.0.69-2 (+1 0.00) (Orphaned) (Out-of-date: 2024-12-26) 
+    Taking voice conversations to the moon (binary release)
+aur/python-base45 0.4.4-1 (+1 0.00) 
+    A Python module to encode/decode binary data using Base45 as described in draft-faltstrom-base45-06 (https://datatracker.ietf.org/doc/draft-faltstrom-base45/).
+aur/ocaml-bin_prot 1:0.17.0.1-1 (+1 0.00) 
+    A binary protocol generator
+aur/upbge-bin 0.36.1-1 (+1 0.00) 
+    Uchronia Project Blender Game Engine fork of Blender Game Engine - binary package
+aur/crave 0.2.7091-1 (+1 0.00) 
+    Crave CLI - Binary Version
+aur/xbps-static-bin 0.59.2_1-1 (+1 0.00) 
+    The X Binary Package System (XBPS) -- Static Binaries
+aur/multiwfn-bin 3.7-4 (+1 0.00) 
+    A program for realizing electronic wavefunction analysis, stable binary version
+aur/img2irc-bin 1.3.1-1 (+1 0.03) 
+    a highly versatile image to IRC/ANSI art converter (universal linux binary for x86_64)
+aur/flowinity-bin 1.0.7-1 (+1 0.01) 
+    The dashboard for your digital life. Store and share images, write documents, and talk with your friends. (Binary version)
+aur/rapid7-insight-agent-bin 4.0.8.28-3 (+1 0.07) 
+    rapid7-insight-agent binary
+aur/cythonizer 1.2.0b3-1 (+1 0.00) 
+    Cythonizer is a script that will attempt to automatically convert one or more .py and .pyx files into the corresponding compiled .pyd or .so binary modules files.
+aur/python-binarytree 6.5.1-1 (+1 0.00) (Orphaned) 
+    Python library for studying binary trees
+aur/scie-pants-bin 0.12.3-1 (+1 0.57) 
+    scie-pants is the Pants build tool launcher binary
+aur/php82-igbinary 3.2.16-1 (+1 0.00) (Orphaned) 
+    A drop in replacement for the standard php serializer (PHP 8.2)
+aur/gatling-bin 0.13-2 (+1 0.00) (Orphaned) (Out-of-date: 2023-03-15) 
+    A high performance http, ftp and smb server (binary version)
+aur/xtensa-elf-binutils 2.34-1 (+1 0.00) (Orphaned) (Out-of-date: 2022-08-25) 
+    A set of programs to assemble and manipulate binary and object files for the Xtensa target
+aur/majsoul-plus-bin 2.0.1-1 (+1 0.00) 
+    Majsoul browser (Binary)
+aur/dotnet-runtime-2.2 2.2.8.sdk207-1 (+1 0.00) 
+    The .NET Core runtime binary version 2.2 - latest (End of Life)
+aur/armv7l-binutils 2.44-1 (+1 0.00) 
+    A set of programs to assemble and manipulate binary and object files for armv7l
+aur/mrcode-bin 1.82.0.23253-1 (+1 0.00) 
+    A custom build of VSCodium / VSCode (binary release)
+aur/xwayland-standalone-with-libdecor 24.1-1 (+1 0.00) 
+    A standalone Xwayland binary with libdecor support
+aur/gluon-scenebuilder 23.0.1-1 (+1 0.14) 
+    Open-source drag & drop UI design tool for JavaFX (Java 8) by Gluon (binary)
+aur/kaitai-struct-compiler-git 0.10.r56.g0acd030-1 (+1 0.00) 
+    Compiler for the Kaitai declarative binary format parsing language.
+aur/rocheplot 0.1.0-1 (+1 0.00) 
+    Plot the key stages in the evolution of a binary star
+aur/chim-bin 1.1.2-1 (+1 0.01) 
+    Cross-platform binary shims with optional remote fetching
+aur/dvp-binutils v2.14-1 (+1 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the Sony PlayStation® 2 videogame system (binutils, dvp).
+aur/nerdfonts-installer-bin 2025.06.05.1-3 (+1 0.57) 
+    Executable binary to install Nerd Fonts
+aur/i686-linux-gnu-binutils 2.33.1-2 (+1 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the i686-linux-gnu target
+aur/php81-igbinary 3.2.15-1 (+1 0.00) 
+    php81 PECL extension igbinary
+aur/patchup-bin 0.1.0-2 (+1 0.01) 
+    A tool to compute and apply binary patches for files and directories
+aur/statping-ng-bin 0.90.80-3 (+1 0.00) (Out-of-date: 2024-05-06) 
+    Web and app status monitoring for any type of project (binary release)
+aur/native-image-jdk19-bin 22.3.1-1 (+1 0.04) 
+    Plugin to turn GraalVM-based applications into native binary images (Java 19 version)
+aur/eclipse-pde 4.13-1 (+1 0.00) (Out-of-date: 2025-02-09) 
+    Plug-in Development Environment Binary for Eclipse IDE
+aur/pufferpanel-bin 2.7.1-1 (+1 0.00) 
+    PufferPanel: A web-base game management system (binary version).
+aur/cardano-node-bin 1.35.4-1 (+1 0.01) (Orphaned) (Out-of-date: 2023-02-24) 
+    The core component that is used to participate in a Cardano decentralised blockchain (binary package).
+aur/solv-bin 0.18.0-1 (+1 0.00) 
+    SOLution Validation tool that analyzes Microsoft Visual Studio solutions (binary release)
+aur/i3hloc 1.0.1-1 (+1 0.00) 
+    Flexible scheduler for i3bar. Precompiled binary version
+aur/nethermind-ethereum-bin 1.31.11-1 (+1 0.75) 
+    A robust execution client for Ethereum node operators. Binary distribution.
+aur/privatebin-cli-bin 2.0.2-1 (+1 0.00) 
+    A powerful CLI for creating and managing PrivateBin pastes with ease - binary package
+aur/newsup-git r493.297f220-1 (+1 0.00) 
+    NewsUP - A usenet binary uploader
+aur/emacs-ag 0.48-1 (+1 0.00) 
+    An Emacs frontend to The Silver Searcher (binary name ag)
+aur/prometheus-apcupsd-exporter-bin 0.1.0-1 (+1 0.00) (Orphaned) (Out-of-date: 2024-01-05) 
+    Prometheus exporter that exposes metrics from apcupsd's NIS. (binary, not built from source)
+aur/calceph 4.0.5-1 (+1 0.00) 
+    The library is designed to access the binary planetary ephemeris files, such INPOPxx and JPL DExxx ephemeris files
+aur/sh-elf-binutils-casio 2.37-6 (+1 0.00) (Orphaned) (Out-of-date: 2022-06-27) 
+    GNU binary utilities for the Casio calculators SuperH processors.
+aur/nvidia-gpu-exporter-bin 1.3.1-1 (+1 0.14) 
+    Nvidia GPU exporter for prometheus using nvidia-smi binary
+aur/tsv-utils-bin 2.2.0-1 (+1 0.00) 
+    Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more. Self-contained official binary release package.
+aur/zaproxy-bin 2.16.1-1 (+1 0.12) 
+    Integrated penetration testing tool for finding vulnerabilities in web applications, binary package
+aur/coolvlviewer-experimental-bin 1.32.1.9-1 (+1 0.00) 
+    A third-party viewer for Second Life (C) (secondlife) and OpenSim (opensimulator) grids. ('VL' stands for virtual life, formerly known as 'Cool SL Viewer', binary)
+aur/mediawiki2latex-bin 7.39-1 (+1 0.00) (Out-of-date: 2023-05-30) 
+    Mediawiki2latex, convert any mediawiki page to pdf. Arch specific pre-built binary, statically linked.
+aur/2s2h-bin 1.1.2.2-3 (+1 0.00) 
+    An unofficial port of The Legend of Zelda Majora's Mask Binary package
+aur/zfsbootmenu-efi-bin 3.0.1-1 (+1 0.00) 
+    ZFS bootloader for root-on-ZFS systems - EFI binary
+aur/srec-git r23.4bf276f-1 (+1 0.00) 
+    Utilities to convert binary files to and from Motorola S-Record (SREC) format
+aur/daikatana-bin 1.3-1 (+1 0.00) 
+    Daikatana 1.3 binary release
+aur/notepadnext-appimage 0.11-1 (+1 0.00) (Orphaned) 
+    Cross-platform reimplementation of Notepad++ (binary AppImage)
+aur/hdiff 4.8.0-1 (+1 0.04) 
+    C/C++ library and CLI tool for Diff & Patch between binary files or directories
+aur/hex2bin-git 1.12.r2.g97a58d9-1 (+1 0.00) 
+    Hex to binary converter.
+aur/ccextractor-gui-bin 0.6.0-1 (+1 0.00) 
+    CCExtractor flutter GUI (binary).
+aur/dotnet-sdk-2.2 2.2.8.sdk207-1 (+1 0.00) 
+    The .NET Core SDK binary version 2.2 - latest (End of Life)
+aur/morse-x 20060903-1 (+1 0.00) 
+    Morse 'practicing' tool for X. Binary release.
+aur/kemono-scraper-bin 0.0.21-1 (+1 0.00) 
+    A simple downloader to download media from kemono.party, binary release.
+aur/redpanda-bin 23.3.4-1 (+1 0.00) (Orphaned) (Out-of-date: 2024-09-20) 
+    Redpanda is a streaming platform for mission critical workloads (binary package)
+aur/cloud-hypervisor-bin 25.0-1 (+1 0.00) 
+    A Rust-VMM based cloud hypervisor from Intel (binary source)
+aur/aspnet-runtime-2.2 2.2.8.sdk207-2 (+1 0.00) 
+    The ASP.NET Core runtime binary version 2.2 (End of Life)
+aur/epiphany-elf-binutils 2.33.1-1 (+1 0.00) (Out-of-date: 2022-08-25) 
+    A set of programs to assemble and manipulate binary and object files for the Adapteva Epiphany target
+aur/native-image-jdk17-bin 22.3.2-1 (+1 0.04) (Orphaned) 
+    Plugin to turn GraalVM-based applications into native binary images (Java 17 version)
+aur/nwchem-data 7.0.2.1-1 (+1 0.00) (Out-of-date: 2025-05-21) 
+    Open Source High-Performance Computational Chemistry (basis sets, FF params needed for Debian binary build)
+aur/ecapture-bin 1.1.0-1 (+1 0.49) 
+    Capturing SSL/TLS plaintext without a CA certificate using eBPF. (Binary)
+aur/karma-dashboard-bin 0.121-1 (+1 0.00) 
+    Alert dashboard for Prometheus Alertmanager (binary, not built from source)
+aur/previsat-bin 6.0.1.2-1 (+1 0.00) (Orphaned) 
+    PreviSat is a satellite tracking software for observing purposes. Binary version
+aur/r-hexview 0.3.4-3 (+0 0.00) 
+    Viewing Binary Files
+aur/librewolf-extension-xdman8-browser-monitor-bin 3.4-2 (+0 0.00) 
+    Download files with XDM v8+ (binary release)
+aur/chattervox-bin 0.7.0-1 (+1 0.00) 
+    An AX.25 packet radio chat protocol with support for digital signatures and binary compression. Like IRC over radio waves.
+aur/firefox-extension-xdman8-browser-monitor-bin 3.4-2 (+0 0.00) 
+    Download files with XDM v8+ (binary release)
+aur/native-image-jdk11-ee-bin 20.0.0-1 (+1 0.00) (Out-of-date: 2023-02-08) 
+    (Enterprise Edition) Plugin to turn GraalVM-based applications into native binary images (Java 11 version)
+aur/lfs-s3-git 0.1.5.r45.g18ab884-1 (+1 0.57) 
+    A tiny (~300 SLOC) Custom Transfer Agent for Git LFS which simply sends LFS binary files to an S3 bucket.
+aur/hornet-bin 1.2.8-1 (+1 0.00) (Out-of-date: 2024-05-07) 
+    Powerful, community driven IOTA fullnode software written in Go (official precompiled binary)
+aur/grok-exporter-bin 0.2.8-2 (+1 0.00) 
+    Export Prometheus metrics from arbitrary unstructured log data (from binary release).
+aur/electron12-bin 12.2.3-3 (+1 0.00) 
+    Build cross platform desktop apps with web technologies - version 12 - binary version
+aur/opencloud-bin 3.0.0-4 (+1 0.65) 
+    secure and private way to store, access, and share your files - upstream built binary
+aur/electron5-bin 5.0.13-6 (+1 0.00) 
+    Build cross platform desktop apps with web technologies - version 5 - binary version
+aur/cbflib 0.9.5-4 (+1 0.00) (Orphaned) (Out-of-date: 2020-09-05) 
+    An ANSI C library for accessing Crystallographic Binary and Image-supporting Files
+aur/qbittorrent-nox-static-bin 5.1.0_v2.0.11-1 (+1 0.18) 
+    An advanced BitTorrent client programmed in C++. Without GUI. Static binary.
+aur/electron16-bin 16.2.8-2 (+1 0.00) 
+    Build cross platform desktop apps with web technologies - binary version 16
+aur/gyr-bin 0.1.5-0 (+1 0.00) 
+    Blazing fast TUI launcher for GNU/Linux and *BSD (prebuilt binary version)
+aur/rymfony-git r185.751e78b-1 (+1 0.00) (Orphaned) 
+    A work-in-progress CLI tool built in Rust to mimic the Symfony CLI binary
+aur/python-webdriver-manager 4.0.2-2 (+1 0.00) 
+    Simplify management of binary drivers for different browsers in Selenium
+aur/lqsd-bin 0.1.1-2 (+1 0.00) 
+    LiQuid Screen Dim - Dim your screen smoothly. Precompiled binary version
+aur/python-venn-abers 1.4.1-1 (+1 0.00) (Out-of-date: 2024-11-30) 
+    Venn-ABERS calibration for binary and multiclass classification problems
+aur/erigon-bin 3.0.5-1 (+1 0.00) 
+    Ethereum implementation on the efficiency frontier. Binary distribution
+aur/librewolf-extension-uget-integration-bin 2.1.3.1-1 (+0 0.00) 
+    Integrate LibreWolf with uGet download manager (binary release)
+aur/dpp-bin 10.0.35-1 (+1 0.00) 
+    Lightweight and Scalable C++ Discord API Bot Library - binary version
+aur/lzdoom-bin 3.88.b-1 (+1 0.00) (Out-of-date: 2025-04-15) 
+    Advanced Doom source port with OpenGL support (binary legacy version)
+aur/craftos-pc-bin 2.8.3-1 (+1 0.00) 
+    Advanced ComputerCraft emulator written in C++ (AppImage binary)
+aur/hcclient-bin 1.18.1-5 (+1 0.00) 
+    A terminal client for hack.chat, deprecated binary distribution
+aur/eos_portable_archive 5.1-6 (+1 0.00) 
+    A portable binary archive to be used with boost::serialization
+aur/ascii2binary 2.14-2 (+1 0.00) 
+    Convert between textual and binary representations of numbers
+aur/lfanew-git 0.0.20230825.r12.gc1980df-2 (+1 0.00) 
+    manipulate fat binary programs wrapped inside MS-DOS MZ files
+aur/icu68-bin 68.2-1 (+1 0.12) 
+    International Components for Unicode library (binary release)
+aur/icu67-bin 67.1-1 (+1 0.00) 
+    International Components for Unicode library (binary release)
+aur/cbmconvert 2.1.6-1 (+1 0.00) 
+    Create, extract and convert 8-bit Commodore binary archives
+aur/dec2bin 1.5-2 (+1 0.00) 
+    Converts binary numbers to decimal integers or ASCII text
+aur/qbineditor 1.0-1 (+0 0.00) 
+    Binary file editor written in Qt. Provides HEX, ASCII and BIN views with integrated search.
+aur/librewolf-extension-return-youtube-dislike-bin 3.0.0.13-1 (+0 0.00) 
+    Returns ability to see dislike statistics on youtube (binary release)
+aur/firefox-extension-return-youtube-dislike-bin 3.0.0.13-1 (+0 0.00) 
+    Returns ability to see dislike statistics on youtube (binary release)
+aur/librewolf-extension-darkreader-bin 4.9.105-1 (+0 0.00) 
+    Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing (binary release)
+aur/ghost-bin 3_1-1 (+1 0.00) 
+    Xboard compatible chess engine - Precompiled binary from the official website
+aur/python-qiling 1.4.6-1 (+1 0.00) (Out-of-date: 2025-06-02) 
+    An advanced binary emulation framework
+aur/ghc7.10-bin 7.10.3-3 (+1 0.00) (Orphaned) 
+    Legacy binary GHC 7.10 installed on /usr/bin/ghc-7.10 (Mar/2015 - Dec/2015).
+aur/python-qiling-git 1.4.5.r87.g1706049d-1 (+1 0.00) (Out-of-date: 2025-06-02) 
+    An advanced binary emulation framework
+aur/librewolf-extension-bitwarden-bin 2024.2.0-1 (+0 0.00) 
+    A secure and free password manager for all of your devices (binary release)
+aur/mongodb-compass-readonly-beta-bin 1.46.3.beta.6-1 (+0 0.00) 
+    The official GUI for MongoDB - Readonly Edition - beta version - binary version
+aur/mongodb-compass-isolated-beta-bin 1.46.3.beta.6-1 (+0 0.00) 
+    The official GUI for MongoDB - Isolated Edition - beta version - binary version
+aur/python-erlang 1.8.0-1 (+1 0.00) (Orphaned) (Out-of-date: 2023-12-21) 
+    Erlang Binary Term Format for Python
+aur/aur-check-updates-bin 1.1.4-1 (+1 0.00) 
+    A very basic CLI app for checking updates from AUR (binary release)
+aur/python-pyevtk 1.6.0-1 (+1 0.00) 
+    Export data as binary VTK files
+aur/teller-bin 2.0.7-1 (+0 0.00) 
+    Binary package of Teller - Cloud native secrets management for developers
+aur/jojodiff 0.8.5-1 (+1 0.00) 
+    Diff utility for binary files
+aur/powerpc64le-linux-gnu-binutils 2.32-2 (+0 0.00) (Orphaned) (Out-of-date: 2020-05-19) 
+    A set of programs to assemble and manipulate binary and object files (powerpc64le-linux-gnu)
+aur/r-rsamtools 2.18.0-1 (+0 0.00) 
+    Binary alignment (BAM), FASTA, variant call (BCF), and tabix file import
+aur/riscv64-linux-uclibc-binutils 2.43-1 (+0 0.00) 
+    Assemble and manipulate binary and object files for 32-bit and 64-bit RISC-V
+aur/argdata 0.8-1 (+0 0.00) 
+    binary serialisation format inspired by YAML, MessagePack and nvlists
+aur/ssimulacra2_bin-git 0.3.4.r10.g1c3baf2-1 (+0 0.00) 
+    Binary interface to the Rust implementation of the SSIMULACRA2 metric
+aur/gitsign-credential-cache-bin 0.12.0-1 (+0 0.00) 
+    Helper binary that allows users to cache signing credentials
+aur/vscodius-bin 1.98.2-1 (+1 0.14) 
+    Binary releases of Visual Studio Code without MS branding/telemetry/licensing and various personal workflow improvements.(Prebuilt version)
+aur/mips64el-linux-gnu-binutils 2.44-1 (+0 0.00) 
+    Tools to assemble and manipulate binary and object files for the MIPS64EL target (for the toolchain with GNU C library and multilib ABI)
+aur/python-binstruct 1.0.1-1 (+2 0.00) (Orphaned) (Out-of-date: 2024-01-25) 
+    The binstruct library allows you to access binary data using a predefined structure.
+aur/netselect 0.4-4 (+2 0.00) 
+    An ultrafast intelligent parallelizing binary-search implementation of ping
+aur/klfc-bin 1.5.6-1 (+2 0.65) (Out-of-date: 2021-11-22) 
+    Tool to create advanced keyboard layouts in various formats (binary version)
+aur/dotnet-sdk-8.0-bin 8.0.16.sdk410-1 (+2 0.07) 
+    The .NET Core SDK (binary)
+aur/navcoin-bin 4.1.1-1 (+2 0.00) (Out-of-date: 2018-07-14) 
+    Privacy-oriented cryptocurrency and distributed computing platform - Developer-provided binary
+aur/csplitb 1.0.2-1 (+2 0.00) (Orphaned) 
+    Split binary files on content boundaries
+aur/nyuu-bin 0.4.2-1 (+2 0.00) 
+    Flexible usenet binary posting tool
+aur/hammer-editor-bin 1.10.0-1 (+2 1.24) 
+    A simple tool for building stories (binary release)
+aur/elfexec 0.3-1 (+2 0.00) 
+    Utility to execute ELF binary directly from stdin pipe
+aur/aspnet-runtime-8.0-bin 8.0.16.sdk410-1 (+2 0.07) 
+    The ASP.NET Core runtime (binary)
+aur/arangodb-bin 3.10.6-1 (+2 0.00) (Orphaned) (Out-of-date: 2023-11-09) 
+    Arangodb binary from deb.
+aur/python-jaxlib-bin 0.6.1-1 (+2 0.20) 
+    XLA library for JAX - binary package
+aur/dotnet-targeting-pack-8.0-bin 8.0.16.sdk410-1 (+2 0.07) 
+    The .NET Core targeting pack (binary)
+aur/xtensa-esp32-elf-binutils 2.39-1 (+2 0.00) (Out-of-date: 2024-08-15) 
+    A set of programs to assemble and manipulate binary and object files for the xtensa esp32 (bare-metal) target
+aur/vpinball 10.8.1_3155_8054cc2-2 (+2 0.57) 
+    An open source pinball table editor and simulator - BGFX standalone (binary) version
+aur/coolercontrold-bin 2.2.0-1 (+2 0.28) 
+    A program to monitor and control your cooling devices: daemon (binary release)
+aur/luatex-git 1:4340.f25f235c0-1 (+2 0.00) 
+    The LuaTeX engine, current git master, standalone binary
+aur/intellij-http-client 243.23654.189-1 (+2 0.00) 
+    IntelliJ HTTP Client: run HTTP requests from a terminal. The binary is called ijhttp.
+aur/tty2gif-git 0.2.r4.ge7d2c39-1 (+2 0.00) 
+    tty2gif let you record scripts and their outputs into both binary and gif formats.
+aur/stylish-haskell-bin 0.14.6.0-1 (+2 0.00) 
+    Haskell code prettifier. Packaged from upstream binary release.
+aur/copyto-go-bin 1.3.0-1 (+2 0.02) 
+    copyto is a small command line app written in Go that allows you to easily one way sync between folders (binary release)
+aur/apollo-rover-bin 0.26.2-1 (+2 0.00) (Out-of-date: 2025-05-24) 
+    CLI for Apollo's suite of GraphQL developer productivity tools (binary release)
+aur/aspnet-targeting-pack-8.0-bin 8.0.16.sdk410-1 (+2 0.07) 
+    The ASP.NET Core targeting pack (binary)
+aur/docker-cli-bin 28.2.2-1 (+2 0.02) 
+    Docker - CLI utility only, installed from static binary on docker.com
+aur/slippi-launcher-bin 2.11.10-1 (+2 0.02) 
+    The way to play Slippi Online and watch replays (binary release, system Electron)
+aur/gourou-bin 0.8.7-2 (+2 1.00) 
+    Download and decrypt adobe encrypted (acsm) pdf and epub files (binary version)
+aur/arx-libertatis-bin 1.2.1-1 (+2 0.00) (Orphaned) 
+    Cross-platform port of Arx Fatalis, a first-person role-playing game. (binary version)
+aur/python-angr 9.2.123-1 (+2 0.14) (Out-of-date: 2025-02-20) 
+    A powerful and user-friendly binary analysis platform
+aur/hpack-static-bin 0.38.0-1 (+2 0.00) 
+    A modern format for Haskell packages (statically linked binary)
+aur/python-fontmake 3.10.1-1 (+2 0.00) 
+    Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType)
+aur/ferdium-nightly-bin 7.1.0.nightly.9-1 (+2 0.00) 
+    A messaging browser that allows you to combine your favorite messaging services into one application (nightly binary release).
+aur/msdfgen-git 1.12.1.r0.g6574da1-1 (+2 0.00) 
+    Multi-channel signed distance field generator binary and library
+aur/perl-svn-bisect 1.1-2 (+2 0.00) 
+    'git bisect' workalike for Subversion. Binary search through svn history.
+aur/hplip-minimal 3.25.2-1 (+2 0.01) 
+    Only printer drivers from HPLIP with proprietary binary plugin
+aur/dotnet-runtime-8.0-bin 8.0.16.sdk410-1 (+2 0.07) 
+    The .NET Core runtime (binary)
+aur/hlint-bin 3.8-2 (+2 0.00) 
+    Haskell source code suggestions. Packaged from upstream binary release.
+aur/shopify-themekit-bin-noconflict 1.2.0-1 (+2 0.00) 
+    A cross-platform tool for building Shopify Themes - renamed binary to theme-shopify
+aur/grpcui-bin 1.4.3-1 (+2 0.00) 
+    An interactive web UI for gRPC, along the lines of postman (binary release)
+aur/vpkedit-bin 4.4.2-1 (+2 0.00) 
+    A library and CLI/GUI tool to create, read, and write several pack file formats (binary release)
+aur/qdiskinfo-bin 0.4-2 (+2 0.60) 
+    Frontend for smartctl providing a user experience similar to CrystalDiskInfo (binary release)
+aur/kubewall-bin 0.0.11-1 (+2 0.05) 
+    kubewall is a single binary to manage multiple clusters.
+aur/gdtoa-desktop-git r30.698924a-1 (+0 0.00) 
+    Binary-decimal floating-point conversion library by David M. Gay
+aur/powerpc-linux-gnu-binutils 2.32-1 (+0 0.00) (Orphaned) (Out-of-date: 2020-12-20) 
+    A set of programs to assemble and manipulate binary and object files (powerpc-linux-gnu)
+aur/powershell-fxdependent-bin 7.4.6-1 (+0 0.00) (Orphaned) 
+    A cross-platform automation and configuration tool/framework (binary package, framework dependent)
+aur/superslicer-prerelease-bin 1:2.7.61.4-1 (+0 0.00) 
+    G-code generator for 3D printers (Prusa, Voron, Creality, etc.) (binary AppImage)
+aur/ghidra-extension-switch-loader-git 1.5.0.r2.g5afeb1d-1 (+0 0.00) 
+    A Nintendo Switch binary loader for Ghidra
+aur/mips64-ultra-elf-binutils 2.44_r183.813f1ae-1 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files for mips64-ultra-elf
+aur/mipsel-linux-gnu-binutils 2.40-1 (+0 0.00) 
+    Tools to assemble and manipulate binary and object files for the MIPSEL target (for the toolchain with GNU C library)
+aur/jitsi-meet-turnserver-nightly-bin 1.0.8534-1 (+0 0.00) 
+    Jitsi Meet Prosody Plugins nightly binary
+aur/riscv64-elf-binutils-git gdb.13.branchpoint.r1831.gd466f7492ec-1 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the RISCV64 (bare-metal) target
+aur/mongodb-compass-beta-bin 1.46.3.beta.6-1 (+0 0.00) 
+    The official GUI for MongoDB - beta version - binary version
+aur/doot-bin 0.4.7-1 (+2 0.20) 
+    A fast, simple and intuitive dotfiles manager that just gets the job done (binary release)
+aur/electron10-bin 10.4.7-4 (+2 0.00) 
+    Build cross platform desktop apps with web technologies - version 10 - binary version
+aur/youtube-tui-nodefaults-bin 0.8.1-1 (+2 0.02) (Out-of-date: 2025-05-09) 
+    An aesthetically pleasing TUI frontend to browsing YouTube written in Rust. (Binary)
+aur/electron-nightly-bin 38.0.0nightly.20250609-1 (+2 0.58) 
+    Build cross platform desktop apps with web technologies — prebuilt nightly binary
+aur/getdepends 1.0-1 (+2 0.00) 
+    A script that gets a binary and give it's dependencies on Arch Linux using ldd.
+aur/jitsi-meet-prosody-nightly-bin 1.0.8534-1 (+0 0.00) 
+    Jitsi Meet Prosody Plugins nightly binary
+aur/vscodium-insiders 1.101.03919-1 (+1 0.00) 
+    Binary releases of Code Insiders without branding/telemetry/licensing (git build from latest release)
+aur/mips-linux-binutils-bin 2.9.5-1 (+0 0.00) (Orphaned) (Out-of-date: 2024-03-22) 
+    A set of programs to assemble and manipulate binary and object files (mips-linux)
+aur/riscv-none-elf-binutils 2.44-2 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the RISC-V (bare-metal) target
+aur/python-conda-git 4.6.0a2.r0.gc467517ca-2 (+2 0.00) (Out-of-date: 2025-05-10) 
+    OS-agnostic, system-level binary package manager and ecosystem
+aur/freetype2-macos-browsers-binary-patcher 2.13-2 (+1 0.00) 
+    Script that patches freetype2 library in Chrome and Vivaldi to use a similar filter as the one in freetype2-macos. It will also install a hook to run the scripts when you install or upgrade Chrome and Vivaldi.
+aur/emulsion-bin 11.0-1 (+2 0.00) 
+    A fast and minimalistic image viewer (binary release)
+aur/jitsi-videobridge-nightly-bin 2.3+218+gec549728-1 (+0 0.00) 
+    Jitsi Meet Videobridge nightly binary
+aur/sigma-file-manager-bin 1.7.0-2 (+0 0.00) 
+    A free, open-source, quickly evolving, modern file manager (explorer / finder) app (binary release)
+aur/hex2bin-bin 2.5-1 (+2 0.00) 
+    Converts Motorola and Intel hex files to binary.
+aur/sdi011 5.0.18-1 (+0 0.00) 
+    Binary driver for the SCM SDI011 (nPA / German eID)
+aur/vscodium-insiders-bin 1.101.03919-1 (+1 0.00) 
+    Binary releases of Code Insiders without branding/telemetry/licensing (binary release)
+aur/iptables-exporter-bin 0.1.0-1 (+0 0.00) 
+    Prometheus exporter for iptables metrics (binary, not built from source)
+aur/polkadot-bin 0.9.10-1 (+0 0.00) (Out-of-date: 2021-11-25) 
+    Binary builds of the Polkadot Node Implementation
+aur/jd-gui-duo-bin 2.0.90-2 (+1 0.65) 
+    Binary release of jd-gui-duo, a 2-in-1 JAVA decompiler based on JD-CORE v0 and v1
+aur/loongarch64-linux-gnu-gcc-libc 14.2.0-2 (+2 0.00) 
+    Build tools for Loongson (Binary).
+aur/lightdm-theme-neon-bin 0.2.4-1 (+0 0.00) 
+    Modern and customizable theme for web-greeter with a nostalgic neon look, binary version
+aur/annepro2-tools-git-bin r38.fe5ed65-1 (+0 0.00) (Orphaned) (Out-of-date: 2024-04-30) 
+    Alternative firmware update tool for the Anne Pro 2 keyboard (binary git version)
+aur/kubectl-bin 1.32.1-1 (+2 0.00) 
+    Kubernetes.io kubectl binary
+aur/jitsi-meet-turnserver-bin 1.0.8532-1 (+0 0.00) 
+    Jitsi Meet Prosody Plugins binary
+aur/ghc9.12-bin 9.12.1-1 (+0 0.00) 
+    Binary GHC 9.12 installed on /usr/bin/ghc-9.12
+aur/mipsr5900el-unknown-linux-gnu-binutils 2.34-3 (+0 0.00) 
+    A set of programs to assemble and manipulate binary and object files (mipsr5900el-unknown-linux-gnu)
+aur/mips64r5900el-ps2-elf-binutils v2.38.0-1 (+1 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the Sony PlayStation® 2 videogame system (binutils).
+aur/godot-voxel-bin 4.2.2rc+15073afe3-1 (+1 0.00) 
+    Binary files for the Godot game engine with Zylann's voxel tools module.
+aur/aspnet-targeting-pack-6.0-bin 6.0.35.sdk427-1 (+3 0.00) (Out-of-date: 2025-06-07) 
+    The ASP.NET Core targeting pack (binary)
+aur/clangd-opt-git 21.r9912.g2f08927fd5f4-1 (+3 0.87) 
+    Trunk version of standalone clangd binary, with custom patches (look AUR page or PKGBUILD comments)
+aur/ruby-git 3.1.0-1 (+3 0.00) 
+    Ruby library to manipulate git repositories by wrapping system calls to the git binary
+aur/aspnet-runtime-5.0-bin 5.0.17.sdk408-1 (+3 0.00) 
+    The ASP.NET Core runtime version 5.0 (binary) - End of life
+aur/sh-elf-binutils 2.36.1-1 (+3 0.00) (Orphaned) (Out-of-date: 2022-08-25) 
+    A set of programs to assemble and manipulate binary and object files for the SuperH (bare-metal) target
+aur/dotnet-runtime-6.0-bin 6.0.35.sdk427-1 (+3 0.00) (Out-of-date: 2025-06-07) 
+    The .NET Core runtime (binary)
+aur/dotnet-targeting-pack-6.0-bin 6.0.35.sdk427-1 (+3 0.00) (Out-of-date: 2025-06-07) 
+    The .NET Core targeting pack (binary)
+aur/x86_64-efi-pe-binutils 2.34-1 (+3 0.00) (Orphaned) (Out-of-date: 2024-08-15) 
+    A set of programs to assemble and manipulate binary and object files for the x86_64 architecture in the Portable Executable format.
+aur/arm-linux-gnueabi-binutils 2.44-1 (+3 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the ARM GNU EABI little-endian target
+aur/prusa-slicer-rel-bin 1:2.8.1rc1-1 (+3 0.00) (Orphaned) (Out-of-date: 2025-03-26) 
+    G-code generator for 3D printers (binary AppImage; includes all releases)
+aur/photoqt-bin 4.9.1-1 (+3 0.00) 
+    Fast and highly configurable image viewer with a simple and nice interface (binary release)
+aur/msp430-elf-gcc-bin 8.2.0.52-1 (+3 0.00) (Orphaned) 
+    GNU Tools for TI MSP430 microcontroller family (binary distribution, release 8_2_0_0)
+aur/dotnet-sdk-5.0-bin 5.0.17.sdk408-1 (+3 0.00) 
+    The .NET Core SDK version 5.0 (binary) - End of life
+aur/youtube-dl-gui-bin 2.5.5-1 (+3 0.13) 
+    A cross-platform GUI for youtube-dl made in Electron and node.js (binary release)
+aur/etlegacy32-bin 2.83.2-1 (+3 0.00) 
+    Wolfenstein: Enemy Territory 2.60b compatible client/server (etlegacy engine, 32 bit), binary release
+aur/dotnet-sdk-6.0-bin 6.0.35.sdk427-1 (+3 0.00) (Out-of-date: 2025-06-07) 
+    The .NET Core SDK (binary)
+aur/psst-git-bin r579.86169f8-4 (+3 0.00) 
+    Fast and multi-platform Spotify client with native GUI (binary git version).
+aur/dotnet-targeting-pack-5.0-bin 5.0.17.sdk408-1 (+3 0.00) 
+    The .NET Core targeting pack version 5.0 (binary) - End of life
+aur/asciinema-agg-bin 1.5.0-2 (+3 0.10) 
+    asciinema gif generator (binary version)
+aur/sbuild 0.86.3-1 (+3 0.00) (Out-of-date: 2025-04-27) 
+    Tool for building Debian binary packages from Debian sources
+aur/gnu-poke-git r5339.bf7d302e-1 (+3 0.00) 
+    The GNU extensible binary editor
+aur/oggextract 2-2 (+3 0.00) 
+    Extracts OGG Vorbis from binary files.
+aur/aspnet-runtime-6.0-bin 6.0.35.sdk427-1 (+3 0.00) (Out-of-date: 2025-06-07) 
+    The ASP.NET Core runtime (binary)
+aur/dotnet-runtime-5.0-bin 5.0.17.sdk408-1 (+3 0.00) 
+    The .NET Core runtime version 5.0 (binary) - End of life
+aur/nwchem-bin 7.0.2.1-1 (+3 0.00) (Orphaned) (Out-of-date: 2024-11-25) 
+    Open Source High-Performance Computational Chemistry (Debian binary build)
+aur/pdfgui_tools-bin 2.0.0-1 (+3 0.00) 
+    A user interface tool developed in Qt and Python that integrates with poppler for PDF document management (binary release)
+aur/nodejs-node-pre-gyp 2.0.0-1 (+3 0.00) 
+    Node.js tool for easy binary deployment of C++ addons
+aur/openlinkhub-bin 0.5.6-1 (+3 0.66) (Out-of-date: 2025-06-09) 
+    Open source Linux interface for iCUE LINK Hub and other Corsair AIOs, Hubs. [Current Binary Release - amd64/x86_64]
+aur/neovide-lunarvim 0.1.0-1 (+3 0.02) 
+    neovide binary and .desktop file that launches with lunarvim
+aur/atem 0.4.0-1 (+3 0.00) 
+    A command-line tool to convert MetaStock (DataLink) binary data to ASCII text
+aur/aspnet-targeting-pack-5.0-bin 5.0.17.sdk408-1 (+3 0.00) 
+    The ASP.NET Core targeting pack version 5.0 (binary) - End of life
+aur/edid_disable_exts 1.2-3 (+3 0.00) 
+    Modifies a binary EDID file and disables EDID extensions and updates the checksum
+aur/yacreader-bin 9.15.0-1 (+3 1.30) 
+    Comic reader for cross-platform reading and managing your digital comic collection, binary version.
+aur/edb-debugger-git 1.4.0.r2.g64fca61f-1 (+3 0.00) 
+    EDB (Evan's Debugger) is a binary mode debugger with the goal of having usability on par with OllyDbg. Git version
+aur/xbps-git 0.51.r379.g59dffd76-1 (+3 0.00) 
+    (Void Linux's) The X Binary Package System
+aur/rnr-bin 0.5.0-1 (+3 0.61) 
+    A CLI tool to rename files and directories that supports regex. Compiled binary
+aur/zeit-now-bin 15.8.7-1 (+3 0.00) 
+    Realtime Global Deployments by Zeit, pre-built binary (outdated)
+aur/tut-bin 2.0.1-1 (+3 0.09) 
+    A TUI for Mastodon with vim inspired keys. Same as aur/tut, but this is the binary version.
+aur/seamonkey-bin 2.53.20-1 (+3 0.89) 
+    SeaMonkey internet suite (binary version)
+aur/python2-nbt 1.5.0-1 (+3 0.00) (Orphaned) (Out-of-date: 2022-02-08) 
+    Named Binary Tag Reader/Writer
+aur/stringsext 2.3.4-1 (+2 0.00) 
+    Find multi-byte-encoded strings in binary data
+aur/mongodb-compass-readonly-bin 1.46.3-1 (+1 0.00) 
+    The official GUI for MongoDB - Readonly Edition - binary version
+aur/easyrpg-player-bin 0.8.1.1-1 (+0 0.00) 
+    RPG Maker 2000/2003 compat game interpreter (flatpak binary)
+aur/python-veles-git 2018.05.0.r0.ge65de5a-5 (+0 0.00) (Orphaned) (Out-of-date: 2024-03-27) 
+    Binary data analysis and visualization tool
+aur/veles-git 2018.05.0.r0.ge65de5a-5 (+0 0.00) (Orphaned) (Out-of-date: 2024-03-27) 
+    Binary data analysis and visualization tool
+aur/cargo-binstall-git 0.13.1.r3.g7816b21-1 (+0 0.00) 
+    Binary installation for Rust projects (git)
+aur/ghidra-extension-gamecube-loader-git 1.1.5.r0.gaf629bd-1 (+1 0.00) (Orphaned) (Out-of-date: 2023-11-05) 
+    A Nintendo GameCube binary loader for Ghidra
+aur/internxt-x-core-bin 1.1.2-1 (+0 0.00) 
+    Internxt X Core: decentralized cloud storage server. Binary distribution from internxt.com.
+aur/raccoon-bin 4.24.0-3 (+3 0.00) (Orphaned) 
+    Alternative Google Play (with GUI) client to download Android APK files to your computer, binary version
+aur/cwtch-bin 1.15.5-1 (+3 0.01) 
+    UI for A decentralized, privacy-preserving, multi-party messaging protocol client (binary distribution)
+aur/blacknut-appimage 2.7.9-1 (+0 0.00) (Orphaned) (Out-of-date: 2023-02-08) 
+    Cloud gaming client (binary AppImage)
+aur/jitsi-meet-nightly-bin 1.0.8534-1 (+0 0.00) 
+    Jitsi Meet Web nightly binary
+aur/electron7-bin 7.3.3-6 (+3 0.00) 
+    Build cross platform desktop apps with web technologies - version 7 - binary version
+aur/bspwm-rounded-corners-git 0.9.10.r41.ga510c36-1 (+1 0.00) (Out-of-date: 2025-03-04) 
+    A tiling window manager based on binary space partitioning with rounded corners
+aur/merlin-git 20160325-1 (+3 0.00) 
+    Context sensitive completion for OCaml in Vim and Emacs (ocamlmerlin binary only)
+aur/latencyflex-bin 0.1.1-4 (+3 0.01) 
+    Vendor and game agnostic latency reduction middleware (binary release)
+aur/onehouronelife-bin 58-5 (+1 0.00) (Orphaned) (Out-of-date: 2024-06-05) 
+    Binary package for One Hour One Life game by Jason Rohrer
+aur/cocainediesel-bin 0.1.0.82-1 (+0 0.00) 
+    Cocaine Diesel is a multiplayer first person shooter with an emphasis on drug promotion and criminal lifestyles (official launcher binary)
+aur/ricoh-rpcs-cups-bin 1.0.0-1 (+0 0.00) 
+    Bundled binary Ricoh (Aficio/IPSiO) SG/GX series (RPCS) CUPS raster printer drivers
+aur/mips-linux-gnu-binutils 2.39-1 (+1 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the MIPS target
+aur/mipsel-ps2-irx-binutils v2.35.2-1 (+1 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the Sony PlayStation® 2 videogame system (binutils, mipsel-ps2-irx).
+aur/mipsel-ps2-elf-binutils v2.35.2-1 (+1 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the Sony PlayStation® 2 videogame system (binutils, ).
+aur/kata-containers-image-bin 3.1.0-1 (+1 0.00) (Out-of-date: 2025-03-22) 
+    Lightweight virtual machines for containers (version 2, binary packaging)
+aur/haskell-binary-tree 0.1.0.0-1 (+0 0.00) 
+    Binary trees and associated instances
+aur/jicofo-nightly-bin 1.0+1126-1 (+0 0.00) 
+    JItsi meet COnference FOcus nightly binary
+aur/scl011 2.09-1 (+1 0.00) 
+    Binary driver for the SCM SCL011 (nPA / German eID)
+aur/miru-hayase-bin 6.3.2-2 (+0 0.00) 
+    [BETA/PRERELEASE] Miru Hayase: Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads. . Expect instability and rapid updates. (Binary v6.3.2 from GitHub release tag v6.1.0)
+aur/pico2wave-shell 1-1 (+0 0.00) 
+    Shell wrapper replacement for pico2wave, based on pico-tts and ffmpeg, that doesn't depend on binary/outdated sources
+aur/librewolf-extension-localcdn-bin 2.6.59-1 (+2 0.00) 
+    A web browser extension that emulates CDNs to improve your online privacy (binary release)
+aur/linux-intel-undervolt-gui-bin 1.2.0-3 (+0 0.00) 
+    GUI frontend for undervolting intel CPUs on Linux (binary release)
+aur/elyprismlauncher-bin 9.4-1 (+1 0.87) 
+    Prism Launcher fork with integrated support for Ely.by accounts (binary version)
+aur/lib32-libsql-sqlite3 0.24.32-2 (+1 0.02) 
+    A compatibility binary for SQLite3 using libsql
+aur/ropper-git 1.13.10.r0.ga1141ab-1 (+4 0.00) 
+    Show information about binary files and find gadgets to build rop chains for different architectures
+aur/quarto-cli-bin-pre-release 1.8.11-1 (+4 0.25) 
+    An open-source scientific and technical publishing system built on Pandoc (pre-release binary from official repo)
+aur/python-frida-bin 17.1.3-1 (+4 0.67) 
+    Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android. Python 3 binary version from PyPi
+aur/stabilitymatrix-bin 2.14.2-1 (+4 0.67) 
+    Multi-Platform Package Manager for Stable Diffusion. Binary version.
+aur/perl-spreadsheet-writeexcel 2.40-2 (+4 0.36) 
+    Write to a cross-platform Excel binary file.
+aur/le 1.16.8-1 (+4 0.00) 
+    A text editor in memorial to Norton Editor with block and binary operations
+aur/freesurfer-bin 8.0.0-1 (+4 0.00) 
+    An open source software suite for processing and analyzing (human) brain MRI images. (Precompiled binary version)
+aur/xbps 0.59.2-1 (+4 0.00) 
+    The X Binary Package System from Void Linux. Don't use it instead of Arch's 'pacman'.
+aur/crossover-overlay-bin 3.3.4-3 (+4 0.00) 
+    🎯 A Crosshair Overlay for any screen (binary release, system Electron)
+aur/tkpng 0.9-1 (+4 0.00) 
+    An open source binary package that adds PNG photo image support to Tcl/Tk.
+aur/fabric-ai-bin 1.4.185-1 (+4 0.96) 
+    open-source framework for augmenting humans using AI (binary release)
+aur/ocaml-yojson 2.2.2-1 (+4 0.00) 
+    Low level JSON binary for OCaml
+aur/native-image-jdk8-bin 21.2.0-1 (+4 0.00) 
+    Plugin to turn GraalVM-based applications into native binary images (Java 8 version)
+aur/httm-bin 0.48.4-1 (+4 0.13) 
+    Prints the size, date and locations of available unique versions (deduplicated by modify time and size) of files residing on ZFS, BTRFS, or NILFS snapshots. (binary .deb)
+aur/forkgram-bin 5.14.2-1 (+4 0.06) 
+    Forkgram is the fork of the official Telegram Desktop application - Static binary
+aur/xmlcutty-bin 0.1.6-1 (+4 0.00) 
+    xmlcutty is a simple tool for carving out elements from large XML files, fast - binary static
+aur/pterodactyl-wings-bin 1.11.13-1 (+4 0.00) 
+    The server control plane for Pterodactyl Panel - binary package
+aur/ugene-bin 52.0-2 (+4 0.00) 
+    A free cross-platform genome analysis suite (binary release)
+aur/coolercontrol-bin 2.2.0-1 (+4 1.21) 
+    A program to monitor and control your cooling devices (binary release)
+aur/arm-frc-linux-gnueabi-binutils 2.33.1-1 (+4 0.00) (Orphaned) 
+    A set of programs to assemble and manipulate binary and object files (arm-frc-linux-gnueabi)
+aur/rop-tool 2.4-1 (+4 0.00) (Out-of-date: 2023-12-06) 
+    A tool to help you write binary exploits
+aur/axolotl-bin 1.5.0-1 (+4 0.00) (Out-of-date: 2023-11-01) 
+    Axolotl binary from deb.
+aur/teleport-client-bin 17.5.1-1 (+4 0.00) 
+    Client-only (tsh, tctl) binary package for teleport
+aur/wmbinclock 0.51-3 (+4 0.00) 
+    A dockable WindowMaker app (docklet) binary clock.
+aur/outlook-for-linux-bin 1.3.13-1 (+4 0.34) 
+    Unofficial Microsoft Outlook for Linux client (binary version)
+aur/pristine-tar 1.50.nmu2-2 (+4 0.00) 
+    Tool to regenerate a pristine upstream tarball using only a small binary delta file and a copy of the source which can be a revision control checkout.
+aur/flightcore-bin 2.26.2-1 (+4 0.87) 
+    Installer/Updater/Launcher for Northstar (binary release)
+aur/configcat-cli-bin 1.8.0-1 (+0 0.00) 
+    Configcat cli binary distribution
+aur/zipunicode-git r10.412b942-1 (+0 0.00) 
+    Extract zip file with correct encoding, standalone binary and python package
+aur/kubergrunt-bin 0.7.9-1 (+0 0.00) 
+    A standalone go binary with a collection of commands that attempts to fill in the gaps between Terraform, Helm, and Kubectl for managing a Kubernetes Cluster.
+aur/ollama-lab-bin 0.4.3-1 (+0 0.00) 
+    Yet another (unofficial) Ollama GUI (binary)
+aur/mangojuice-bin 0.8.1-1 (+0 0.00) 
+    A convenient alternative for setting up Mangohud (binary release)
+aur/ghc8.10-bin 8.10.7-2 (+1 0.00) 
+    Binary GHC 8.10 installed on /usr/bin/ghc-8.10
+aur/ghc9.10-bin 9.10.1-1 (+1 0.00) 
+    Binary GHC 9.10 installed on /usr/bin/ghc-9.10
+aur/boost-note-local-bin 0.23.0-1 (+1 0.00) 
+    Boost Note.next, a replacement for Boostnote, an open source note-taking app for programmers. Official binary with local space support.
+aur/powerpc64-linux-gnu-binutils 2.44-1 (+2 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the PPC64 target
+aur/vim-hexmode-git 1:r82.550cae6-1 (+0 0.00) 
+    Vim plugin to edit binary files in a hex mode automatically.
+aur/ghc9.8-bin 9.8.4-1 (+1 0.00) 
+    Binary GHC 9.8 installed on /usr/bin/ghc-9.8
+aur/ghc9.6-bin 9.6.6-1 (+1 0.00) 
+    Binary GHC 9.6 installed on /usr/bin/ghc-9.6
+aur/ghc7.4-bin 7.4.2-5 (+1 0.00) 
+    Binary GHC 7.4 installed on /usr/bin/ghc-7.4
+aur/ghc9.4-bin 9.4.8-2 (+1 0.00) 
+    Binary GHC 9.4 installed on /usr/bin/ghc-9.4
+aur/ghc8.4-bin 8.4.4-4 (+1 0.00) 
+    Binary GHC 8.4 installed on /usr/bin/ghc-8.4
+aur/ghc8.0-bin 8.0.2-2 (+1 0.00) 
+    Binary GHC 8.0 installed on /usr/bin/ghc-8.0
+aur/ghc8.6-bin 8.6.5-3 (+1 0.00) 
+    Binary GHC 8.6 installed on /usr/bin/ghc-8.6
+aur/ghc7.8-bin 7.8.4-2 (+1 0.00) 
+    Binary GHC 7.8 installed on /usr/bin/ghc-7.8
+aur/ghc8.2-bin 8.2.2-3 (+1 0.00) 
+    Binary GHC 8.2 installed on /usr/bin/ghc-8.2
+aur/ghc9.0-bin 9.0.2-2 (+1 0.00) 
+    Binary GHC 9.0 installed on /usr/bin/ghc-9.0
+aur/ghc8.8-bin 8.8.4-2 (+1 0.00) 
+    Binary GHC 8.8 installed on /usr/bin/ghc-8.8
+aur/ghc9.2-bin 9.2.8-2 (+1 0.00) 
+    Binary GHC 9.2 installed on /usr/bin/ghc-9.2
+aur/mips-harvard-os161-binutils 2.24+os161_2.1-1 (+2 0.00) 
+    A set of programs to assemble and manipulate binary and object files for mips-harvard-os161 arquitecture. This is part of toolset for the course os161 from Harvard.
+aur/github-release-bin 0.10.0-1 (+1 0.00) 
+    Command-line app to create and edit releases on GitHub (and upload artifacts) — built from pre-compiled binary.
+aur/electron4-bin 4.2.12-8 (+4 0.00) 
+    Build cross platform desktop apps with web technologies - version 4 - binary version
+aur/youtube-tui-full-bin 0.8.3-1 (+4 0.01) 
+    An aesthetically pleasing TUI frontend to browsing YouTube written in Rust. (Binary)
+aur/dnscontrol-bin 4.21.0-1 (+4 0.37) 
+    Synchronize your DNS to multiple providers from a simple DSL (binary release)
+aur/corrupter-bin 1.0-1 (+4 0.00) 
+    Simple image glitcher for producing nice i3lock backgrounds - Binary version
+aur/electron21-bin 21.4.4-2 (+4 0.00) 
+    Build cross platform desktop apps with web technologies - Binary version 21
+aur/php80-redis 5.3.7-3 (+4 0.00) (Orphaned) (Out-of-date: 2023-10-01) 
+    An API for communicating with the Redis key-value store - no igbinary
+aur/monitorctl-bin 0.1.2-3 (+0 0.00) 
+    A way to control monitor brightness through the command line (binary release)
+aur/paperless-cli 0.7.1-1 (+0 0.00) 
+    A golang command line binary to interact with a Paperless instance
+aur/r-fastdummies 1.7.5-1 (+0 0.00) 
+    Fast Creation of Dummy (Binary) Columns and Rows from Categorical Variables
+aur/kapacitor-bin 1.5.9-1 (+0 0.00) (Orphaned) (Out-of-date: 2024-05-03) 
+    An open source agent for collecting metrics and data on the system; Binary release
+aur/fancylock-bin 0.0.9-1 (+0 0.00) 
+    A media-playing screen locker (precompiled binary)
+aur/bsp-patch-git 115.b15e82e-1 (+0 0.00) 
+    C implementation of the Binary Scripted Patch specification
+aur/triton-git 0.9.r652.gb022f317-1 (+3 0.05) 
+    Dynamic binary analysis framework
+aur/bytelizer-git r25.b092f21-1 (+0 0.00) 
+    Bytelizer is a binary packaging/unpack library written in modern c, focusing on performance and lightweight.
+aur/cyberdropdownloader-bin 2.3.3-2 (+2 0.00) (Orphaned) (Out-of-date: 2022-02-26) 
+    Unofficial binary installer for CyberDrop Mass Gallery Downloader
+aur/nbtexplorer-bin 2.8.0-3 (+4 0.00) 
+    Minecraft NBT Editor for editing player and world files. (Binary version)
+aur/syncthingctl-bin 1.6.3-1 (+1 0.01) 
+    CLI application for Syncthing without Syncthingtray - binary
+aur/libgdsii-git 20190411-1 (+0 0.00) 
+    C++ library for working with GDSII binary data files
+aur/tpfanctl-bin 0.1.1-1 (+0 0.00) 
+    A simple ThinkPad fan control CLI for Linux, written in Rust (binary version).
+aur/cloak-obfuscation-bin 2.10.0-1 (+2 0.00) 
+    A pluggable transport that works alongside traditional proxy tools like OpenVPN to evade deep-packet-inspection based censorship (binary version)
+aur/lab-bin 0.25.1-1 (+5 0.00) (Orphaned) 
+    A hub-like tool for GitLab (pre-built binary release)
+aur/static-web-server-bin 2.37.0-1 (+5 0.03) 
+    Static Web Server (sws): A cross-platform, high-performance and asynchronous web server for static files-serving (official binary version)
+aur/flutter-engine-common-google-bin 3.32.0-1 (+5 0.00) 
+    Flutter SDK artifacts (binary from Google) - common engine files
+aur/fooyin-bin 0.8.1-2 (+5 0.12) 
+    A customisable music player.Binary version.
+aur/flutter-dart-google-bin 3.32.0-1 (+5 0.00) 
+    Flutter SDK artifacts (binary from Google) - Dart SDK
+aur/clifm-bin 1.25-2 (+5 0.14) 
+    The command line file manager (binary version)
+aur/flutter-sky-engine-google-bin 3.32.0-1 (+5 0.00) 
+    Flutter SDK artifacts (binary from Google) - sky-engine
+aur/odin4-cli 1.2.1.dc05e3ea0-1 (+5 0.78) 
+    an Odin4 binary for flashing Samsung firmware
+aur/ttop-bin 1.5.3-1 (+5 0.02) 
+    System monitoring tool with historical data service, triggers and top-like TUI (binary release)
+aur/flutter-engine-linux-google-bin 3.32.0-1 (+5 0.00) 
+    Flutter SDK artifacts (binary from Google) - linux engine
+aur/thunderbird-esr-bin 128.11.0-1 (+5 1.28) 
+    Standalone Mail/News reader - binary version
+aur/flutter-engine-android-google-bin 3.32.0-1 (+5 0.00) 
+    Flutter SDK artifacts (binary from Google) - android engine
+aur/overskride-bin 0.6.1-1 (+5 1.80) (Out-of-date: 2025-05-25) 
+    A simple yet powerful bluetooth client (binary release)
+aur/flutter-material-fonts-google-bin 3.32.0-1 (+5 0.00) 
+    Flutter SDK artifacts (binary from Google) - material fonts
+aur/hexcompare 1.0.4-1 (+5 0.00) 
+    Curses-based utility to compare and identify differences between two binary files
+aur/flutter-gradle-google-bin 3.32.0-1 (+5 0.00) 
+    Flutter SDK artifacts (binary from Google) - gradle wrapper
+aur/artifactory-oss 7.90.13-1 (+5 0.00) 
+    Artifactory is an advanced Binary Repository Manager for use by build tools, dependency management tools and build servers
+aur/openshift-client-bin 4.18.15-0 (+5 0.01) 
+    Client tools for OpenShift, binary release
+aur/flutter-engine-web-google-bin 3.32.0-1 (+5 0.00) 
+    Flutter SDK artifacts (binary from Google) - web engine
+aur/libgestures-bin 2.1.14-2 (+1 0.00) 
+    Chromium OS gestures library (binary version)
+aur/xivlauncher-bin 1.1.2-3 (+1 0.00) 
+    Custom Launcher for Final Fantasy XIV Online - github binary artifact wrapper
+aur/antlr3-3.1.2 3.1.2-3 (+0 0.00) (Installed)
+    ANTLR3 version 3.1.2. A parser generator for reading, processing, executing, or translating structured text or binary files.
+aur/kata-runtime-bin 3.1.0-1 (+1 0.00) (Out-of-date: 2025-03-22) 
+    Lightweight virtual machines for containers (version 2, binary packaging)
+aur/libuncso2-bin 1.2.0-1 (+0 0.00) 
+    Backend for UnCSO2 (binary release)
+aur/hasura-cli-bin 2.48.1-1 (+0 0.00) 
+    Hasura CLI util binary
+aur/kaitai-struct-visualizer 0.7-1 (+5 0.00) (Installed)
+    Advanced hex viewer and binary structure exploration tool (visualizer) using Kaitai Struct ksy files
+aur/liketaskmanager-bin 2.3-2 (+2 0.00) 
+    A Qt based process monitor that mimics the feel and functionality of Windows 10 Task Manager's performance and process tab under Linux (binary release)
+aur/mongodb-compass-isolated-bin 1.46.3-1 (+3 0.01) 
+    The official GUI for MongoDB - Isolated Edition - binary version
+aur/electron6-bin 6.1.12-6 (+5 0.00) 
+    Build cross platform desktop apps with web technologies - version 6 - binary version
+aur/libsql-sqlite3 0.24.32-1 (+1 0.02) 
+    A compatibility binary for SQLite3 using libsql
+aur/render-cli-bin 2.1.4-1 (+1 0.21) 
+    The Official Render CLI (binary release)
+aur/pixelscale-git 4.3835e97-6 (+1 0.00) 
+    Standalone xBR/HQx pixel art scaling library and standalone executable (includes hqx compatibility script, pixelscale binary and xbr script)
+aur/vlang-bin 0.4.10-3 (+5 0.33) 
+    Simple compiled language for developing maintainable software (binary release)
+aur/dyninst-git v10.2.1.r39.ge5a88825d-1 (+0 0.00) (Orphaned) 
+    Tools for binary instrumentation, analysis, and modification
+aur/pwninit-bin 3.3.1-1 (+0 0.00) 
+    Automate starting binary exploit challenges.
+aur/pwninit-git 3.3.1.r0.gef64318-1 (+0 0.00) 
+    Automate starting binary exploit challenges (git)
+aur/libebml-git 1.4.3.r44.gf96946a-1 (+0 0.00) 
+    Extensible Binary Meta Language library
+aur/cpu_rec-git v1.0.r30.g108f40a-1 (+0 0.00) 
+    tool that recognizes cpu instructions in an arbitrary binary file. It can be used as a standalone tool, or as a plugin for binwalk
+aur/mongocli-bin 1.9.0-1 (+0 0.00) (Out-of-date: 2021-11-19) 
+    mongocli binary to deploy and manage Atlas clusters
+aur/gocode-daemon 20170907-1 (+5 0.00) 
+    An autocompletion daemon for the Go programming language (binary only)
+aur/ghc7.6-bin 7.6.3-7 (+2 0.00) 
+    Binary GHC 7.6 installed on /usr/bin/ghc-7.6
+aur/browserstack-local-x64 8.9-0 (+2 0.00) 
+    BrowserStack Local Testing binary - 64bit
+aur/bustd-pacman-hooks 0.1.0-1 (+2 0.00) 
+    Series of Pacman Hooks to Ensure 'bustd' is Always Running an Up-to-Date Binary
+aur/lilipod-bin 0.0.3-1 (+0 0.00) 
+    Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries (binary version)
+aur/wl-binclock 2.0.0-1 (+1 0.24) 
+    binary clock for wayland in rust
+aur/mips64-linux-gnu-binutils 2.44-1 (+3 0.00) 
+    Tools to assemble and manipulate binary and object files for the MIPS64 target (for the toolchain with GNU C library and multilib ABI)
+aur/jitsi-meet-prosody-bin 1.0.8532-1 (+2 0.00) 
+    Jitsi Meet Prosody Plugins binary
+aur/mautrix-whatsapp-bin 0.12.1-1 (+2 0.05) 
+    A Matrix-Whatsapp puppeting bridge (binary release)
+aur/bytesize-git 1.10.0-1 (+0 0.00) 
+    Convert between Binary & SI Bytes
+aur/prunner-bin 0.5.6-1 (+0 0.00) 
+    Binary release of PRUNner
+aur/albafetch-bin 4.2.1-1 (+1 0.00) 
+    Neofetch, but written in C; both faster and worse than the original (binary build)
+aur/qdrant-bin 1.14.1-2 (+0 0.00) 
+    Vector Database for the next generation of AI applications - Binary
+aur/brlcad-bin 7.40.2-1 (+0 0.00) 
+    An extensive 3D solid modeling system. Binary package
+aur/bdelta-git 1:0.3.1.post2+g4782c58_20160919.fefefilesize-4 (+0 0.00) 
+    A tool to create diffs of binary files. A sophisticated sequence matching library bundled with a delta creator and patch tool.
+aur/sonixd-bin 0.15.5-2 (+0 0.00) 
+    The latest stable binary release of Sonixd - a full-featured Subsonic API compatible cross-platform desktop client
+aur/rstudio-desktop-daily-bin 2025.08.0.daily.177-2 (+6 0.00) 
+    An integrated development environment (IDE) for R (binary version from RStudio official repository)
+aur/deadbeef-plugin-jack-bin 20200322.62d1e6a-1 (+6 0.00) 
+    JACK output plugin for DeaDBeeF music player (binary release)
+aur/native-image-jdk11-bin 22.3.2-1 (+6 0.04) 
+    Plugin to turn GraalVM-based applications into native binary images (Java 11 version)
+aur/prometheus-bin 3.4.1-1 (+6 0.00) 
+    An open-source service monitoring system and time series database (binary, not built from source)
+aur/pixelchart 1.3.0-1 (+0 0.00) 
+    Map binary data into a beautiful chart
+aur/converternow-bin 4.3.3-1 (+2 0.23) 
+    The Unit Converter app: easy, immediate and multi-platform (binary release)
+aur/r-birewire 3.40.0-1 (+0 0.00) 
+    High-performing routines for the randomization of a bipartite graph (or a binary event matrix), undirected and directed signed graph preserving degree distribution (or marginal totals)
+aur/libdxfrw-git v0.5.10.r73.g3431cc6-1 (+1 0.00) 
+    C++ library to read/write DXF files in binary and ASCII form and to read DWG files from r14 to v2015.
+aur/yeganesh-bin 2.5-1 (+1 0.00) (Orphaned) 
+    dmenu with a sense of history (binary release)
+aur/libowfat-bin 0.30-2 (+1 0.00) (Orphaned) 
+    Reimplementation of libdjb, shared library (binary version)
+aur/syncthingctl 1.4.13-1 (+1 0.00) 
+    CLI application for Syncthing without Syncthingtray - binary
+aur/timecamp-bin 1.7.2.0-1 (+1 0.00) 
+    Client application for TimeCamp software (Binary).
+aur/kubergrunt 0.14.2-1 (+0 0.00) (Out-of-date: 2025-03-09) 
+    Kubergrunt is a standalone go binary with a collection of commands to fill in the gaps between Terraform, Helm, and Kubectl
+aur/brother-mfc-t800w-bin 3.0.2_0-1 (+0 0.00) 
+    Binary Driver for Brother MFC-T800W printer
+aur/upscayl-rpm-bin 2.15.0-1 (+2 0.07) 
+    Free and Open Source AI Image Upscaler (binary release, system Electron)
+aur/electron13-bin 13.6.9-2 (+6 0.75) 
+    Build cross platform desktop apps with web technologies - binary version 13
+aur/soundy-bin 0.4.1-1 (+0 0.00) 
+    Simple GTK client to control your Bose SoundTouch speaker (binary release)
+aur/stlspy-bin 1.0.0_beta1-1 (+0 0.00) 
+    A way to discover and organise your 3d prints (binary release)
+aur/mongodb-compass-bin 1.46.3-1 (+3 2.21) 
+    The official GUI for MongoDB - binary version
+aur/dirstat-go-bin 1.3.2-1 (+2 0.02) 
+    Small tool that shows selected folder or drive usage statistic (binary release)
+aur/bspwm-rounded-corners 0.9.10-2 (+3 0.00) (Orphaned) 
+    Tiling window manager based on binary space partitioning
+aur/gfn-electron-bin 2.2.0-2 (+2 0.72) 
+    Linux Desktop client for Nvidia's GeForce NOW game streaming service (binary release)
+aur/imgbrd-grabber-bin 7.13.0-2 (+3 0.00) 
+    Unofficial binary installer for ImgBrd Grabber
+aur/conduit-bin 0.9.0-1 (+1 0.00) (Out-of-date: 2025-05-09) 
+    stable, binary, static versions of the Conduit server (Matrix protocol)
+aur/veles 2018.05-1 (+3 0.00) 
+    Binary data analysis and visualization tool
+aur/fscan-bin 2.0.0_build4-1 (+0 0.00) 
+    An intranet comprehensive scanning tool.Written in Go,binary version.一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描.
+aur/bamrescue 0.3.0-1 (+0 0.00) 
+    Utility to check Binary Sequence Alignment / Map (BAM) files for corruption and repair them
+aur/kitch-bin 26.1.9-5 (+0 0.00) 
+    The itch.io desktop app (beta channel) (binary release)
+aur/annix-bin nightly-2 (+0 0.00) 
+    Music player for Project Anni. (Binary version)
+aur/byteblitz 1.0.0-9 (+0 0.00) 
+    A CLI tool for viewing the binary content of files.
+aur/diary-bin 0.1.2-1 (+0 0.00) (Orphaned) 
+    Encrypted memories -- a journal program with local encryption support (binary release)
+aur/base16384 2.3.1-1 (+0 0.00) 
+    Encode binary files to printable utf16be.
+aur/libbgcode r219.5347c33-1 (+0 0.00) 
+    Prusa Block & Binary G-code reader / writer / converter
+aur/coder-oss 2.23.0-1 (+0 0.00) 
+    Provision remote development environments via Terraform - OSS build - server and client unified binary
+aur/librepcb-appimage 1.3.0-1 (+3 0.00) 
+    A free EDA software to develop printed circuit boards (binary AppImage version)
+aur/adguardhome-bin 0.107.52-1 (+7 0.01) (Out-of-date: 2024-10-14) 
+    Network-wide ads and trackers blocking DNS server (binary version).
+aur/pzl_akari 32.1-1 (+7 0.00) 
+    A binary-determination logic puzzle, also called Light Up.
+aur/pzl_binary 32.1-1 (+7 0.00) 
+    Puzzle game with binary numbers in a grid.
+aur/x86_64-elf-binutils 2.44-1 (+7 0.00) 
+    A set of programs to assemble and manipulate binary and object files for the x86_64-elf target
+aur/elm-bin 0.19.1-1 (+7 0.00) 
+    Elm compiler (official binary)
+aur/m68k-elf-binutils 2.44-1 (+7 0.00) 
+    A set of programs to assemble and manipulate binary and object files (m68k-elf)
+aur/beyond-identity-bin 2.103.0_17-1 (+3 0.00) 
+    Beyond Identity Linux authenticator (official binary)
+aur/powershell-preview-bin 7.4.0.preview.6-1 (+4 0.00) (Orphaned) (Out-of-date: 2024-12-11) 
+    A cross-platform automation and configuration tool/framework (binary preview package)
+aur/tinyssh-keyconvert 0.3.2-1 (+0 0.00) (Out-of-date: 2024-01-26) 
+    Convert OpenSSH ed25519 / ecdsa-nistp256 secret keys to binary format for TinySSH
+aur/fulcrum-bin 1.12.0-1 (+1 1.00) 
+    A fast & nimble SPV server for Bitcoin Cash - binary version
+aur/kicad-nightly-rpm 20241202+196368e-1 (+0 0.00) 
+    Electronic schematic and printed circuit board (PCB) design tools - RPM Binary
+aur/ciff-pisa 0.1.1-1 (+0 0.00) 
+    Conversion tool from PISA binary collection to CIFF and back
+aur/electron8-bin 1:8.5.5-6 (+7 0.00) 
+    Build cross platform desktop apps with web technologies - version 8 - binary version
+aur/electron9-bin 9.4.4-2 (+7 0.00) 
+    Build cross platform desktop apps with web technologies - version 9 - binary version
+aur/nwnsc-bin 1.1.5-1 (+0 0.00) 
+    A Neverwinter Nights script compiler (binary version)
+aur/bmfdec-git r49.abb99dc-1 (+1 0.00) 
+    Decompile binary MOF file (BMF) from WMI buffer (git master)
+aur/wifiqr-bin 1.2.2-1.2 (+1 0.00) 
+    A simple program to generate a QR code to connect to a WiFi network (binary version)
+aur/mister-bin 20230716-1 (+1 0.00) 
+    Userspace binary that manages MiSTer on the ARM side, prebuilt
+aur/nvibrant-bin 1.0.6-1 (+2 1.03) 
+    Nvidia Digital Vibrance on Wayland (binary release)
+aur/cura-binary-data 5.7.0-1 (+0 0.00) (Out-of-date: 2025-03-01) 
+    Binary data (firmwares and such) for cura
+aur/superslicer-bin 2.5.59.13-1 (+3 0.00) 
+    G-code generator for 3D printers (Creality, RepRap, Makerbot, Ultimaker etc.) (binary AppImage)
+aur/quran-companion 1.3.2-1 (+3 0.04) 
+    Cross-platform desktop offline Quran reader and player (binary release)
+aur/kubernetes-cni-bin 0.7.5-1 (+3 0.00) 
+    Kubernetes.io kubernetes-cni binary
+aur/python-bsdiff4 1.2.6-1 (+4 0.28) (Installed)
+    Binary diff and patch using the BSDIFF4-format
+aur/dieharder-bin 3.31.1-1 (+2 0.00) (Orphaned) 
+    A Random Number Test Suite (Binary version)
+aur/ghidra-extension-kaiju-bin 240327-1 (+3 0.04) (Out-of-date: 2025-02-20) 
+    Binary analysis improvements for Ghidra. Can import C++ symbols from OOAnalyer
+aur/chia-cli-bin 2.5.4-1 (+2 0.00) 
+    A new blockchain and smart transaction platform that is easier to use, more efficient, and secure. - Binary Release, Without GUI
+aur/swift-bin-development 4:6.0.DEVELOPMENT-2 (+5 0.00) 
+    Binary builds of the Swift programming language (dev snapshot)
+aur/papa-bin 4.1.0-1 (+0 0.00) 
+    Mod manager CLI for Northstar (binary release)
+aur/dopamine 3.0.0_preview.38-2 (+0 0.00) 
+    The audio player that keeps it simple.Binary version.(Use system-wide electron)
+aur/beam-bin 0.1.19-1 (+0 0.00) (Orphaned) 
+    Free desktop application that delivers fast, reliable and secure access to the open Internet. (Stable Channel, binary)
+aur/firebase-tools-bin 14.6.0-1 (+4 0.02) 
+    The Firebase Command Line Tools (bundled official standalone binary)
+aur/kpackage-git 6.0.0_r1037.g5adb7f8-1 (+8 0.00) 
+    Framework that lets applications manage user installable packages of non-binary assets
+aur/peaclock 0.4.3-2 (+8 1.88) 
+    A colourful binary clock for the terminal
+aur/dead-ringer 1.0.4-1 (+0 0.00) 
+    Binary diff utility
+aur/mingw-w64-double-conversion 3.3.0-1 (+1 0.00) (Orphaned) 
+    Binary-decimal and decimal-binary routines for IEEE doubles (mingw-w64)
+aur/liblast-bin 2023.12.30-1 (+2 0.03) 
+    A libre multiplayer FPS game and framework built using Godot game engine and a fully open-source tool chain (PREVIEW) (binary release)
+aur/sunsetr-bin 0.4.0-1 (+2 1.44) 
+    Automatic color temperature controller for hyprsunset (pre-compiled binary)
+aur/hexerator 0.4.0-1 (+1 0.00) 
+    Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition
+aur/ps2-romfs 2.0-1 (+1 0.00) 
+    Open a binary image in memory as a directory (Sony Playstation® 2 videogame system port).
+aur/barnyard2 1.13-2 (+1 0.00) 
+    A dedicated spooler for Snort's unified2 binary output format.
+aur/zola-git 0.20.0.r3.38a5a72-1 (+0 0.00) 
+    A fast static site generator in a single binary with everything built-in
+aur/xdman-beta-bin 8.0.29-8 (+3 0.00) 
+    Powerfull download accelerator and video downloader (binary release)
+aur/firefox-extension-bitwarden-bin 2024.12.4-2 (+6 0.01) 
+    A secure and free password manager for all of your devices (binary release)
+aur/ligo-bin 1.10.0-1 (+0 0.00) 
+    High Level Smart Contract Language for Tezos (binary)
+aur/beaver-notes-bin 4.0.0-1 (+4 0.01) 
+    Your Personal Note-Taking Haven for Privacy and Efficiency (binary release)
+aur/bililive-go-bin 0.7.18-1 (+0 0.00) 
+    pre build binary for bililive-go
+aur/fsharp-mono-bin 5.0.0.0-1 (+0 0.00) 
+    The legacy Mono F# Compiler, Core Library & Tools (Xamarin binary build). Newer versions are included in dotnet-core.
+aur/denise-bin 2.5-1 (+1 0.01) 
+    Highly accurate C64/Amiga emulator - binary release
+aur/java-bcel 6.2-2 (+1 0.00) (Orphaned) (Out-of-date: 2023-10-08) 
+    Java library to analyze, create, and manipulate (binary) Java class files
+aur/libplatform-git 2.0.1.r2.g041a8c6-1 (+4 0.00) 
+    Platform support library used by libCEC and binary add-ons for Kodi
+aur/fcast-receiver-bin 23.0.0-1 (+2 0.03) (Out-of-date: 2024-09-01) 
+    Binary releases of Fcast
+aur/listmonk-bin 5.0.0-1 (+3 0.02) 
+    Self-hosted newsletter and mailing list manager with a modern dashboard (binary release)
+aur/msp430-elf-binutils 2.42-1 (+9 0.00) 
+    GNU binary utilities for the msp430-elf target.
+aur/newspost 2.1.1-4 (+9 0.00) 
+    A usenet binary autoposter for unix
+aur/clickhouse-common-static-bin 25.5.2.47-1 (+9 0.00) 
+    ClickHouse compiled binary files.
+aur/notepadnext-bin 0.11-1 (+9 0.88) 
+    A cross-platform, reimplementation of Notepad++ (binary release)
+aur/ftkimager 3.1.1-3 (+9 0.00) 
+    Closed source binary CLI forensic imaging software by Access Data
+aur/lazpaint-bin 7.3-1 (+9 0.01) 
+    Image editor, like PaintBrush or Paint.Net, written in Lazarus (Free Pascal). Binary release (GTK2)
+aur/openwatcom-v2 2.0_2025_03_01-2 (+9 0.01) 
+    The Open Watcom Fortran/C/C++ compiler, binary distribution -V2 fork
+aur/kaitai-struct-compiler 0.10-1 (+9 0.00) (Installed: 0.8-1)
+    Kaitai Struct Compiler: Compiler for the Kaitai declarative binary format parsing language
+aur/rr-bin 5.9.0-1 (+7 0.24) 
+    Binary record and replay framework: lightweight recording and deterministic debugging
+aur/semaphore-bin 2.10.43-1 (+3 0.00) 
+    Modern UI for Ansible (Binary Release)
+aur/coderec 0.1.2-1 (+0 0.00) 
+    Identifies machine code in binary files.
+aur/dyninst 10.2.1-1 (+0 0.00) (Orphaned) (Out-of-date: 2023-12-18) 
+    Tools for binary instrumentation, analysis, and modification
+aur/distrohoop-bin 1.0.0-1 (+0 0.00) 
+    A CLI Tool written in Rust that determines your next Distro :D! (Precompiled binary)
+aur/klassy-bin 6.3.breeze6.3.5-1 (+2 0.01) 
+    Highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
+aur/bklk-git latest-1 (+1 0.00) 
+    Ncurses Binary Clock
+aur/lidm-bin 0.2.2-1 (+1 0.57) 
+    A fully colorful customizable TUI display manager made in C. (release binary)
+aur/emoji-keyboard-bin 4.0.0-6 (+9 0.02) 
+    Virtual keyboard like emoji palette (binary release)
+aur/mongotron-bin 1.0.0.alpha5-1 (+4 0.00) (Orphaned) (Out-of-date: 2024-01-09) (Installed)
+    Chrome-based mongo db management tool - Precompiled binary from official repository
+aur/libosmpbf-git 1.4.0.r4.g8ab05ca-2 (+4 0.00) 
+    A library to support OpenStreetMap's protocolbuffer binary format (OSM PBF)
+aur/libosmpbf 1.5.0-1 (+2 0.00) 
+    A library to support OpenStreetMap's protocolbuffer binary format (OSM PBF)
+aur/aura3-bin 3.2.10-1 (+2 0.00) 
+    A secure package manager for Arch Linux and the AUR - Haskell-series Prebuilt binary
+aur/bard-bin 2.0.1-1 (+1 0.00) 
+    Creates PDF and HTML songbooks out of easy-to-write Markdown sources. Binary package.
+aur/clipboard-bin 0.10.0-1 (+10 0.12) 
+    Cut, copy, and paste anything in your terminal (binary version).
+aur/i686-elf-binutils 2.41-1 (+10 0.04) (Out-of-date: 2025-04-02) 
+    A set of programs to assemble and manipulate binary and object files for the i686-elf target
+aur/webcord-bin 4.11.0-2 (+10 0.45) 
+    A Discord client implemented directly without Discord API (binary release)
+aur/python-nbt 1.5.1-5 (+10 0.00) 
+    Named Binary Tag Reader/Writer
+aur/bin-cpuflags-x86-bin 1.0.3-1 (+0 0.00) 
+    A small CLI tool to detect CPU flags (instruction sets) of X86 binaries (binary release)
+aur/bak-bin 0.2.0-1 (+0 0.00) 
+    A backup tool written in bash (binary version)
+aur/lazap-bin 0.8.3-1 (+2 0.00) 
+    Lightweight cross-platform software, unifying games into a single, modern library (binary release)
+aur/bitstream-git 1.4.r67.gba7576b-1 (+0 0.00) 
+    A set of C headers allowing a simpler access to binary structures such as specified by MPEG, DVB, IETF, SMPTE, IEEE, SCTE, etc
+aur/fubar-cli-git 09d86bc-1 (+0 0.00) 
+    Formidable Unix Binary Arsenal & Repository
+aur/picotool-git r1.d54bf53-1 (+4 0.00) 
+    Tool for interacting with a RP2040 device in BOOTSEL mode, or with a RP2040 binary
+aur/kanban-bin 1.7.1-1 (+3 0.00) 
+    Self hosted Kanban board for GitLab issues (precompiled binary)
+aur/electron11-bin 11.5.0-2 (+10 0.02) 
+    Build cross platform desktop apps with web technologies - version 11 - binary version
+aur/sing-box-beta-bin 1.9.0.rc.13-1 (+2 0.00) 
+    The universal proxy platform (beta binary version).
+aur/lldap-bin 0.6.1-1 (+2 0.01) 
+    Light LDAP implementation for authentication - binary release
+aur/spiffy-git 20150818.r11.3b66e66-1 (+3 0.00) (Out-of-date: 2023-12-08) 
+    spiffy builds a binary spiffs image for you to write_flash to a esp8266 runing nodemcu so you can get all the files onto your cool IoT device in one fell swoop. (git-version)
+aur/river-bsp-layout 2.1.1-1 (+0 0.00) 
+    Binary space partitioned layout for the tiling Wayland compositor River
+aur/r-rserve 1.8.13-2 (+0 0.00) 
+    Binary R server
+aur/64gram-desktop-bin 1:1.1.58-1 (+11 0.28) 
+    Unofficial desktop version of Telegram messaging app - binary version
+aur/drive-bin 0.4.0-2 (+11 0.00) 
+    Google Drive client for the commandline (binary version)
+aur/logisim-evolution-bin 3.9.0-1 (+11 0.51) 
+    An educational tool for designing and simulating digital logic circuits (binary version)
+aur/flow-bin 0.272.2-1 (+11 0.03) 
+    A static type checker for JavaScript - binary version
+aur/refind-efi-bin 0.14.2-1 (+11 0.00) 
+    Rod Smith's fork of rEFIt UEFI Boot Manager - Precompiled binary - Built with GNU-EFI libs
+aur/cpu_rec 1.1-1 (+1 0.00) 
+    tool that recognizes cpu instructions in an arbitrary binary file. It can be used as a standalone tool, or as a plugin for binwalk
+aur/mun-bin 0.4.0-1 (+1 0.00) (Out-of-date: 2024-02-07) 
+    A programming language empowering creation through iteration - prebuilt binary
+aur/mingw-w64-gf2x 1.3.0-1 (+1 0.00) (Orphaned) 
+    A library for multiplying polynomials over the binary field (mingw-w64)
+aur/sniprun 1.3.17-1 (+1 0.01) (Out-of-date: 2025-06-08) 
+    Compiled binary core for neovim-sniprun
+aur/annobin 12.96-1 (+1 0.06) 
+    A binary annotation and examination package.
+aur/hexgrep 2013.9.6-4 (+1 0.00) 
+    versatile grep-like binary stream and file search tool
+aur/picard-appimage-daily continuous-1 (+1 0.00) (Orphaned) 
+    MusicBrainz Picard audio file tagger, unofficial binary builds for the latest development version.
+aur/materialgram-bin 5.14.2.1-1 (+6 0.12) 
+    Telegram Desktop based messenger with Material Design and additional features - Binary Version
+aur/battop-bin 0.2.4-1 (+3 0.02) 
+    Interactive batteries viewer (binary release)
+aur/alfae-bin 1.4.3-1 (+3 0.00) 
+    An Itch.io/Epic Games/GOG launcher that works through plugins (binary release)
+aur/rizin-git 1:0.5.0-1 (+3 0.00) 
+    Open-source tools to disasm, debug, analyze and manipulate binary files
+aur/mipsel-elf-binutils 2.42-1 (+7 0.01) 
+    A collection of binary tools for baremetal MIPS.
+aur/lichen 0.1.7-1 (+0 0.00) 
+    Go binary license checker. Extracts module usage information from binaries and analyses their licenses.
+aur/libxls 1.6.2-2 (+0 0.00) (Out-of-date: 2025-03-20) 
+    Read binary Excel files from C/C++
+aur/gozer 0.2.0-1 (+0 0.00) 
+    Fast, opinionated and simple static site generator in a single static binary.
+aur/linux-kata-bin 3.1.0-1 (+1 0.00) (Out-of-date: 2025-03-22) 
+    Lightweight virtual machines for containers (version 2, binary packaging)
+aur/deskreen-bin 2.0.4-3 (+5 0.00) 
+    Turn any device into a secondary screen for your computer (binary release)
+aur/libavlbst-git 2.1.0.r18.6e7bfca-1 (+0 0.00) 
+    General purpose AVL binary search tree library.
+aur/cromite-bin 137.0.7151.72-1 (+12 1.83) 
+    Cromite a Bromite fork with ad blocking and privacy enhancements (binary release)
+aur/cmdpack-bincomp 1.06-2 (+12 0.00) 
+    Compare binary files
+aur/notesnook-bin 3.1.1-1 (+12 0.61) 
+    A fully open source & end-to-end encrypted note taking alternative to Evernote (binary release)
+aur/tifig-bin 0.2.2-1 (+3 0.00) 
+    Converts iOS 11 HEIC images to practical formats - Static binary
+aur/mips-elf-binutils 2.44-1 (+7 0.87) 
+    A set of programs to assemble and manipulate binary and object files for the MIPS ELF (bare-metal) architecture
+aur/dynamorio-bin 11.3.0-1 (+1 0.00) 
+    A dynamic binary instrumentation framework
+aur/kwooty-frameworks-git 1.1.0.r1228.4def039-1 (+8 0.00) 
+    A friendly nzb usenet binary downloader for KDE. KF5 frameworks branch. (GIT Version)
+aur/riscv64-unknown-elf-binutils 2.43.1-1 (+9 0.00) 
+    Assemble and manipulate binary and object files for 32bit and 64bit RISC-V
+aur/jitsi-videobridge-bin 2.3+217+g125684fc-1 (+7 0.00) 
+    Jitsi Meet Videobridge binary
+aur/kubelet-bin 1.32.1-1 (+11 0.00) 
+    Kubernetes.io kubelet binary
+aur/curl-http3 8.6.0-1 (+12 0.00) 
+    An URL retrieval utility and library - compiled with HTTP/3 support - binary is called curl3
+aur/arnis-bin 2.2.1-1 (+3 0.86) 
+    Generate any location from the real world in Minecraft (binary version)
+aur/openjump-bin 2.3.0-1 (+12 0.00) (Out-of-date: 2025-03-13) 
+    Geographic Information System (GIS) written in the Java (binary version)
+aur/tbclock 1.10-1 (+12 0.00) 
+    Displays a full screen binary clock in your terminal.
+aur/cura-binary-data-git 4.5.0-1 (+3 0.00) (Orphaned) (Out-of-date: 2024-01-10) 
+    Binary data (firmwares) for cura
+aur/aws-cli-bin 1:2.27.34-1 (+13 2.87) 
+    Unified command line interface for Amazon Web Services (Amazon provided v2 binary release)
+aur/nintyfont-git 1.0.alpha.2.r2.g38af946-2 (+0 0.00) 
+    Nintendo binary font editor
+aur/bbe 0.2.2-3 (+1 0.02) 
+    A sed-like editor for binary files
+aur/motrix-bin 1.8.19-2 (+14 0.42) 
+    A full-featured download manager (binary version)
+aur/wootility-appimage 4.7.4-1 (+14 0.00) (Out-of-date: 2025-02-26) 
+    Utility for configuring Wooting keyboards (binary AppImage version)
+aur/telegraf-bin 1.34.4-1 (+14 0.00) 
+    An open source agent for collecting metrics and data on the system; Binary release
+aur/mips64-elf-binutils 2.44-1 (+9 0.52) 
+    A set of programs to assemble and manipulate binary and object files (mips64-elf)
+aur/wineasio32 1.2.0-10 (+0 0.00) 
+    ASIO driver implementation for Wine - 32 bit binary
+aur/rstudio-server-bin 2025.05.0_496-1 (+15 0.24) 
+    A integrated development environment (IDE) for R (binary version from RStudio official website)
+aur/zesarux-bin 12.0-1 (+1 0.00) 
+    Emulator of different Z80-based computers, including ZX Spectrum. Precompiled binary.
+aur/scmccid 5.0.35-5 (+10 0.00) (Orphaned) 
+    Binary driver for the SCM smart card readers
+aur/kubeadm-bin 1.32.3-2 (+14 0.00) 
+    Kubernetes.io kubeadm binary
+aur/shiori-bin 1.7.4-1 (+6 0.03) 
+    Simple bookmark manager built with Go (only the pre-compiled binary).
+aur/pingme-bin 0.2.6-2 (+0 0.00) 
+    PingMe is a CLI tool which provides the ability to send messages or alerts to multiple messaging platforms & email (official binary)
+aur/icu69-bin 69.1-1 (+15 0.42) 
+    International Components for Unicode library (binary release)
+aur/itch-bin 26.1.9-3 (+16 0.02) 
+    The itch.io desktop app (binary release)
+aur/bin2header-git r4.f5a8cef-1 (+0 0.00) (Orphaned) 
+    A small tool to convert binary files into C-header files to include into your code
+aur/klassy-qt5-git 6.2.breeze6.2.1.r3211.g2552f9df-1 (+9 0.17) 
+    Highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
+aur/010editor 15.0.2-1 (+17 0.08) 
+    Professional text and hex editing with Binary Templates technology
+aur/grafana-bin 12.0.1-1 (+17 0.06) 
+    Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB - binary version
+aur/joker-bin 1.5.0-1 (+7 0.00) 
+    A Clojure interpreter and linter written in Go - Precompiled binary from official repository.
+aur/teams-for-linux-bin 2.0.14-1 (+18 3.26) 
+    Unofficial Microsoft Teams for Linux client (binary version)
+aur/boostnote-bin 0.16.1-1 (+10 0.00) (Orphaned) (Out-of-date: 2022-03-24) 
+    Open source note-taking app for programmers. Official binary.
+aur/monacoin-bin 0.20.2-1 (+1 0.00) 
+    Binary release of the Monacoin alternative cryptocurrency.
+aur/pacseek-bin 1.8.5-1 (+18 0.36) 
+    A terminal user interface for searching and installing Arch Linux packages (binary version)
+aur/dotnet-sdk-preview-bin 10.0.0.sdk100+preview.5-1 (+19 0.35) 
+    The .NET Core SDK (preview, binary)
+aur/aspnet-runtime-preview-bin 10.0.0.sdk100+preview.5-1 (+19 0.35) 
+    The ASP.NET Core runtime (preview, binary)
+aur/aspnet-targeting-pack-preview-bin 10.0.0.sdk100+preview.5-1 (+19 0.35) 
+    The ASP.NET Core targeting pack (preview, binary)
+aur/dotnet-runtime-preview-bin 10.0.0.sdk100+preview.5-1 (+19 0.35) 
+    The .NET Core runtime (preview, binary)
+aur/quarto-cli-bin 1.7.31-1 (+19 0.55) 
+    An open-source scientific and technical publishing system built on Pandoc (binary from official repo)
+aur/dotnet-host-preview-bin 10.0.0.sdk100+preview.5-1 (+19 0.35) 
+    A generic driver for the .NET Core Command Line Interface (preview, binary)
+aur/dotnet-targeting-pack-preview-bin 10.0.0.sdk100+preview.5-1 (+19 0.35) 
+    The .NET Core targeting pack (preview, binary)
+aur/abrowser-bin 139.0.1-1 (+15 0.00) 
+    Binary version of Abrowser, safe and easy web browser from Mozilla
+aur/binutils-msp430 2.21.1a-1 (+2 0.00) (Orphaned) (Out-of-date: 2023-08-16) 
+    A set of programs to assemble and manipulate binary and object files for the MSP430 architecture
+aur/jicofo-bin 1.0+1126-1 (+8 0.00) 
+    JItsi meet COnference FOcus binary
+aur/beye 6.1.0-5 (+4 0.00) (Installed)
+    A portable viewer of binary files, hexadecimal and disassembler modes
+aur/klassy-git 6.2.breeze6.2.1.r3211.g2552f9df-1 (+9 0.17) 
+    Highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
+aur/dissent-bin 0.0.34-1 (+10 0.54) 
+    Discord client written in go and gtk4 (binary version)
+aur/c-lcrypt 4.0.0-1 (+0 0.00) 
+    C++ encryption program with RAM-based I/O, featuring byte shuffling, binary reversal, bit insertion, byte substitution with randomized table, and XOR key encryption for secure file/folder handling.
+aur/binserve-git 0.1.0.r28.g4bee064-1 (+0 0.00) (Out-of-date: 2023-06-27) 
+    A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code - written in Rust.
+aur/beav 1.40-1 (+3 0.00) 
+    Binary Editor And Viewer (with some modifications by the Debian team: release 18)
+aur/bcftools 1.22-1 (+8 0.00) 
+    A program for variant calling and manipulating files in the Variant Call Format (VCF) and its binary counterpart BCF
+aur/vkd3d-proton-bin 2.14.1-1 (+21 0.75) 
+    Direct3D 12 to Vulkan translation library (Windows DLL binary files)
+aur/sabnzbd-git r8854.de6c56002-1 (+22 0.00) 
+    A web-interface based binary newsgrabber with NZB file support
+aur/vmd 1.9.4a57-1 (+21 0.28) (Out-of-date: 2025-03-05) 
+    Visual Molecular Dynamics (official binary build)
+aur/pico-tts 0.1.2-1 (+8 0.00) 
+    lib and unix binary for text-to-speech engine from Android
+aur/xdelta 1.1.4-7 (+13 0.14) (Out-of-date: 2025-02-27) 
+    Binary file delta generator
+aur/binocle-git 0.2.0.r4.g845890a-1 (+0 0.00) 
+    A graphical tool to visualize binary data (git)
+aur/bin2cpp-git 1.0.5-1 (+0 0.00) 
+    CLI tool to embed binary files into C++ headers
+aur/fingrom-bin 5.1.3-1 (+0 0.00) 
+    Platform-agnostic financial accounting application (binary release)
+aur/litecoin-bin 0.21.4-1 (+14 0.00) 
+    Peer-to-peer digital currency, official binary release (includes litecoin-qt and litecoind)
+aur/bed 0.2.8-1 (+1 0.00) 
+    binary editor written in Go
+aur/bin2hex-git r5.aa6b51a-23 (+0 0.00) 
+    Convert raw binary files to Intel "IHEX" type files (used for loading large chunks of data into an Arduino board)
+aur/jitsi-meet-bin 1.0.8532-1 (+14 0.12) 
+    Jitsi Meet Web binary
+aur/mihomo-bin 1.19.10-1 (+5 0.66) 
+    Binary version of mihomo.
+aur/gdlauncher-bin 2.0.22-1 (+17 0.06) (Out-of-date: 2025-06-01) 
+    A simple, yet powerful Minecraft custom launcher with a strong focus on the user experience (binary release)
+aur/easymp3gain-qt4-bin 0.5.0-8 (+27 0.00) (Orphaned) 
+    Qt Graphical User Interface (GUI) for MP3Gain, VorbisGain and AACGain (binary package)
+aur/cinny-desktop-bin 4.8.1-1 (+12 2.19) 
+    Matrix client focusing primarily on a simple, elegant and secure interface (binary release)
+aur/thunderbird-bin 139.0.2-1 (+28 0.01) 
+    Standalone Mail/News reader - binary version
+aur/cqrlog-bin 2.5.2-3 (+27 0.00) 
+    An advanced ham radio QSO logger using MariaDB - BINARY version.
+aur/binfmt_aout 4.0-2 (+0 0.00) (Out-of-date: 2024-01-18) 
+    binfmt_aout kernel module, for running an a.out binary format
+aur/sing-box-bin 1.11.13-1 (+8 0.27) 
+    The universal proxy platform (binary version).
+aur/renderdoc-bin 1.38-1 (+17 0.00) 
+    OpenGL and Vulkan debugging tool - binary version
+aur/gcc-arm-none-eabi-bin 14.2.rel1-1 (+29 0.00) 
+    GNU Tools ARM Embedded Processors (binary distribution, includes newlib, does NOT include GDB)
+aur/bitstream 1.5-1 (+4 0.00) (Installed)
+    biTStream is a set of C headers allowing a simpler access to binary structures such as specified by MPEG, DVB, IETF, SMPTE, IEEE, SCTE, etc.
+aur/chia-bin 2.5.4-1 (+12 0.08) 
+    A new blockchain and smart transaction platform that is easier to use, more efficient, and secure. - Binary Release, Provides GUI
+aur/bindump-git 1.01-1 (+1 0.00) 
+    Display binary contents of any file.
+aur/antlr3 3.5.3-1 (+9 0.00) 
+    Parser generator for reading, processing, executing, or translating structured text or binary files.
+aur/ethminer-bin 0.18.0-2 (+30 0.00) 
+    Ethereum miner with OpenCL, CUDA and stratum support (precompiled binary)
+aur/openrgb-bin 0.9-3 (+17 0.28) 
+    Open source RGB lighting control that doesn't depend on manufacturer software. Precompiled binary
+aur/bun-git 1.0.36.r9080.02ad501-1 (+1 0.00) (Out-of-date: 2025-05-28) 
+    Bun is a fast JavaScript all-in-one toolkit. This PKGBUILD builds from source, resulting into a minor binary depending on your CPU.
+aur/arnold-bin 1.0.0-1 (+16 0.00) (Orphaned) (Out-of-date: 2024-02-28) 
+    An Amstrad CPC emulator using SDL with a WxGTK interface - Binary package
+aur/python-pyclip 0.7.0-6 (+34 1.77) 
+    Cross-platform clipboard utilities supporting both binary and text data
+aur/binaryninja-personal 5.0.7290-1 (+1 0.00) 
+    An interactive decompiler, disassembler, debugger, and binary analysis platform. This package is for the Personal Edition and requires both an installer zip (x86 or ARM) and a license.
+aur/python-conda 25.5.1-1 (+34 0.03) 
+    OS-agnostic, system-level binary package manager and ecosystem https://conda.io
+aur/stack-bin 3.5.1-1 (+36 0.52) 
+    The Haskell Tool Stack. Packaged from upstream binary release.
+aur/libavl 2.0.3-2 (+0 0.00) 
+    GNU library working with binary trees
+aur/ferdium-bin 7.1.0-1 (+38 1.13) 
+    A messaging browser that allows you to combine your favorite messaging services into one application (binary release).
+aur/libsemanage 3.8-1 (+21 0.00) (Out-of-date: 2025-04-14) 
+    SELinux binary policy manipulation library
+aur/pizarra-bin 1.7.5-1 (+4 0.00) 
+    A free-hand vector drawing application with infinite canvas (binary version)
+aur/base91 0.6.0-6 (+12 0.00) 
+    An advanced method for encoding binary data to ASCII text
+aur/bgrep-git 0.2.r86.g4401646-3 (+1 0.00) 
+    Binary Grep
+aur/visual-studio-code-insiders-bin 1749657291-1 (+34 0.28) 
+    Visual Studio Code Insiders (vscode): Editor for building and debugging modern web and cloud applications (official binary version)
+aur/dotnet-runtime-bin 9.0.5.sdk300-1 (+47 0.15) 
+    The .NET Core runtime (binary)
+aur/dotnet-host-bin 9.0.5.sdk300-1 (+47 0.15) 
+    A generic driver for the .NET Core Command Line Interface (binary)
+aur/dotnet-sdk-bin 9.0.5.sdk300-1 (+47 0.15) 
+    The .NET Core SDK (binary)
+aur/netstandard-targeting-pack-bin 9.0.5.sdk300-1 (+47 0.15) 
+    The .NET Standard targeting pack (binary)
+aur/dotnet-targeting-pack-bin 9.0.5.sdk300-1 (+47 0.15) 
+    The .NET Core targeting pack (binary)
+aur/aspnet-runtime-bin 9.0.5.sdk300-1 (+47 0.15) 
+    The ASP.NET Core runtime (binary)
+aur/aspnet-targeting-pack-bin 9.0.5.sdk300-1 (+47 0.15) 
+    The ASP.NET Core targeting pack (binary)
+aur/syncthing-bin 1.29.7-1 (+28 0.00) 
+    Open Source Continuous Replication / Cluster Synchronization Thing: binary.
+aur/peazip-qt-bin 10.4.0-1 (+50 0.18) 
+    PeaZip file manager and archiver (binary release)
+aur/brave-nightly-bin 1.81.77-1 (+36 2.26) 
+    Web browser that blocks ads and trackers by default (nightly binary release).
+aur/i2p-bin 2.9.0-1 (+55 0.18) 
+    A distributed anonymous network (pre-compiled binary)
+aur/openarena 0.8.8-4 (+56 0.00) 
+    A violent, sexy, multiplayer first person shooter based on the ioquake3 engine (binary package)
+aur/bintools v0.1.0.r0.366a172-1 (+1 0.28) 
+    suckless and very opinionated binary analysis tools.
+aur/libplist-git 1:2.4.0.r7.g5461eda-1 (+33 0.02) 
+    A library to handle Apple Property List format whereas it's binary or XML
+aur/shellcheck-bin 0.10.0-1 (+61 2.07) 
+    Shell script analysis tool (binary release, static)
+aur/klassy-qt5 6.3.breeze6.3.5-1 (+30 3.12) 
+    Highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
+aur/vdhcoapp-bin 2.0.20-2 (+63 1.64) 
+    Companion application for Video DownloadHelper browser add-on (binary version)
+aur/arm-linux-gnueabihf-binutils 2.44+r94+gfe459e33c676-1 (+63 0.01) 
+    A set of programs to assemble and manipulate binary and object files
+aur/binwalk-git 2.3.8.r36.g686820a-1 (+9 0.00) 
+    Tool for searching a given binary image for embedded files
+aur/thunderbird-beta-bin 140.0b2-1 (+76 0.16) 
+    Standalone Mail/News reader - Bleeding edge binary version
+aur/bin2dec 1.6-2 (+0 0.00) 
+    Converts binary numbers to decimal integers or ASCII text
+aur/bin2cpp 3.0.0-0 (+0 0.00) 
+    bin2cpp: The easiest way to embed small files into a c++ executable. bin2cpp converts text or binary files to C++ files (*.h, *.cpp) for easy access within the code.
+aur/brave-beta-bin 1.80.105-1 (+51 1.61) 
+    Web browser that blocks ads and trackers by default (beta binary release).
+aur/libbinio 1.5-1 (+20 0.00) 
+    Binary I/O C++ class library
+aur/bi 3.4.4.5-1 (+1 0.43) 
+    Binary editor like vI
+aur/klassy 6.3.breeze6.3.5-1 (+30 3.12) 
+    Highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
+aur/mprime-bin 1:30.19.20-1 (+112 0.02) 
+    A GIMPS, distributed computing project client, dedicated to finding Mersenne primes. Precompiled binary version.
+aur/binaryninja-free 5.0.7486-1 (+6 0.59) 
+    An interactive decompiler, disassembler, debugger, and binary analysis platform.
+aur/powershell-bin 7.5.1-1 (+67 0.56) (Installed: 7.2.3-1)
+    A cross-platform automation and configuration tool/framework (binary package)
+aur/binsec 0.10.0-1 (+0 0.00) 
+    Open-source toolset to help improve software security at the binary level
+aur/swift-bin 6.1.2-1 (+90 0.47) 
+    Binary builds of the Swift programming language
+aur/radare2-git 5.6.7.r27627.7821ddb04b-1 (+37 0.00) (Out-of-date: 2024-12-02) 
+    Open-source tools to disasm, debug, analyze and manipulate binary files
+aur/dxvk-bin 2.6.1-1 (+231 2.18) (Out-of-date: 2025-06-10) (Installed: 1.9.4-2)
+    A Vulkan-based compatibility layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine (Windows DLL binary files)
+aur/sabnzbd 4.5.1-1 (+273 0.96) (Installed: 2.3.8-1)
+    A web-interface based binary newsgrabber with NZB file support
+aur/bspwm-git 0.9.10.r51.gaf3bd8b-1 (+79 0.00) 
+    A tiling window manager based on binary space partitioning
+aur/rstudio-desktop-bin 2025.05.0.496-1 (+355 1.17) (Out-of-date: 2025-06-05) 
+    An integrated development environment (IDE) for R (binary from RStudio official repository)
+aur/binaryen-git 119.r60.g0be8d5e07-1 (+3 0.00) 
+    Compiler infrastructure and toolchain library for WebAssembly
+aur/bun 1.2.13-1 (+20 0.64) 
+    Bun is a fast JavaScript all-in-one toolkit. This PKGBUILD builds from source, resulting into a smaller and faster binary depending on your CPU.
+aur/vscodium-bin 1.100.33714-1 (+335 7.35) 
+    Binary releases of VS Code without MS branding/telemetry/licensing.
+aur/libsepol 3.8-1 (+112 0.15) (Out-of-date: 2025-04-14) (Installed: 3.1-1)
+    SELinux binary policy manipulation library
+aur/triton 0.9-1 (+2 0.00) 
+    Dynamic binary analysis framework
+aur/trid 2.24-4 (+13 0.00) 
+    An utility designed to identify file types from their binary signatures
+aur/python2-biplist 1.0.2-1 (+0 0.00) (Out-of-date: 2023-12-01) 
+    binary plist parser/generator for Python
+aur/python-biplist 1.0.3-3 (+2 0.00) 
+    Library for reading/writing binary property lists
+aur/python-simplekv 0.14.1-1 (+0 0.00) (Orphaned) (Installed: 0.14.1-6)
+    A simple key-value store for binary data
+aur/hplip-plugin 3.25.2-1 (+403 0.33) 
+    Binary plugin for HPs hplip printer driver library
+aur/visual-studio-code-bin 1.101.0-1 (+1521 15.58) 
+    Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)
+aur/aura-bin 4.0.8-1 (+181 0.46) 
+    A package manager for Arch Linux and its AUR - Prebuild binary
+aur/kindlegen 2.9-7 (+78 0.47) 
+    cli tool to build eBooks that can be used on Amazon’s Kindle platform (binary)
+aur/brave-bin 1:1.79.123-1 (+881 16.59) 
+    Web browser that blocks ads and trackers by default (binary release)
+aur/pixd 1.0.0-1 (+0 0.00) 
+    Colourful visualization tool for binary files
+aur/bvi 1.4.2-1 (+39 0.06) 
+    A display-oriented editor for binary files operate like 'vi' editor
+aur/bsdiff 4.3-2 (+4 0.57) (Installed: 4.3-14)
+    bsdiff and bspatch are tools for building and applying patches to binary files
+aur/sgn 2.0-1 (+0 0.00) 
+    Polymorphic binary encoder
+aur/bgrep 1.0-1 (+4 0.00) 
+    Binary grep
+aur/bindiff 8-2 (+13 0.00) 
+    A comparison tool for binary files that assists vulnerability researchers and engineers to quickly find differences and similarities in disassembled code.
+aur/binnavi 6.1.0-3 (+8 0.00) (Orphaned) 
+    A binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code
+blackarch/veles 1:637.e65de5a-6 (900.2 KiB 4.2 MiB) [blackarch blackarch-binary blackarch-reversing blackarch-disassembler] 
+    New open source tool for binary data analysis.
+blackarch/angr 1:9.1.11752-6 (7.2 MiB 103.2 MiB) [blackarch blackarch-binary blackarch-disassembler blackarch-reversing] (Installed)
+    The next-generation binary analysis platform from UC Santa Barbaras Seclab.
+blackarch/python-binaryornot 0.4.4-9 (10.6 KiB 25.7 KiB) 
+    Ultra-lightweight pure Python package to check if a file is binary or text.
+blackarch/osslsigncode 676.dd9b812-1 (88.2 KiB 226.3 KiB) [blackarch blackarch-windows blackarch-binary blackarch-automation] 
+    A small tool that implements part of the functionality of the Microsoft tool signtool.exe.
+blackarch/python2-oletools 1:0.60.2-2 (943.1 KiB 3.3 MiB) [blackarch blackarch-binary blackarch-forensic] 
+    Tools to analyze Microsoft OLE2 files.
+blackarch/unifuzzer 5.3385a3b-3 (312.8 KiB 1.6 MiB) [blackarch blackarch-fuzzer blackarch-binary] 
+    A fuzzing tool for closed-source binaries based on Unicorn and LibFuzzer.
+blackarch/python2-frida-tools 11.0.0-4 (190.9 KiB 877.5 KiB) [blackarch blackarch-mobile blackarch-binary blackarch-reversing] 
+    Frida CLI tools.
+blackarch/ld-shatner 4.5c215c4-2 (8.6 KiB 45.0 KiB) [blackarch blackarch-backdoor blackarch-binary] 
+    ld-linux code injector.
+blackarch/plasma-disasm 922.ec7df9b-8 (329.4 KiB 2.0 MiB) [blackarch blackarch-disassembler blackarch-binary blackarch-debugger] 
+    An interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
+blackarch/saruman 2.4be8db5-1 (13.8 KiB 61.0 KiB) [blackarch blackarch-binary blackarch-backdoor blackarch-anti-forensic] 
+    ELF anti-forensics exec, for injecting full dynamic executables into process image (With thread injection).
+blackarch/pe-bear 0.7.1-1 (7.7 MiB 24.9 MiB) [blackarch blackarch-windows blackarch-malware blackarch-binary blackarch-reversing blackarch-disassembler] 
+    A freeware reversing tool for PE files.
+blackarch/wcc 99.08f67cd-1 (4.8 MiB 6.8 MiB) [blackarch blackarch-binary blackarch-misc] (Installed)
+    The Witchcraft Compiler Collection.
+blackarch/objdump2shellcode 28.c2d6120-1 (8.6 KiB 49.0 KiB) [blackarch blackarch-binary blackarch-misc] 
+    A tool I have found incredibly useful whenever creating custom shellcode.
+blackarch/loadlibrary 104.c40033b-1 (2.6 MiB 6.7 MiB) [blackarch blackarch-binary] 
+    Porting Windows Dynamic Link Libraries to Linux.
+blackarch/leena 2.5119f56-1 (8.2 MiB 85.2 MiB) [blackarch blackarch-binary blackarch-code-audit] 
+    Symbolic execution engine for JavaScript
+blackarch/jwscan 7.874b3a5-2 (9.3 MiB 10.6 MiB) [blackarch blackarch-reversing blackarch-binary] 
+    Scanner for Jar to EXE wrapper like Launch4j, Exe4j, JSmooth, Jar2Exe.
+blackarch/klee 2.1-2 (1.9 MiB 7.3 MiB) [blackarch blackarch-binary blackarch-reversing blackarch-debugger] 
+    A symbolic virtual machine built on top of the LLVM compiler infrastructure.
+blackarch/justdecompile 22018-2 (646.9 KiB 5.4 MiB) [blackarch blackarch-windows blackarch-decompiler blackarch-binary blackarch-reversing] 
+    The decompilation engine of JustDecompile.
+blackarch/python-biplist 1.0.3-8 (27.6 KiB 135.4 KiB) 
+    A binary plist parser/generator for Python.
+blackarch/triton 1:4291.e312eafc-1 (1.4 MiB 12.6 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    A Dynamic Binary Analysis (DBA) framework.
+blackarch/python2-capstone 4.0.1-4 (1.0 MiB 10.1 MiB) [blackarch blackarch-disassembler blackarch-reversing] 
+    A disassembly framework with the target of becoming the ultimate disasm engine for binary analysis and reversing in the security community.
+blackarch/ida-free 8.4.240527-1 (79.2 MiB 164.7 MiB) [blackarch blackarch-reversing blackarch-disassembler blackarch-decompiler blackarch-binary] 
+    Freeware version of the world's smartest and most feature-full disassembler.
+blackarch/hercules-payload 222.2607a3a-1 (1.7 MiB 5.5 MiB) [blackarch blackarch-binary blackarch-windows blackarch-backdoor] 
+    A special payload generator that can bypass all antivirus software.
+blackarch/python2-bintrees 2.2.0-2 (29.4 KiB 201.3 KiB) 
+    Package provides Binary-, RedBlack- and AVL-Trees in Python and Cython.
+blackarch/hachoir-core 1.3.3-2 (114.9 KiB 742.0 KiB) 
+    A library written in Python which allows to see and edit a binary files field per field.
+blackarch/frida-ios-dump 53.56e99b2-3 (11.1 KiB 28.6 KiB) [blackarch blackarch-mobile blackarch-reversing blackarch-binary] 
+    Pull decrypted ipa from jailbreak device.
+blackarch/amoco 1:v2.9.11.r4.g3e36c52-1 (2.0 MiB 7.2 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    Yet another tool for analysing binaries.
+blackarch/quickscope 529.ca1676a-1 (1.1 MiB 6.9 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    Statically analyze windows, linux, osx, executables and also APK files.
+blackarch/syringe 12.79a703e-2 (8.0 KiB 21.6 KiB) [blackarch blackarch-backdoor blackarch-binary blackarch-windows] 
+    A General Purpose DLL & Code Injection Utility.
+blackarch/python2-binaryornot 0.4.4-9 (9.5 KiB 24.2 KiB) 
+    Ultra-lightweight pure Python package to check if a file is binary or text.
+blackarch/expimp-lookup 4.79a96c7-2 (11.5 KiB 90.0 KiB) [blackarch blackarch-binary blackarch-recon] 
+    Looks for all export and import names that contain a specified string in all Portable Executable in a directory tree.
+blackarch/exe2image 1.1-1 (14.2 KiB 33.0 KiB) [blackarch blackarch-backdoor blackarch-binary] 
+    A simple utility to convert EXE files to JPEG images and vice versa.
+blackarch/python-viv-utils 0.8.0-1 (30.5 KiB 111.4 KiB) 
+    Utilities for binary analysis using vivisect.
+blackarch/eresi 1291.4769c175-3 (1.9 MiB 10.2 MiB) [blackarch blackarch-binary blackarch-reversing blackarch-debugger blackarch-disassembler] 
+    The ERESI Reverse Engineering Software Interface.
+blackarch/ecfs 305.1758063-1 (52.1 KiB 246.0 KiB) [blackarch blackarch-binary] 
+    Extended core file snapshot format.
+blackarch/swftools 0.9.2-8 (1.7 MiB 4.7 MiB) [blackarch blackarch-reversing blackarch-binary blackarch-webapp] 
+    A collection of SWF manipulation and creation utilities.
+blackarch/python-ropper 1.9.10-1 (108.0 KiB 828.0 KiB) 
+    Show information about binary files and find gadgets to build rop chains for different architectures
+blackarch/drozer 2.4.4-11 (25.6 MiB 37.8 MiB) [blackarch blackarch-mobile blackarch-scanner blackarch-fuzzer] 
+    A security testing framework for Android - Precompiled binary from official repository.
+blackarch/rp 138.3a54a7c-1 (589.3 KiB 2.1 MiB) [blackarch blackarch-exploitation blackarch-binary] 
+    A full-cpp written tool that aims to find ROP sequences in PE/Elf/Mach-O x86/x64 binaries.
+blackarch/dnspy 6.1.8-2 (4.0 MiB 29.5 MiB) [blackarch blackarch-windows blackarch-decompiler blackarch-binary blackarch-reversing] 
+    .NET debugger and assembly editor.
+blackarch/pepper 18.9dfcade-7 (898.9 KiB 7.3 MiB) [blackarch blackarch-malware blackarch-reversing blackarch-binary] 
+    An open source script to perform malware static analysis on Portable Executable.
+blackarch/wxhexeditor 733.f439d8f-5 (591.8 KiB 2.1 MiB) [blackarch blackarch-binary blackarch-misc] 
+    A free hex editor / disk editor for Linux, Windows and MacOSX.
+blackarch/pe-sieve 0.4.1-1 (733.3 KiB 2.0 MiB) [blackarch blackarch-windows blackarch-malware blackarch-binary] 
+    Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
+blackarch/python-bintrees 2.2.0-5 (36.9 KiB 223.6 KiB) (Installed)
+    Package provides Binary-, RedBlack- and AVL-Trees.
+blackarch/packerid 16.bc54e6d-4 (111.2 KiB 1005.5 KiB) [blackarch blackarch-binary blackarch-packer blackarch-reversing] 
+    Script which uses a PEiD database to identify which packer (if any) is being used by a binary.
+blackarch/syms2elf 12.329c2ce-3 (19.4 KiB 64.3 KiB) [blackarch blackarch-reversing blackarch-disassembler blackarch-binary] 
+    A plugin for Hex-Ray's IDA Pro and radare2 to export the symbols recognized to the ELF symbol table.
+blackarch/oledump 0.0.77-5 (163.6 KiB 1.3 MiB) [blackarch blackarch-binary blackarch-malware] 
+    Analyze OLE files (Compound File Binary Format). These files contain streams of data. This tool allows you to analyze these streams.
+blackarch/python2-pybinaryedge 0.5-7 (12.4 KiB 72.5 KiB) 
+    Python 3 Wrapper for the binary edge API https://www.binaryedge.io/.
+blackarch/python-peid 2.2.1-2 (361.4 KiB 3.8 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    Python implementation of the Packed Executable iDentifier (PEiD).
+blackarch/de4dot 2090.b7d5728-1 (1019.3 KiB 6.2 MiB) [blackarch blackarch-windows blackarch-unpacker blackarch-binary blackarch-reversing] 
+    .NET deobfuscator and unpacker.
+blackarch/malscan 5.773505a-3 (145.3 KiB 727.1 KiB) [blackarch blackarch-malware blackarch-binary] 
+    A Simple PE File Heuristics Scanner.
+blackarch/python2-hexdump 3.3-4 (12.1 KiB 48.2 KiB) 
+    Dump binary data to hex format and restore from there.
+blackarch/python-oletools 1:0.60.2-2 (1.0 MiB 4.4 MiB) [blackarch blackarch-binary blackarch-forensic] 
+    Tools to analyze Microsoft OLE2 files.
+blackarch/exescan 1.ad993e3-5 (64.0 KiB 641.2 KiB) [blackarch blackarch-binary] 
+    A tool to detect anomalies in PE (Portable Executable) files.
+blackarch/smap 24.3ed1ac7-1 (17.8 KiB 90.0 KiB) [blackarch blackarch-exploitation blackarch-binary] 
+    Shellcode mapper - Handy tool for shellcode analysis.
+blackarch/chankro 21.7b6e844-3 (18.9 KiB 49.7 KiB) [blackarch blackarch-webapp blackarch-exploitation] 
+    Tool that generates a PHP capable of run a custom binary (like a meterpreter) or a bash script (p.e. reverse shell) bypassing disable_functions & open_basedir).
+blackarch/cminer 25.d766f7e-1 (11.2 KiB 61.0 KiB) [blackarch blackarch-binary blackarch-windows] 
+    A tool for enumerating the code caves in PE files.
+blackarch/lazydroid 25.0f559ec-1 (26.3 MiB 92.8 MiB) [blackarch blackarch-mobile blackarch-automation blackarch-binary] 
+    Tool written as a bash script to facilitate some aspects of an Android Assessment
+blackarch/python2-distorm 3.5.2-1 (60.5 KiB 219.8 KiB) 
+    The goal of diStorm3 is to decode x86/AMD64 binary streams and return a structure that describes each instruction.
+blackarch/truegaze 117.c3f26bc-8 (27.2 KiB 100.9 KiB) [blackarch blackarch-mobile blackarch-binary] 
+    Static analysis tool for Android/iOS apps focusing on security issues outside the source code.
+blackarch/jpegdump 0.0.7-3 (16.5 KiB 56.9 KiB) [blackarch blackarch-binary blackarch-forensic] 
+    Tool to analyzse JPEG images Reads binary files and parses the JPEG markers inside them.
+blackarch/python2-cle 7.8.9.26-1 (151.0 KiB 1.0 MiB) 
+    Loads Everything (at least, may binary formats!) and provides a Pythonic interface to clelyze what they are and what they would look like in memory.
+blackarch/pwdump 7.1-6 (415.4 KiB 1.1 MiB) [blackarch blackarch-windows blackarch-cracker] 
+    Extracts the binary SAM and SYSTEM file from the filesystem and then the hashes.
+blackarch/hollows-hunter 0.4.1-1 (829.3 KiB 2.2 MiB) [blackarch blackarch-windows blackarch-malware blackarch-binary] 
+    Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
+blackarch/python2-biplist 1.0.3-8 (20.5 KiB 107.4 KiB) 
+    A binary plist parser/generator for Python.
+blackarch/haystack 1823.c178b5a-1 (232.9 KiB 1.9 MiB) [blackarch blackarch-binary blackarch-forensic] 
+    A Python framework for finding C structures from process memory - heap analysis - Memory structures forensics.
+blackarch/trid 2.24-6 (370.5 KiB 1005.1 KiB) [blackarch blackarch-forensic blackarch-binary] 
+    An utility designed to identify file types from their binary signatures.
+blackarch/gadgetinspector 6.ac7832d-1 (3.2 MiB 3.7 MiB) [blackarch blackarch-decompiler blackarch-binary] 
+    A byte code analyzer for finding deserialization gadget chains in Java applications.
+blackarch/python2-binplist 0.1.4-10 (20.9 KiB 104.3 KiB) 
+    A binary plist parser.
+blackarch/avet 560.6da43bf-1 (3.9 MiB 4.6 MiB) [blackarch blackarch-binary blackarch-backdoor blackarch-automation] 
+    AntiVirus Evasion Tool.
+blackarch/setowner 1.1-1 (13.3 KiB 48.0 KiB) [blackarch blackarch-windows blackarch-binary] 
+    Allows you to set file ownership to any account, as long as you have the "Restore files and directories" user right.
+blackarch/periscope 3.2-2 (153.4 KiB 376.5 KiB) [blackarch blackarch-windows blackarch-forensic blackarch-binary] 
+    A PE file inspection tool.
+blackarch/python-zebracorn 0.0.1-5 (1.5 MiB 11.8 MiB) 
+    A Unicorn CPU emulator fork customized for the zelos binary emulator.
+blackarch/evilize 0.2-2 (39.6 KiB 118.8 KiB) [blackarch blackarch-cracker blackarch-binary blackarch-crypto] 
+    Tool to create MD5 colliding binaries.
+blackarch/python-pybinaryedge 0.5-7 (15.2 KiB 75.5 KiB) 
+    Python 3 Wrapper for the binary edge API https://www.binaryedge.io/.
+blackarch/elfparser 7.39d21ca-2 (277.0 KiB 938.0 KiB) [blackarch blackarch-binary] 
+    Cross Platform ELF analysis.
+blackarch/python-simplekv 0.14.1-6 (60.7 KiB 349.8 KiB) (Installed)
+    A key-value storage for binary data, support many backends.
+blackarch/ifuzz 1.0-1 (16.1 KiB 73.0 KiB) [blackarch blackarch-fuzzer] 
+    A binary file fuzzer with several options.
+blackarch/python2-construct 2.9.45-5 (97.6 KiB 959.8 KiB) 
+    A powerful declarative parser/builder for binary data.
+blackarch/imagejs 56.a442f94-3 (20.1 KiB 54.7 KiB) [blackarch blackarch-binary blackarch-webapp] 
+    Small tool to package javascript into a valid image file.
+blackarch/python-frida-tools 11.0.0-4 (248.7 KiB 1.1 MiB) [blackarch blackarch-mobile blackarch-binary blackarch-reversing] (Installed)
+    Frida CLI tools.
+blackarch/stringsifter 39.33c0cd5-4 (1.8 MiB 2.9 MiB) [blackarch blackarch-binary blackarch-forensic] 
+    Machine learning tool that automatically ranks strings based on their relevance for malware analysis.
+blackarch/darkarmour 4.f10228a-7 (1.1 MiB 29.2 MiB) [blackarch blackarch-windows blackarch-malware] 
+    Store and execute an encrypted windows binary from inside memory, without a single bit touching disk.
+blackarch/ms-sys 2.8.0-1 (58.9 KiB 195.2 KiB) [blackarch blackarch-backdoor blackarch-binary blackarch-forensic] (Installed: 1:2.8.0-1)
+    A tool to write Win9x- master boot records (mbr) under linux - RTM!
+blackarch/sea 103.9aca1c8-1 (1.5 MiB 3.9 MiB) [blackarch blackarch-malware blackarch-binary] 
+    A tool to help to create exploits of binary programs.
+blackarch/detect-it-easy 3:3.10-1 (7.2 MiB 31.0 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    A program for determining types of files.
+blackarch/chipsec 5:1.13.13.r0.gd596e5e-1 (3.9 MiB 15.2 MiB) [blackarch blackarch-hardware blackarch-binary blackarch-forensic blackarch-scanner blackarch-fuzzer] (Installed)
+    Platform Security Assessment Framework.
+blackarch/proctal 482.67bf7e8-1 (76.2 KiB 287.9 KiB) [blackarch blackarch-binary blackarch-misc] 
+    Provides a command line interface and a C library to manipulate the address space of a running program on Linux.
+blackarch/zelos 272.506554d-8 (4.3 MiB 29.4 MiB) [blackarch blackarch-binary] 
+    A comprehensive binary emulation and instrumentation platform.
+blackarch/redress v1.2.2.r0.gfe38d96-1 (3.0 MiB 10.0 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    A tool for analyzing stripped Go binaries.
+blackarch/ppee 1.12-1 (395.4 KiB 1.0 MiB) [blackarch blackarch-windows blackarch-malware blackarch-reversing blackarch-binary] 
+    A Professional PE file Explorer for reversers, malware researchers and those who want to statically inspect PE files in more details.
+blackarch/dwarf 1084.fd859ae-4 (703.8 KiB 4.2 MiB) [blackarch blackarch-binary blackarch-debugger blackarch-disassembler blackarch-exploitation blackarch-mobile blackarch-reversing] (Installed)
+    Full featured multi arch/os debugger built on top of PyQt5 and frida.
+blackarch/dotpeek 2021.3.3-1 (34.5 MiB 36.0 MiB) [blackarch blackarch-windows blackarch-decompiler blackarch-binary blackarch-reversing] 
+    Free .NET Decompiler and Assembly Browser.
+blackarch/analyzepesig 0.0.0.5-7 (93.7 KiB 242.4 KiB) [blackarch blackarch-windows blackarch-binary blackarch-forensic] 
+    Analyze digital signature of PE file.
+blackarch/angr-py2 1:7.8.9.26-5 (1.2 MiB 9.5 MiB) [blackarch blackarch-binary blackarch-disassembler blackarch-reversing] 
+    The next-generation binary analysis platform from UC Santa Barbaras Seclab.
+blackarch/qbdi v0.11.0.r63.g6826871-1 (1.3 MiB 7.4 MiB) [blackarch blackarch-binary] 
+    A Dynamic Binary Instrumentation framework based on LLVM.
+blackarch/cpp2il 1:2022.0.7.r17.g20ccab2-1 (33.4 MiB 114.2 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    A tool to reverse unity's IL2PP toolchain
+blackarch/sherlocked 1.f190c2b-2 (478.2 KiB 5.6 MiB) [blackarch blackarch-packer blackarch-binary blackarch-crypto blackarch-backdoor] 
+    Universal script packer-- transforms any type of script into a protected ELF executable, encrypted with anti-debugging.
+blackarch/angr-management 9.1.11752-7 (1.5 MiB 6.4 MiB) [blackarch blackarch-binary blackarch-disassembler blackarch-reversing] (Installed)
+    This is the GUI for angr.
+blackarch/python-binplist 0.1.4-10 (27.0 KiB 120.5 KiB) 
+    A binary plist parser.
+blackarch/peframe 135.70683b6-8 (323.1 KiB 4.0 MiB) [blackarch blackarch-malware blackarch-binary blackarch-reversing] 
+    Tool to perform static analysis on (portable executable) malware.
+blackarch/python-crccheck 1.3.0-6 (34.0 KiB 240.3 KiB) 
+    Classes to calculate CRCs and checksums from binary data.
+blackarch/melkor 1.0-2 (260.8 KiB 413.0 KiB) [blackarch blackarch-fuzzer blackarch-binary] 
+    An ELF fuzzer that mutates the existing data in an ELF sample given to create orcs (malformed ELFs), however, it does not change values randomly (dumb fuzzing), instead, it fuzzes certain metadata with semi-valid values through the use of fuzzing rules (knowledge base).
+blackarch/expose 1110.30264af-1 (92.6 MiB 374.3 MiB) [blackarch blackarch-binary blackarch-reversing blackarch-code-audit] 
+    A Dynamic Symbolic Execution (DSE) engine for JavaScript
+blackarch/gdbgui 1:437.be95217-5 (938.1 KiB 4.5 MiB) [blackarch blackarch-debugger blackarch-binary] 
+    Browser-based gdb frontend using Flask and JavaScript to visually debug C, C++, Go, or Rust.
+blackarch/hopper 5.19.4-1 (21.7 MiB 66.2 MiB) [blackarch blackarch-reversing blackarch-disassembler blackarch-decompiler blackarch-binary] 
+    Reverse engineering tool that lets you disassemble, decompile and debug your applications.
+blackarch/recomposer 2.90f85ed-3 (11.8 KiB 42.2 KiB) [blackarch blackarch-automation blackarch-binary] 
+    Randomly changes Win32/64 PE Files for 'safer' uploading to malware and sandbox sites.
+blackarch/androguard 3:3.3.5-5 (801.6 KiB 9.0 MiB) [blackarch blackarch-binary blackarch-disassembler blackarch-malware] 
+    Reverse engineering, Malware and goodware analysis of Android applications and more.
+blackarch/xorsearch 1.11.4-1 (15.3 KiB 46.6 KiB) [blackarch blackarch-crypto] 
+    Program to search for a given string in an XOR, ROL or ROT encoded binary file.
+blackarch/plutil 1.6-1 (7.6 KiB 35.0 KiB) [blackarch blackarch-misc] 
+    Converts .plist files between binary and UTF-8 (editable) text formats.
+blackarch/python-bitstring 3.1.9-2 (68.6 KiB 433.8 KiB) (Installed: 4.3.1-1)
+    Simple construction, analysis and modification of binary data.
+blackarch/python2-bitstring 3.1.9-2 (68.0 KiB 482.8 KiB) 
+    Simple construction, analysis and modification of binary data.
+blackarch/dexpatcher 1.7.0-1 (3.3 MiB 3.8 MiB) [blackarch blackarch-mobile blackarch-binary] 
+    Modify Android DEX/APK files at source-level using Java.
+blackarch/soot 3.4.0-1 (13.3 MiB 15.0 MiB) [blackarch blackarch-binary] 
+    A Java Bytecode Analysis and Transformation Framework.
+blackarch/perl-convert-ascii-armour 1.4-15 (8.4 KiB 10.2 KiB) 
+    Converts binary octets into ASCII armoured messages
+blackarch/hex2bin 2.5-2 (35.4 KiB 163.0 KiB) [blackarch blackarch-binary] 
+    Converts Motorola and Intel hex files to binary.
+blackarch/python-frida 15.2.2-5 (17.8 MiB 61.3 MiB) [blackarch blackarch-reversing blackarch-binary] (Installed)
+    Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+blackarch/python2-frida 15.2.2-4 (17.7 MiB 61.3 MiB) [blackarch blackarch-reversing blackarch-binary] (Installed)
+    Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+blackarch/damm 32.60e7ec7-3 (679.6 KiB 12.0 MiB) [blackarch blackarch-malware blackarch-binary blackarch-reversing] 
+    Differential Analysis of Malware in Memory.
+blackarch/objection 1.11.0-11 (253.4 KiB 1.3 MiB) [blackarch blackarch-mobile blackarch-reversing blackarch-binary] 
+    Instrumented Mobile Pentest Framework.
+blackarch/patchkit 37.95dc699-3 (136.9 KiB 829.9 KiB) [blackarch blackarch-binary blackarch-backdoor] 
+    Powerful binary patching from Python.
+blackarch/rbasefind 41.a661118-1 (1.9 MiB 10.6 MiB) [blackarch blackarch-binary] 
+    A firmware base address search tool.
+blackarch/python-mac-alias 2.2.2-3 (21.1 KiB 85.3 KiB) 
+    Generate or read binary Alias and Bookmark records from Python code.
+blackarch/msvpwn 1:65.328921b-1 (6.7 KiB 55.0 KiB) [blackarch blackarch-windows blackarch-binary blackarch-backdoor] 
+    Bypass Windows' authentication via binary patching.
+blackarch/procdump 63.5f23548-1 (29.1 KiB 78.1 KiB) [blackarch blackarch-binary blackarch-misc] 
+    Generate coredumps based off performance triggers.
+blackarch/hyperion-crypter 2.3.1-1 (185.6 KiB 871.3 KiB) [blackarch blackarch-windows blackarch-binary blackarch-crypto] 
+    A runtime encrypter for 32-bit and 64-bit portable executables.
+blackarch/backdoor-factory 1:210.0c53045-3 (366.7 KiB 1.7 MiB) [blackarch blackarch-backdoor blackarch-binary] 
+    Patch win32/64 binaries with shellcode.
+blackarch/bytecode-viewer 1:2.12-1 (52.3 MiB 55.8 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    A Java 8/Android APK Reverse Engineering Suite.
+blackarch/mikrotik-npk 11.d54e97c-4 (5.9 KiB 14.5 KiB) [blackarch blackarch-reversing blackarch-binary blackarch-networking blackarch-packer blackarch-unpacker] 
+    Python tools for manipulating Mikrotik NPK format.
+blackarch/gostringsr2 1.1.2-7 (19.6 KiB 64.9 KiB) [blackarch blackarch-reversing] 
+    Extract strings from a Go binary using radare2.
+blackarch/interrogate 5.eb5f071-1 (27.2 KiB 113.0 KiB) [blackarch blackarch-forensic blackarch-cracker] 
+    A proof-of-concept tool for identification of cryptographic keys in binary material (regardless of target operating system), first and foremost for memory dump analysis and forensic usage.
+blackarch/powerstager 14.0149dc9-8 (67.1 KiB 248.3 KiB) [blackarch blackarch-binary blackarch-backdoor] 
+    A payload stager using PowerShell.
+blackarch/pextractor 0.18b-5 (46.2 KiB 237.0 KiB) [blackarch blackarch-windows blackarch-forensic blackarch-binary] 
+    A forensics tool that can extract all files from an executable file created by a joiner or similar.
+blackarch/dissector 1-3 (10.8 KiB 43.0 KiB) [blackarch blackarch-binary] 
+    This code dissects the internal data structures in ELF files. It supports x86 and x86_64 archs and runs under Linux.
+blackarch/manticore 0.3.7.r73.g88610053-5 (373.1 KiB 1.9 MiB) [blackarch blackarch-binary] 
+    Symbolic execution tool.
+blackarch/radare2-keystone 902.6c9df38-1 (19.2 KiB 150.7 KiB) [blackarch blackarch-reversing blackarch-binary blackarch-disassembler] 
+    Keystone assembler plugins for radare2.
+blackarch/filefuzz 1.0-4 (360.7 KiB 1.2 MiB) [blackarch blackarch-windows blackarch-fuzzer] 
+    A binary file fuzzer for Windows with several options.
+blackarch/radare2-unicorn 902.6c9df38-1 (9.9 KiB 26.4 KiB) [blackarch blackarch-disassembler blackarch-binary blackarch-reversing] 
+    Unicorn Emulator Plugin for radare2.
+blackarch/volafox 143.5b42987-3 (3.9 MiB 55.7 MiB) [blackarch blackarch-forensic blackarch-binary] 
+    Mac OS X Memory Analysis Toolkit.
+blackarch/unstrip 13.05e00c2-11 (11.9 KiB 34.7 KiB) [blackarch blackarch-disassembler blackarch-binary] 
+    ELF Unstrip Tool.
+blackarch/bagbak 316.d35754c-1 (24.2 MiB 78.1 MiB) [blackarch blackarch-mobile blackarch-reversing blackarch-binary] 
+    Yet another frida based App decryptor.
+blackarch/barf 923.9547ef8-9 (566.4 KiB 2.7 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    A multiplatform open source Binary Analysis and Reverse engineering Framework.
+blackarch/dutas 10.37fa3ab-6 (2.2 MiB 5.4 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    Analysis PE file or Shellcode.
+blackarch/manul 197.f525df9-8 (20.6 MiB 140.2 MiB) [blackarch blackarch-fuzzer blackarch-binary] 
+    A coverage-guided parallel fuzzer for open-source and blackbox binaries on Windows, Linux and MacOS.
+blackarch/metame 14.8d583a0-9 (14.6 KiB 35.2 KiB) [blackarch blackarch-binary] 
+    A simple metamorphic code engine for arbitrary executables.
+blackarch/linux-inject 100.268d4e4-1 (170.3 KiB 260.0 KiB) [blackarch blackarch-backdoor blackarch-binary] 
+    Tool for injecting a shared object into a Linux process.
+blackarch/bsdiff 4.3-14 (12.5 KiB 35.5 KiB) [blackarch blackarch-binary blackarch-reversing] (Installed)
+    Tools for building and applying patches to binary files.
+blackarch/amber 256.f6eb2dc-1 (1.3 MiB 3.8 MiB) [blackarch blackarch-binary blackarch-packer blackarch-windows] 
+    Reflective PE packer.
+blackarch/pixd 9.f49add4-1 (205.0 KiB 255.8 KiB) [blackarch blackarch-binary blackarch-misc] 
+    Colourful visualization tool for binary files.
+blackarch/sgn 36.f54fa65-1 (1.2 MiB 3.5 MiB) [blackarch blackarch-binary] 
+    Shikata ga nai encoder ported into go with several improvements.
+blackarch/bvi 1.4.2-1 (69.2 KiB 151.9 KiB) [blackarch blackarch-binary blackarch-misc] 
+    A display-oriented editor for binary files operate like "vi" editor.
+blackarch/dynamorio 9.0.19046-1 (45.1 MiB 361.8 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    A dynamic binary instrumentation framework.
+blackarch/bdfproxy 107.276c367-1 (463.8 KiB 2.9 MiB) [blackarch blackarch-proxy blackarch-binary] 
+    Patch Binaries via MITM: BackdoorFactory + mitmProxy
+blackarch/pintool2 5.1c1af91-4 (27.8 KiB 363.0 KiB) [blackarch blackarch-reversing blackarch-binary] 
+    Improved version of pintool.
+blackarch/binaryninja-demo-debug 4.1.5902-1 (4.4 MiB 35.5 MiB) 
+    Detached debugging symbols for binaryninja-demo
+blackarch/pintool 24.d538a79-3 (26.7 KiB 355.9 KiB) [blackarch blackarch-reversing blackarch-binary] 
+    This tool can be useful for solving some reversing challenges in CTFs events.
+blackarch/mkyara 3.8147f91-9 (31.0 KiB 105.4 KiB) [blackarch blackarch-misc] 
+    Tool to generate YARA rules based on binary code.
+blackarch/pin 3.28.r98749-1 (26.5 MiB 248.6 MiB) [blackarch blackarch-automation blackarch-binary blackarch-reversing] 
+    A dynamic binary instrumentation tool.
+blackarch/viper 2099.fdd7855-5 (13.7 MiB 28.1 MiB) [blackarch blackarch-disassembler blackarch-binary blackarch-malware] 
+    A Binary analysis framework.
+blackarch/binaryninja-debug 5.0.7486-1 (4.8 MiB 40.0 MiB) 
+    Detached debugging symbols for binaryninja
+blackarch/bgrep 27.38b746f-1 (7.9 KiB 18.5 KiB) [blackarch blackarch-binary] 
+    Binary grep.
+blackarch/binaryninja-python 13.83f59f7-7 (971.6 KiB 1.7 MiB) [blackarch blackarch-binary] 
+    Binary Ninja prototype written in Python.
+blackarch/binwally 4.0aabd8b-4 (3.7 KiB 4.9 KiB) [blackarch blackarch-binary] 
+    Binary and Directory tree comparison tool using the Fuzzy Hashing concept (ssdeep).
+blackarch/binflow 5.7fb02a9-1 (343.2 KiB 2.2 MiB) [blackarch blackarch-binary blackarch-debugger] 
+    POSIX function tracing. Much better and faster than ftrace.
+blackarch/binnavi 6.1.0-3 (50.2 MiB 57.2 MiB) [blackarch blackarch-disassembler blackarch-reversing blackarch-binary] 
+    A binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
+blackarch/bindead 4504.67019b97b-2 (5.2 MiB 5.9 MiB) [blackarch blackarch-binary blackarch-debugger blackarch-reversing] 
+    A static analysis tool for binaries
+blackarch/bindiff 6.0.0-1 (25.2 MiB 52.7 MiB) [blackarch blackarch-binary blackarch-reversing] 
+    A comparison tool for binary files, that assists vulnerability researchers and engineers to quickly find differences and similarities in disassembled code.
+blackarch/binaryninja 5.0.7486-1 (347.1 MiB 738.3 MiB) [blackarch blackarch-reversing blackarch-binary] 
+    A new kind of reversing platform (demo version).
+extra/haskell-cereal 0.5.8.3-3 (185.0 KiB 1.4 MiB) (Installed)
+    A binary serialization library
+extra/avr-binutils 2.43-1 (2.5 MiB 11.9 MiB) (Installed)
+    A set of programs to assemble and manipulate binary and object files for the AVR architecture
+extra/haskell-store-core 0.4.4.7-35 (49.1 KiB 224.5 KiB) 
+    Fast and lightweight binary serialization
+extra/haskell-timezone-olson 0.2.1-3 (101.7 KiB 447.8 KiB) 
+    Pure Haskell parser and renderer for binary Olson timezone files
+extra/sh4-elf-binutils 2.42-1 (1.9 MiB 12.1 MiB) 
+    A set of programs to assemble and manipulate binary and object files for the SuperH SH 4 (bare-metal) target
+extra/kpackage 6.14.0-1 (341.5 KiB 960.5 KiB) [kf6] (Installed)
+    Framework that lets applications manage user installable packages of non-binary assets
+extra/lua52-vstruct 2.2.0-1 (29.4 KiB 77.4 KiB) 
+    Lua library to manipulate binary data
+extra/lua53-vstruct 2.2.0-1 (29.4 KiB 77.4 KiB) 
+    Lua library to manipulate binary data
+extra/haskell-binary-tagged 0.3.1-242 (23.2 KiB 68.6 KiB) 
+    Tagged binary serialisation.
+extra/or1k-elf-binutils 2.42-1 (1.8 MiB 10.2 MiB) 
+    A set of programs to assemble and manipulate binary and object files for the OpenRISC 1000 (bare-metal) target
+extra/aarch64-linux-gnu-binutils 2.43-1 (5.3 MiB 39.9 MiB) (Installed)
+    A set of programs to assemble and manipulate binary and object files for the ARM64 target
+extra/sops 3.10.2-1 (10.0 MiB 43.2 MiB) 
+    Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats
+extra/p8-platform 2.1.0.1-5 (67.6 KiB 271.6 KiB) (Installed)
+    Platform support library used by libCEC and binary add-ons for Kodi
+extra/haskell-data-bword 0.1.0.2-3 (23.0 KiB 98.7 KiB) 
+    Extra operations on binary words of fixed length
+extra/hexpatch 1.12.1-1 (4.8 MiB 24.9 MiB) 
+    A binary patcher and editor with a TUI
+extra/ghex-docs 46.2-2 (1.0 MiB 2.1 MiB) 
+    A simple binary editor for the Gnome desktop (documentation)
+extra/sh2-elf-binutils 2.42-1 (1.9 MiB 12.1 MiB) 
+    A set of programs to assemble and manipulate binary and object files for the SuperH SH 2 (bare-metal) target
+extra/texlive-pictures 2025.2-1 (16.6 MiB 77.9 MiB) [texlive] (Installed)
+    TeX Live - Graphics, pictures, diagrams
+extra/gf2x 1.3.0-3 (36.5 KiB 128.3 KiB) 
+    A library for multiplying polynomials over the binary field
+extra/kpackage5 5.116.0-1 (335.3 KiB 1003.4 KiB) [kf5] (Installed)
+    Framework that lets applications manage user installable packages of non-binary assets
+extra/nds32le-elf-binutils 2.42-1 (1.8 MiB 11.0 MiB) 
+    A set of programs to assemble and manipulate binary and object files for the Andes 32 little-endian (bare-metal) target
+extra/haskell-vector-binary-instances 0.2.5.2-149 (26.9 KiB 131.3 KiB) (Installed: 0.2.5.2-148)
+    Instances of Data.Binary for vector
+extra/ghc-libs 9.4.8-1 (16.4 MiB 123.2 MiB) (Installed)
+    The Glasgow Haskell Compiler - Dynamic Libraries
+extra/ruby-base64 0.2.0-1 (7.3 KiB 16.9 KiB) (Installed)
+    Support for encoding and decoding binary data using a Base64 representation
+extra/haskell-serialise 0.2.6.1-83 (213.8 KiB 1.5 MiB) 
+    A binary serialisation library for Haskell values
+extra/haskell-data-binary-ieee754 0.4.4-23 (17.5 KiB 67.3 KiB) 
+    Parser/Serialiser for IEEE-754 floating-point values
+extra/fq 0.15.0-1 (3.6 MiB 12.3 MiB) (Installed)
+    Tool, language and decoders for inspecting binary data
+extra/cargo-generate-rpm 0.16.0-1 (1.0 MiB 3.1 MiB) 
+    Cargo helper command to generate a binary RPM package
+extra/haskell-pgp-wordlist 0.1.0.3-265 (148.8 KiB 907.9 KiB) 
+    Translate between binary data and a human-readable collection of words.
+extra/ruby-ascii85 2.0.1-4 (14.4 KiB 43.1 KiB) 
+    Methods for encoding/decoding Adobe’s binary-to-text encoding of the same name
+extra/ppc64le-elf-binutils 2.42-1 (3.6 MiB 22.9 MiB) 
+    A set of programs to assemble and manipulate binary and object files for the PowerPC 64 LE (bare-metal) target
+extra/wabt 1.0.37-1 (1.6 MiB 14.5 MiB) 
+    The WebAssembly Binary Toolkit: a suite of tools for WebAssembly
+extra/ruby-rake-compiler-dock 1.9.1-3 (42.1 KiB 174.2 KiB) 
+    Easy to use and reliable cross compiler environment for building Windows, Linux, Mac and JRuby binary gems
+extra/php-igbinary 3.2.16-2 (41.4 KiB 101.5 KiB) 
+    A drop in replacement for the standard php serializer
+extra/haskell-postgresql-binary 0.12.5-167 (144.6 KiB 792.5 KiB) 
+    Encoders and decoders for the PostgreSQL's binary format
+extra/vector-blf 2.4.2-1 (1.0 MiB 13.9 MiB) 
+    A library to access Binary Log File (BLF) files from Vector Informatik
+extra/lua-vstruct 2.2.0-1 (29.4 KiB 77.4 KiB) 
+    Lua library to manipulate binary data
+extra/arm-none-eabi-binutils 2.43-1 (3.5 MiB 18.1 MiB) (Installed)
+    A set of programs to assemble and manipulate binary and object files for the ARM EABI (bare-metal) target
+extra/uudeview 20230502-3 (146.5 KiB 466.0 KiB) (Installed)
+    UUDeview helps transmitting & receiving binary files using mail or newsgroups. Includes library files.
+extra/python-ubjson 0.16.1-8 (48.8 KiB 185.8 KiB) 
+    Universal Binary JSON draft-12 serializer for Python
+extra/rebuilderd-tools 0.23.1-1 (2.4 MiB 7.7 MiB) (Installed)
+    Independent verification system of binary packages (tools package)
+extra/python-hachoir 3.3.0-1 (1.3 MiB 8.1 MiB) 
+    A Python library to view and edit a binary stream field by field
+extra/ropper 1.13.13-1 (193.5 KiB 1.3 MiB) 
+    Show information about binary files and find gadgets to build rop chains for different architectures
+extra/haskell-data-dword 0.3.2.1-115 (422.4 KiB 3.1 MiB) 
+    Stick two binary words together to get a bigger one
+extra/python-construct 2.10.70-4 (140.2 KiB 1.1 MiB) 
+    A powerful declarative parser/builder for binary data
+extra/rebuilderd 0.23.1-1 (4.1 MiB 15.9 MiB) (Installed)
+    Independent verification system of binary packages (server package)
+extra/lm32-elf-binutils 2.42-1 (1.8 MiB 10.2 MiB) 
+    A set of programs to assemble and manipulate binary and object files for the LatticeMico32 (bare-metal) target
+extra/python-kaitaistruct 0.10-7 (15.7 KiB 68.9 KiB) (Installed)
+    Kaitai Struct declarative parser generator for binary data: runtime library for Python
+extra/python-binaryornot 0.4.4-11 (13.2 KiB 37.3 KiB) 
+    Ultra-lightweight pure Python package to check if a file is binary or text
+extra/perl-mime-tools 5.515-2 (176.8 KiB 402.4 KiB) (Installed)
+    Parses streams to create MIME entities
+extra/haskell-store 0.7.20-41 (559.8 KiB 4.9 MiB) 
+    Fast binary serialization
+extra/repod 0.3.1-3 (211.5 KiB 1.6 MiB) 
+    Tooling to maintain binary package repositories
+extra/haskell-bytes 0.17.4-41 (199.0 KiB 1.6 MiB) 
+    Sharing code for serialization between binary and cereal
+extra/haskell-ghc-trace-events 0.1.2.9-2 (18.2 KiB 65.1 KiB) 
+    Faster traceEvent and traceMarker, and binary object logging for eventlog
+extra/haskell-binary-instances 1.0.4-72 (64.0 KiB 353.9 KiB) 
+    Orphan instances for binary
+extra/haskell-binary-orphans 1.0.5-32 (16.8 KiB 47.5 KiB) (Installed: 1.0.5-31)
+    Orphan instances for binary
+extra/lua51-vstruct 2.2.0-1 (29.4 KiB 77.4 KiB) 
+    Lua library to manipulate binary data
+extra/php-legacy-igbinary 3.2.16-2 (41.3 KiB 101.5 KiB) 
+    A drop in replacement for the standard php serializer
+extra/haskell-binary-parser 0.5.7.6-36 (39.8 KiB 140.4 KiB) 
+    An efficient but limited parser API specialised to bytestrings
+extra/cudd 3.0.0-2 (299.7 KiB 868.1 KiB) 
+    A package for the manipulation of Binary Decision Diagrams (BDDs) and similar structures
+extra/geoipupdate 7.1.0-1 (2.2 MiB 6.4 MiB) (Installed)
+    Update GeoIP2 and GeoIP Legacy binary databases from MaxMind
+extra/python-nskeyedunarchiver 1.5.1-1 (19.7 KiB 53.7 KiB) 
+    Library for decoding Apple's text or binary plist files
+extra/embedded-mono-img 0.2.0-1 (818.5 KiB 2.3 MiB) 
+    Convert .png images to raw binary for embedded_graphics
+extra/haskell-binary-conduit 1.3.1-495 (23.6 KiB 80.1 KiB) (Installed: 1.3.1-494)
+    Data serialization/deserialization conduit library
+extra/python-hexdump 3.3-10 (15.0 KiB 54.1 KiB) (Installed)
+    Library and tool to work with hex and binary data
+extra/python-filebytes 0.10.2-9 (59.4 KiB 338.2 KiB) 
+    Library to read and edit executable binary files
+extra/poke 4.3-1 (850.4 KiB 2.7 MiB) 
+    Interactive, extensible editor for binary data.
+extra/afl++ 4.32c-1 (807.3 KiB 3.3 MiB) 
+    instrumentation-driven fuzzer for binary format
+extra/haskell-cborg 0.2.9.0-98 (290.8 KiB 1.7 MiB) 
+    Concise Binary Object Representation (CBOR)
+extra/haskell-bytestring-tree-builder 0.2.7.10-141 (36.2 KiB 112.8 KiB) 
+    A very efficient ByteString builder implementation based on the binary tree
+extra/xdelta3 3.1.0-5 (72.1 KiB 163.6 KiB) (Installed)
+    Diff utility for binary files
+extra/ruby-bindata 2.5.1-2 (141.2 KiB 606.6 KiB) 
+    BinData - Parsing Binary Data in Ruby
+extra/riscv64-linux-gnu-binutils 2.43.1-1 (2.0 MiB 18.0 MiB) [risc-v] (Installed)
+    Assemble and manipulate binary and object files for 32-bit and 64-bit RISC-V
+extra/double-conversion 3.3.1-1 (58.2 KiB 194.2 KiB) (Installed)
+    Binary-decimal and decimal-binary routines for IEEE doubles
+extra/haskell-bin 0.1.3-59 (138.6 KiB 642.9 KiB) 
+    Bin: binary natural numbers.
+extra/qemu-user-static-binfmt 10.0.0-5 (16.7 KiB 56.3 KiB) 
+    Binary format rules for QEMU static user mode emulation
+extra/pacman-bintrans-tools 0.5.0-1 (1.9 MiB 7.4 MiB) 
+    Binary transparency for pacman (sign/monitor tools)
+extra/riscv64-elf-binutils 2.42-1 (2.0 MiB 13.3 MiB) 
+    A set of programs to assemble and manipulate binary and object files for the RISCV64 (bare-metal) target
+extra/riscv32-elf-binutils 2.42-1 (2.0 MiB 13.3 MiB) 
+    A set of programs to assemble and manipulate binary and object files for the RISCV32 (bare-metal) target
+extra/qemu-user-binfmt 10.0.0-5 (16.6 KiB 56.1 KiB) 
+    Binary format rules for QEMU user mode emulation
+extra/haskell-safecopy 0.10.4.2-334 (203.2 KiB 1.2 MiB) (Installed: 0.10.4.2-333)
+    Binary serialization with version control.
+extra/ostree 2025.2-3 (815.9 KiB 4.3 MiB) 
+    Operating system and container binary deployment and upgrades
+extra/ghex 46.2-2 (421.3 KiB 2.2 MiB) [gnome-extra] (Installed)
+    A simple binary editor for the Gnome desktop
+extra/lua51-binaryheap 0.4-3 (5.2 KiB 11.8 KiB) 
+    Binary heap implementation for Lua 5.1
+extra/lua52-binaryheap 0.4-3 (5.2 KiB 11.8 KiB) 
+    Binary heap implementation for Lua 5.2
+extra/lua53-binaryheap 0.4-3 (5.2 KiB 11.8 KiB) 
+    Binary heap implementation for Lua 5.3
+extra/lua-binaryheap 0.4-3 (5.1 KiB 11.8 KiB) 
+    Binary heap implementation for Lua 5.4
+extra/cargo-binstall 1.13.0-1 (5.1 MiB 15.3 MiB) 
+    Binary installation for Rust projects
+extra/haskell-text-binary 0.2.1.1-28 (6.8 KiB 10.5 KiB) 
+    Binary instances for text types
+extra/pacman-bintrans 0.5.0-1 (1.7 MiB 5.4 MiB) 
+    Binary transparency for pacman
+extra/pwninit 3.3.1-2 (1010.7 KiB 2.5 MiB) 
+    Automate starting binary exploit challenges
+extra/libebml 1.4.5-1 (69.8 KiB 266.7 KiB) (Installed)
+    Extensible Binary Meta Language library
+extra/libcbor 0.11.0-1 (42.7 KiB 165.1 KiB) (Installed)
+    C library for parsing and generating CBOR, the general-purpose schema-less binary data format
+extra/libxmlb 0.3.22-1 (151.4 KiB 1.2 MiB) (Installed)
+    Library to help create and query binary XML blobs
+extra/antlr4 4.13.2-1 (1.9 MiB 2.0 MiB) (Installed)
+    Parser generator for reading, processing, executing, or translating structured text or binary files
+extra/rizin 0.7.4-1 (5.8 MiB 23.1 MiB) (Installed)
+    Open-source tools to disasm, debug, analyze and manipulate binary files
+extra/hexer 1.0.6-2 (91.9 KiB 198.9 KiB) (Installed)
+    Multi buffer editor for binary files with vi-like interface
+extra/blosc2 2.17.1-1 (197.3 KiB 983.0 KiB) 
+    A fast, compressed, persistent binary data store library for C.
+extra/bspwm 0.9.10-4 (106.7 KiB 251.3 KiB) 
+    Tiling window manager based on binary space partitioning
+extra/buddy 2.4-7 (59.9 KiB 171.3 KiB) 
+    Binary Decision Diagram Library
+extra/radare2 5.9.8-1 (7.7 MiB 30.9 MiB) (Installed)
+    Open-source tools to disasm, debug, analyze and manipulate binary files
+extra/bitsery 5.2.4-1 (42.1 KiB 288.2 KiB) 
+    Header only C++ binary serialization library
+extra/binocle 0.3.2-1 (3.5 MiB 10.4 MiB) 
+    A graphical tool to visualize binary data
+extra/binwalk 3.1.0-1 (1.3 MiB 3.7 MiB) (Installed)
+    Tool for searching a given binary image for embedded files
+extra/bingrep 0.11.0-2 (873.7 KiB 2.5 MiB) 
+    Cross-platform binary parser and colorizer
+extra/emscripten 4.0.10-1 (361.3 MiB 1.1 GiB) (Installed)
+    Compile C and C++ into highly-optimizable JavaScript for the web
+extra/binaryen 1:123-1 (6.0 MiB 29.5 MiB) 
+    Compiler infrastructure and toolchain library for WebAssembly, in C++
+core/binutils 2.44+r94+gfe459e33c676-1 (7.7 MiB 41.8 MiB) (Installed)
+    A set of programs to assemble and manipulate binary and object files
+extra/binary 5.2-3 (35.7 KiB 157.5 KiB) 
+    Simple app to convert between different hexadecimal and binary numbers
+aur/caido-cli 0.48.1-1 (+1 0.00) 
+    A lightweight web security auditing toolkit.
+aur/caido-desktop 0.48.1-1 (+4 0.00) 
+    A lightweight web security auditing toolkit.
